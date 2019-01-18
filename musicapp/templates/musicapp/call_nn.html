@@ -1,0 +1,50 @@
+<html>
+<head>
+<title> User Prediction</title>
+</head>
+
+
+	<body>
+
+		<h1 align="center" style="color: blue;background: yellow">User Prediction</h1>
+		<hr size=" 10px" style="border-radius:30px">
+
+		<p>
+			<h1>
+			Your File is uploaded and the proper conversion is done. 
+			<br> 
+		</h1>
+
+		<h3>want to apply Machine learning model on the data File : {{file}}
+			</h3>
+			<br>
+		</p>
+		<table>
+			<tr>
+			<td width="30%">
+						<form action="nn" enctype="multipart/form-data" method="POST" >
+						{% csrf_token %}
+
+						<input type="hidden" value="{{file}}" name="file">
+						<input type="submit" value="Naive Bayes"  style="height:80px" >
+						</form>
+			</td>
+			<td width="30%" >
+			</td>
+
+			<td> 
+						<form action="ann" enctype="multipart/form-data" method="POST" >
+						{% csrf_token %}
+
+						<input type="hidden" value="{{file}}" name="file">
+
+						<input type="submit" value="Artificial neural network" style="height:80px">
+
+						</form>
+			</td>
+			</tr>
+		</table>
+		
+		
+	</body>
+</html>

@@ -1,0 +1,917 @@
+02/03/17	9:35 pm	Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.	
+02/03/17	9:35 pm	Shobhit	
+02/03/17	9:37 pm	PSIT Shivam tripathi	
+02/03/17	9:37 pm	Shobhit	
+02/03/17	9:38 pm	Shobhit	
+02/03/17	9:39 pm	Shobhit	
+02/03/17	9:39 pm	PSIT Shivam tripathi	
+02/03/17	9:39 pm	Shobhit	
+02/03/17	9:39 pm	PSIT Shivam tripathi	
+02/03/17	9:39 pm	Shobhit	
+02/03/17	9:39 pm	PSIT Shivam tripathi	
+02/03/17	9:53 pm	Shobhit	
+03/03/17	6:42 am	Shobhit	
+	
+. bai.. bas tum chalo to... hmm hh.. tumhare satt !!	
+12/03/17	10:28 pm	PSIT Shivam tripathi	
+12/03/17	10:29 pm	Shobhit	
+08/04/17	9:56 pm	Shobhit	
+08/04/17	9:57 pm	PSIT Shivam tripathi	
+08/04/17	9:58 pm	PSIT Shivam tripathi	
+#include <iostream>	
+#include <string>	
+	
+	
+int main()	
+{	
+    char s[1000];	
+    int n,j=0,ps,count=0,f=1;	
+    std:	cout enter pan size
+    std:	cin ps
+    std:	cout enter number of terms
+    std:	cin n
+    std:	cout enter or
+    for(int i=0;i<n;i++)	
+    std:	cin s i
+    	
+    for(int i=0;i<n;i++)	
+    {	
+        while(j<n)	
+        {	
+            if(s[j]=='+')	
+              {j=j+1;}	
+        	
+        if(s[j]=='-')	
+        {	
+            if((j+ps)>n)	
+         break;	
+        	
+            for(int k=0;k<ps;k++)	
+            {	
+                if(s[j+k]=='-')	
+               { s[j+k]='+';	
+               	
+               }	
+                else if(s[j+k]=='+')	
+                s[j+k]='-';	
+                	
+                	
+            }	
+            count++;	
+            j=j+ps;	
+        }	
+        }	
+        j=0;	
+    }	
+    for(int i=0;i<n;i++)	
+    {if(s[i]=='-')	
+    f=0;	
+    }	
+    if(f==0)	
+    std:	cout IMPOSIBLE
+	
+else	
+std:	cout count
+    	
+    return 0;	
+}	
+08/04/17	10:43 pm	Shobhit	
+08/04/17	10:43 pm	Shobhit	
+08/04/17	10:47 pm	Shobhit	
+08/04/17	10:49 pm	Shobhit	
+08/04/17	10:49 pm	Shobhit	
+08/04/17	10:51 pm	Shobhit	
+09/04/17	2:09 pm	Shobhit	
+09/04/17	2:09 pm	PSIT Shivam tripathi	Lekin practice kar sakte hai ham log usi sawaal ki pancake wala aur tidy wala submit karke dekh lenge
+27/07/18	11:37 pm	PSIT Shivam tripathi	
+27/07/18	11:42 pm	PSIT Shivam tripathi	
+27/07/18	11:42 pm	Shobhit	
+27/07/18	11:43 pm	Shobhit	
+27/07/18	11:43 pm	PSIT Shivam tripathi	
+27/07/18	11:43 pm	PSIT Shivam tripathi	
+27/07/18	11:45 pm	PSIT Shivam tripathi	
+27/07/18	11:45 pm	PSIT Shivam tripathi	
+27/07/18	11:45 pm	PSIT Shivam tripathi	
+27/07/18	11:46 pm	PSIT Shivam tripathi	
+27/07/18	11:46 pm	Shobhit	
+27/07/18	11:49 pm	PSIT Shivam tripathi	
+27/07/18	11:50 pm	PSIT Shivam tripathi	
+27/07/18	11:50 pm	PSIT Shivam tripathi	
+28/07/18	9:51 am	PSIT Shivam tripathi	
+09/08/18	12:43 am	Shobhit	
+09/08/18	12:44 am	PSIT Shivam tripathi	
+13/08/18	8:54 pm	PSIT Shivam tripathi	
+#include <iostream>	
+#include <string>	
+#include<math.h>	
+   #include <bits/stdc++.h>	
+#define ll long long int	
+const int mod = 1e9 + 7;	
+using namespace std;	
+ 	
+ll cal(ll a,ll n,ll mod)	
+{ll s=1;	
+    while(n)	
+    {	
+      if(n&1)s=(s*a)%mod;	
+      	
+      a=(a*a)%mod;	
+      n>>=1;	
+    }	
+    return s;	
+    	
+}	
+	
+int main()	
+{	
+    int t;	
+    cin>>t;	
+    while(t--)	
+    {	
+        ll a,b,n;	
+        cin>>a>>b>>n;	
+        	
+        if(a==b)	
+        {	
+            cout<<(cal(a,n,mod)+cal(b,n,mod))%mod;	
+        }	
+        	
+        else	
+        {	
+         ll d=(cal(a,n,a-b)+cal(b,n,a-b))%(a-b);	
+         cout<<__gcd(d,a-b);	
+         }	
+         cout<<endl;	
+    }	
+ 	
+ return 0;	
+}	
+a^2 % n kar rahe ho	
+14/08/18	7:37 am	PSIT Shivam tripathi	
+14/08/18	7:38 am	Shobhit	
+14/08/18	7:54 am	PSIT Shivam tripathi	
+15/08/18	3:05 am	PSIT Shivam tripathi	
+15/08/18	3:53 am	Shobhit	
+15/08/18	3:53 am	PSIT Shivam tripathi	
+15/08/18	3:55 am	PSIT Shivam tripathi	
+15/08/18	3:56 am	PSIT Shivam tripathi	
+19/08/18	7:00 pm	Shobhit	
+19/08/18	7:18 pm	PSIT Shivam tripathi	
+20/08/18	6:05 am	Shobhit	
+21/08/18	11:55 pm	PSIT Shivam tripathi	
+21/08/18	11:55 pm	Shobhit	
+21/08/18	11:57 pm	PSIT Shivam tripathi	
+21/08/18	11:57 pm	PSIT Shivam tripathi	
+22/08/18	11:33 am	PSIT Shivam tripathi	
+22/08/18	11:36 am	PSIT Shivam tripathi	
+26/08/18	9:48 pm	PSIT Shivam tripathi	
+27/08/18	6:41 am	Shobhit	
+04/09/18	12:26 am	PSIT Shivam tripathi	
+04/09/18	12:29 am	Shobhit	
+04/09/18	9:37 pm	PSIT Shivam tripathi	
+06/09/18	8:50 pm	PSIT Shivam tripathi	
+08/09/18	1:08 am	Shobhit	
+08/09/18	1:08 am	PSIT Shivam tripathi	
+08/09/18	1:08 am	Shobhit	
+08/09/18	1:17 am	PSIT Shivam tripathi	
+08/09/18	1:17 am	Shobhit	
+08/09/18	1:18 am	PSIT Shivam tripathi	
+08/09/18	1:19 am	PSIT Shivam tripathi	
+08/09/18	1:19 am	PSIT Shivam tripathi	
+08/09/18	1:20 am	Shobhit	
+08/09/18	1:29 am	Shobhit	
+08/09/18	1:29 am	PSIT Shivam tripathi	
+08/09/18	1:29 am	PSIT Shivam tripathi	
+08/09/18	1:30 am	PSIT Shivam tripathi	
+08/09/18	1:31 am	Shobhit	
+08/09/18	1:32 am	Shobhit	
+08/09/18	1:32 am	PSIT Shivam tripathi	
+09/09/18	9:21 am	PSIT Shivam tripathi	
+09/09/18	9:21 am	PSIT Shivam tripathi	
+09/09/18	9:22 am	PSIT Shivam tripathi	
+09/09/18	9:49 am	PSIT Shivam tripathi	
+09/09/18	9:50 am	Shobhit	
+09/09/18	10:02 am	PSIT Shivam tripathi	
+09/09/18	10:03 am	PSIT Shivam tripathi	
+09/09/18	10:03 am	PSIT Shivam tripathi	
+09/09/18	10:03 am	PSIT Shivam tripathi	
+09/09/18	10:05 am	PSIT Shivam tripathi	
+09/09/18	10:06 am	Shobhit	
+09/09/18	10:07 am	PSIT Shivam tripathi	
+09/09/18	10:07 am	PSIT Shivam tripathi	
+09/09/18	10:07 am	PSIT Shivam tripathi	
+09/09/18	10:08 am	Shobhit	
+09/09/18	10:30 pm	PSIT Shivam tripathi	
+09/09/18	10:31 pm	Shobhit	
+09/09/18	10:31 pm	PSIT Shivam tripathi	
+10/09/18	10:15 pm	Shobhit	
+10/09/18	10:15 pm	PSIT Shivam tripathi	
+10/09/18	10:15 pm	Shobhit	
+10/09/18	10:16 pm	Shobhit	
+10/09/18	10:17 pm	Shobhit	
+10/09/18	10:17 pm	PSIT Shivam tripathi	
+10/09/18	10:18 pm	PSIT Shivam tripathi	
+10/09/18	10:18 pm	Shobhit	
+10/09/18	10:24 pm	Shobhit	
+10/09/18	10:30 pm	PSIT Shivam tripathi	
+10/09/18	10:46 pm	Shobhit	
+10/09/18	11:12 pm	Shobhit	
+10/09/18	11:13 pm	Shobhit	
+10/09/18	11:14 pm	PSIT Shivam tripathi	
+10/09/18	11:14 pm	PSIT Shivam tripathi	
+10/09/18	11:14 pm	PSIT Shivam tripathi	
+10/09/18	11:14 pm	Shobhit	
+10/09/18	11:23 pm	PSIT Shivam tripathi	
+10/09/18	11:23 pm	Shobhit	
+10/09/18	11:24 pm	Shobhit	
+10/09/18	11:26 pm	PSIT Shivam tripathi	
+10/09/18	11:26 pm	PSIT Shivam tripathi	
+10/09/18	11:32 pm	PSIT Shivam tripathi	
+10/09/18	11:32 pm	PSIT Shivam tripathi	
+10/09/18	11:33 pm	PSIT Shivam tripathi	
+10/09/18	11:47 pm	Shobhit	
+12/09/18	11:30 pm	PSIT Shivam tripathi	
+2--2	
+3--3	
+4--4	
+12--0	
+23--2	
+34--0	
+123--0	
+234--0	
+1234--0	
+count 7	
+16/09/18	4:45 am	PSIT Shivam tripathi	
+16/09/18	6:29 am	PSIT Shivam tripathi	
+16/09/18	6:30 am	Shobhit	
+16/09/18	6:31 am	PSIT Shivam tripathi	
+16/09/18	6:33 am	PSIT Shivam tripathi	
+16/09/18	6:35 am	PSIT Shivam tripathi	
+16/09/18	6:35 am	Shobhit	
+16/09/18	6:36 am	PSIT Shivam tripathi	
+16/09/18	6:36 am	PSIT Shivam tripathi	
+16/09/18	6:37 am	Shobhit	
+16/09/18	6:37 am	PSIT Shivam tripathi	
+16/09/18	6:37 am	Shobhit	
+16/09/18	6:37 am	PSIT Shivam tripathi	
+16/09/18	6:38 am	Shobhit	
+16/09/18	6:45 am	Shobhit	
+16/09/18	6:45 am	Shobhit	
+16/09/18	6:47 am	Shobhit	
+16/09/18	6:47 am	PSIT Shivam tripathi	
+16/09/18	6:47 am	PSIT Shivam tripathi	
+using namespace std;	
+	
+#define PB push_back	
+#define FOR(i,n) for (int i=0; i<n; i++)	
+#define REP(i,k,n) for (int i=k; i<=n; i++)	
+#define REPR(i,k,n) for (int i=k; i>=n; i--)	
+	
+int hasharray[1000001];	
+	
+int main()	
+{	
+	int t;	
+	long long int n, x, y, subtract, count;	
+	cin >> t;	
+	
+	while(t--)	
+	{	
+		cin >> n;	
+	
+		long long int a[n];	
+		x = y = 0, subtract = 0;	
+			
+		memset(hasharray, -1, 1000001);	
+	
+		FOR(i,n)	
+		{	
+			cin >> a[i];	
+	
+			hasharray[a[i]]++;	
+	
+			if(hasharray[a[i]] != 0)	
+				subtract++;	
+	
+			if(a[i]%2==0)	
+				x++;	
+			else	
+				y++;	
+		}	
+	
+		cout << "Subtract " << subtract << endl;	
+	
+		sort(a, a+n);	
+	
+		vector <int> v;	
+	
+		v.PB(a[0]);	
+	
+		for(int i=1; i<n; i++)	
+		{	
+			if(a[i] != a[i-1])	
+				v.PB(a[i]);	
+		}	
+	
+		memset(hasharray, -1, 1000001);	
+	
+		long long int xor2[v.size()];	
+	
+		FOR(i,v.size())	
+		{	
+			xor2[i] = v[i] & (~(1 << 1));	
+	
+			hasharray[xor2[i]]++;	
+	
+			if(hasharray[xor2[i]] != 0)	
+				subtract++;	
+		}	
+	
+		cout << "Subtract " << subtract << endl;	
+	
+		x = x*(x-1)/2;	
+		y = y*(y-1)/2;	
+	
+		count = x + y	subtract;	
+	
+		cout << count << endl;	
+	}	
+	
+}	
+16/09/18	7:34 am	Shobhit	
+16/09/18	8:05 am	PSIT Shivam tripathi	
+16/09/18	8:05 am	Shobhit	
+16/09/18	8:11 am	Shobhit	
+{	
+	int t, n, q, l, r;	
+	cin >> t;	
+	
+	while(t--)	
+	{	
+		cin >> n >> q;	
+		long long int a[n], count, value;	
+	
+		for(int i=1; i<=n; i++)	
+			cin >> a[i];	
+	
+		while(q--)	
+		{	
+			count = 0;	
+			cin >> l >> r;	
+			value = a[l];	
+	
+			for(int i=l; i<r; i++)	
+			{	
+				value = a[i];	
+	
+				if(perfectsquare(value))	
+					count++;	
+	
+				for(int j=i+1; j<=r; j++)	
+				{	
+					value &= a[j];	
+	
+					if(perfectsquare(value))	
+						count++;	
+				}	
+			}	
+	
+			if(perfectsquare(a[r]))	
+				count++;	
+	
+			cout << count << endl;	
+		}	
+	}	
+}	
+16/09/18	8:12 am	Shobhit	
+16/09/18	8:14 am	PSIT Shivam tripathi	
+16/09/18	8:14 am	PSIT Shivam tripathi	
+16/09/18	8:16 am	PSIT Shivam tripathi	
+16/09/18	10:14 am	Shobhit	
+16/09/18	10:14 am	PSIT Shivam tripathi	
+16/09/18	10:15 am	PSIT Shivam tripathi	
+16/09/18	10:15 am	PSIT Shivam tripathi	
+16/09/18	10:16 am	Shobhit	
+16/09/18	10:17 am	PSIT Shivam tripathi	
+16/09/18	10:17 am	Shobhit	
+16/09/18	10:17 am	PSIT Shivam tripathi	
+16/09/18	10:18 am	PSIT Shivam tripathi	
+16/09/18	10:18 am	PSIT Shivam tripathi	
+16/09/18	1:10 pm	Shobhit	
+#include <iostream>	
+#include <bits/stdc++.h>	
+#define ll long long int	
+using namespace std;	
+	
+int main()	
+{	
+    int t;	
+    cin>>t;	
+    while(t--)	
+    {	
+        int n,q,i,j,an,f,e;	
+        cin>>n>>q;	
+        	
+        int a[n+1];	
+        	
+        for(i=1;i<=n;i++)	
+        cin>>a[i];	
+        	
+        for(int k=0;k<q;k++)	
+        {  int c=0;	
+             	
+             cin>>f>>e;	
+             an=a[f];	
+             	
+            for(i=f;i<e;i++)	
+            {   	
+                an=a[i];	
+                	
+                if(sqrt(an)*sqrt(an)==an)	
+                c++;	
+                	
+                for(j=i+1;j<=e;j++)	
+                {	
+                    an =an&a[j];	
+                    	
+                    if(sqrt(an)*sqrt(an)==an)	
+                    c++;	
+                    	
+                }	
+            }	
+                if(sqrt(a[e])*sqrt(a[e])==a[e])	
+                c++;	
+            	
+           cout<<c<<endl;	
+         	
+        }	
+    }	
+    	
+    	
+    return 0;	
+}	
+16/09/18	1:18 pm	Shobhit	
+16/09/18	1:21 pm	Shobhit	
+16/09/18	1:21 pm	PSIT Shivam tripathi	
+16/09/18	1:21 pm	Shobhit	
+17/09/18	5:34 pm	PSIT Shivam tripathi	
+17/09/18	5:35 pm	PSIT Shivam tripathi	
+17/09/18	5:35 pm	Shobhit	
+17/09/18	5:37 pm	Shobhit	
+17/09/18	5:37 pm	PSIT Shivam tripathi	
+17/09/18	5:41 pm	PSIT Shivam tripathi	
+17/09/18	5:45 pm	Shobhit	
+17/09/18	5:46 pm	PSIT Shivam tripathi	
+17/09/18	5:46 pm	PSIT Shivam tripathi	
+17/09/18	5:48 pm	PSIT Shivam tripathi	
+17/09/18	5:48 pm	Shobhit	
+17/09/18	5:48 pm	PSIT Shivam tripathi	
+17/09/18	5:49 pm	PSIT Shivam tripathi	
+17/09/18	5:49 pm	Shobhit	
+17/09/18	5:49 pm	PSIT Shivam tripathi	
+17/09/18	5:50 pm	Shobhit	
+17/09/18	11:01 pm	PSIT Shivam tripathi	
+18/09/18	6:26 pm	PSIT Shivam tripathi	
+18/09/18	6:27 pm	PSIT Shivam tripathi	
+18/09/18	11:12 pm	PSIT Shivam tripathi	
+18/09/18	11:12 pm	PSIT Shivam tripathi	
+18/09/18	11:15 pm	Shobhit	
+18/09/18	11:15 pm	PSIT Shivam tripathi	
+19/09/18	7:09 pm	PSIT Shivam tripathi	
+21/09/18	12:58 am	PSIT Shivam tripathi	
+21/09/18	12:59 am	Shobhit	
+22/09/18	11:18 pm	Shobhit	
+22/09/18	11:32 pm	PSIT Shivam tripathi	
+22/09/18	11:33 pm	PSIT Shivam tripathi	
+22/09/18	11:33 pm	PSIT Shivam tripathi	
+22/09/18	11:33 pm	Shobhit	
+22/09/18	11:35 pm	PSIT Shivam tripathi	
+22/09/18	11:35 pm	Shobhit	
+22/09/18	11:35 pm	PSIT Shivam tripathi	
+26/09/18	8:09 am	PSIT Shivam tripathi	
+26/09/18	8:49 am	Shobhit	
+26/09/18	11:01 pm	PSIT Shivam tripathi	
+26/09/18	11:02 pm	Shobhit	
+26/09/18	11:02 pm	PSIT Shivam tripathi	
+26/09/18	11:06 pm	Shobhit	
+26/09/18	11:07 pm	Shobhit	
+26/09/18	11:07 pm	Shobhit	
+26/09/18	11:08 pm	Shobhit	
+26/09/18	11:08 pm	PSIT Shivam tripathi	
+26/09/18	11:31 pm	PSIT Shivam tripathi	
+26/09/18	11:31 pm	PSIT Shivam tripathi	While one hot encoding solves the problem of unequal weights given to categories within a feature it is not very useful when there are many categories as that will result in formation of as many new columns which can result in the curse of dimensionality The concept of the curse of dimensionality discusses that in high dimensional spaces some things just stop working properly
+26/09/18	11:45 pm	Shobhit	
+28/09/18	10:23 pm	PSIT Shivam tripathi	
+28/09/18	10:23 pm	Shobhit	
+28/09/18	10:24 pm	PSIT Shivam tripathi	
+28/09/18	10:24 pm	PSIT Shivam tripathi	
+28/09/18	10:25 pm	Shobhit	
+28/09/18	10:25 pm	PSIT Shivam tripathi	
+28/09/18	10:25 pm	Shobhit	
+03/10/18	9:11 pm	Shobhit	
+03/10/18	9:58 pm	PSIT Shivam tripathi	
+03/10/18	9:59 pm	PSIT Shivam tripathi	
+03/10/18	9:59 pm	PSIT Shivam tripathi	
+03/10/18	10:00 pm	Shobhit	
+06/10/18	12:04 am	Shobhit	
+06/10/18	12:05 am	PSIT Shivam tripathi	
+06/10/18	12:06 am	PSIT Shivam tripathi	
+06/10/18	12:06 am	Shobhit	
+06/10/18	11:14 am	PSIT Shivam tripathi	
+	
+37 -> 10	
+	
+10 -> 1	
+06/10/18	11:23 am	PSIT Shivam tripathi	
+06/10/18	11:23 am	Shobhit	
+06/10/18	11:23 am	PSIT Shivam tripathi	
+06/10/18	11:24 am	PSIT Shivam tripathi	
+06/10/18	10:25 pm	Shobhit	
+06/10/18	10:25 pm	PSIT Shivam tripathi	
+06/10/18	10:26 pm	PSIT Shivam tripathi	
+06/10/18	10:27 pm	PSIT Shivam tripathi	
+06/10/18	10:28 pm	PSIT Shivam tripathi	
+06/10/18	10:28 pm	Shobhit	
+07/10/18	12:12 am	PSIT Shivam tripathi	
+07/10/18	4:04 pm	Shobhit	
+07/10/18	4:04 pm	PSIT Shivam tripathi	
+18/10/18	11:36 am	PSIT Shivam tripathi	
+18/10/18	11:53 am	PSIT Shivam tripathi	
+18/10/18	9:53 pm	PSIT Shivam tripathi	
+18/10/18	9:55 pm	Shobhit	
+18/10/18	9:55 pm	PSIT Shivam tripathi	
+19/10/18	12:47 am	Shobhit	https www hackerrank com hackathon2 0 csit utm campaign social buttons utm medium twitter utm source contest
+19/10/18	12:48 am	PSIT Shivam tripathi	
+19/10/18	12:06 pm	PSIT Shivam tripathi	
+19/10/18	12:06 pm	PSIT Shivam tripathi	
+19/10/18	12:17 pm	PSIT Shivam tripathi	
+19/10/18	12:17 pm	PSIT Shivam tripathi	
+19/10/18	12:22 pm	PSIT Shivam tripathi	
+19/10/18	12:22 pm	PSIT Shivam tripathi	
+19/10/18	12:23 pm	Shobhit	
+20/10/18	12:48 pm	PSIT Shivam tripathi	
+20/10/18	12:49 pm	Shobhit	
+21/10/18	4:39 pm	Shobhit	
+22/10/18	10:14 pm	PSIT Shivam tripathi	
+22/10/18	10:14 pm	Shobhit	
+!	
+23/10/18	11:54 pm	Shobhit	
+23/10/18	11:56 pm	PSIT Shivam tripathi	
+26/10/18	10:23 pm	PSIT Shivam tripathi	
+28/10/18	1:18 am	PSIT Shivam tripathi	
+28/10/18	1:20 am	Shobhit	
+28/10/18	1:20 am	PSIT Shivam tripathi	
+28/10/18	1:20 am	Shobhit	
+28/10/18	1:22 am	Shobhit	
+28/10/18	1:23 am	PSIT Shivam tripathi	
+28/10/18	1:23 am	PSIT Shivam tripathi	
+28/10/18	1:23 am	Shobhit	
+28/10/18	7:20 pm	PSIT Shivam tripathi	
+28/10/18	7:20 pm	Shobhit	
+28/10/18	7:22 pm	PSIT Shivam tripathi	
+28/10/18	7:22 pm	Shobhit	
+28/10/18	7:23 pm	PSIT Shivam tripathi	
+28/10/18	7:23 pm	PSIT Shivam tripathi	
+28/10/18	7:24 pm	PSIT Shivam tripathi	
+28/10/18	7:25 pm	PSIT Shivam tripathi	
+28/10/18	7:30 pm	Shobhit	
+28/10/18	7:30 pm	PSIT Shivam tripathi	
+28/10/18	7:33 pm	PSIT Shivam tripathi	
+28/10/18	7:34 pm	Shobhit	
+28/10/18	7:34 pm	Shobhit	https stackoverflow com questions 53028709 find all combination of n as a sum of k distinct elements
+28/10/18	7:35 pm	PSIT Shivam tripathi	
+28/10/18	7:35 pm	Shobhit	
+28/10/18	8:54 pm	Shobhit	
+#include<string>	
+#include<set>	
+#include<string.h>	
+#include<vector>	
+#include<algorithm>	
+using namespace std;	
+	
+#define ll long long int	
+#define PB push_back	
+#define MP make_pair	
+#define PLL pair<ll ,ll>	
+#define FOR(i,n) for (int i=0; i<n; i++)	
+#define REP(i,k,n) for (int i=k; i<=n; i++)	
+#define REPR(i,k,n) for (int i=k; i>=n; i--)	
+	
+int main()	
+{	
+	ll t, n, m, l, k, count, waitingtime, entrytime;	
+	set <ll> s;	
+	cin >> t;	
+	while(t--)	
+	{	
+		cin >> n >> m >> k >> l;	
+		ll a[n];	
+	
+		FOR(i,n)	
+		{	
+			cin >> a[i];	
+		}	
+		sort(a,a+n);	
+	
+		REP(i,1,k)	
+		{	
+			count = 0;	
+			for(int j=0; j<n; j++)	
+			{	
+				if(a[j] < i)	
+					count++;	
+				else	
+					break;	
+			}	
+			entrytime = l*(m+count+1);	
+			waitingtime = entrytime	i;	
+			s.insert(waitingtime);	
+			//cout << count << " " << entrytime << " " << waitingtime << endl;	
+				
+		}	
+		cout << *s.begin() << endl;	
+		s.clear();	
+	}	
+}	
+using namespace std;	
+	
+#define ll long long	
+#define PB push_back	
+#define FOR(i,n) for (int i=0; i<n; i++)	
+	
+	
+int main()	
+{ios_base:	sync with stdio false
+cin.tie(NULL);	
+	
+int t;	
+cin>>t;	
+while(t--)	
+{	
+   ll int n,m,k,l;	
+   cin>>n>>m>>k>>l;	
+   	
+   ll int val_l=m*l;	
+   	
+   set<ll int>st;	
+   set<ll int>wt;	
+   	
+   ll int ele;	
+   for(int i=0;i<n;i++)	
+   {	
+       cin>>ele;	
+       st.insert(ele);	
+   }	
+   	
+   st.insert(k);	
+   	
+   ll int count=0,et=0,j=0,w=0,min=INT_MAX;	
+   	
+   for(auto it:st)	
+   {	
+       if(it>k)	
+        break;	
+        	
+        et=l*(m+j+1);	
+        w=et-it;	
+        	
+        if(min>w)	
+            min=w;	
+        	
+        j++;	
+   }	
+   	
+  	
+   	
+   cout<<min;	
+   cout<<'\n';	
+   wt.clear();	
+   	
+}	
+	
+return 0;	
+}	
+28/10/18	10:08 pm	Shobhit	
+28/10/18	10:08 pm	PSIT Shivam tripathi	
+28/10/18	11:41 pm	Shobhit	
+29/10/18	12:08 am	Shobhit	
+29/10/18	9:25 am	PSIT Shivam tripathi	
+29/10/18	11:27 am	PSIT Shivam tripathi	
+29/10/18	1:40 pm	Shobhit	
+29/10/18	4:56 pm	PSIT Shivam tripathi	All teams scoring 350 in this round will qualify for the Pre Elimination Round That is the current cut off and so to not disadvantage the teams who are unaware of the extension of the contest we are freezing that as the cut off
+29/10/18	7:49 pm	Shobhit	
+29/10/18	7:49 pm	PSIT Shivam tripathi	
+29/10/18	9:47 pm	PSIT Shivam tripathi	
+29/10/18	9:47 pm	PSIT Shivam tripathi	
+29/10/18	10:07 pm	Shobhit	
+01/11/18	12:45 am	PSIT Shivam tripathi	
+01/11/18	12:47 am	PSIT Shivam tripathi	
+02/11/18	11:53 pm	PSIT Shivam tripathi	
+03/11/18	12:34 am	PSIT Shivam tripathi	
+03/11/18	12:34 am	Shobhit	
+03/11/18	12:34 am	PSIT Shivam tripathi	
+03/11/18	12:37 am	PSIT Shivam tripathi	
+03/11/18	12:38 am	Shobhit	
+03/11/18	12:38 am	PSIT Shivam tripathi	
+03/11/18	12:44 am	PSIT Shivam tripathi	
+03/11/18	12:44 am	Shobhit	
+03/11/18	12:44 am	PSIT Shivam tripathi	
+03/11/18	12:45 am	Shobhit	
+03/11/18	12:45 am	Shobhit	
+03/11/18	12:46 am	PSIT Shivam tripathi	
+03/11/18	12:46 am	PSIT Shivam tripathi	
+03/11/18	12:46 am	Shobhit	
+03/11/18	12:47 am	Shobhit	
+03/11/18	12:48 am	Shobhit	
+03/11/18	12:48 am	PSIT Shivam tripathi	
+03/11/18	12:49 am	PSIT Shivam tripathi	
+03/11/18	12:49 am	Shobhit	
+03/11/18	1:39 am	PSIT Shivam tripathi	
+03/11/18	1:39 am	Shobhit	
+03/11/18	1:41 am	PSIT Shivam tripathi	
+03/11/18	12:18 pm	PSIT Shivam tripathi	
+03/11/18	12:52 pm	PSIT Shivam tripathi	
+03/11/18	1:05 pm	Shobhit	
+03/11/18	1:05 pm	Shobhit	
+03/11/18	4:04 pm	Shobhit	
+03/11/18	4:04 pm	PSIT Shivam tripathi	
+03/11/18	4:05 pm	PSIT Shivam tripathi	
+03/11/18	4:05 pm	PSIT Shivam tripathi	
+03/11/18	4:24 pm	Shobhit	
+03/11/18	8:24 pm	Shobhit	
+03/11/18	8:25 pm	PSIT Shivam tripathi	
+03/11/18	8:25 pm	Shobhit	
+03/11/18	8:29 pm	PSIT Shivam tripathi	
+using namespace std;	
+	
+#define ll long long	
+#define PB push_back	
+#define FOR(i,n) for (int i=0; i<n; i++)	
+	
+	
+int main()	
+{ios_base:	sync with stdio false
+cin.tie(NULL);	
+	
+int t;	
+cin>>t;	
+while(t--)	
+{	
+    int n,m;	
+    cin>>n>>m;	
+    	
+    ll int t1[n],t2[m];	
+    	
+    for(int i=0;i<n;i++)	
+    cin>>t1[i];	
+    	
+    for(int i=0;i<m;i++)	
+    cin>>t2[i];	
+    	
+    int sm=n;	
+    if(sm>m)	
+        sm=m;	
+        	
+        int xo=t1[0]^t2[0],x1;	
+        	
+        for(int i=1;i<sm;i++)	
+        {	
+            x1 =t1[i]^t2[i];	
+            xo=xo+x1;	
+        }	
+        	
+        if(xo==0)	
+        {	
+            cout<<"Bob"<<endl;	
+        }	
+        else	
+        {	
+            cout<<"Alice"<<endl;	
+        }	
+}	
+	
+return 0;	
+}	
+03/11/18	10:29 pm	Shobhit	
+04/11/18	12:10 am	Shobhit	
+04/11/18	12:30 am	PSIT Shivam tripathi	
+04/11/18	12:30 am	PSIT Shivam tripathi	
+04/11/18	12:46 am	PSIT Shivam tripathi	
+04/11/18	12:47 am	Shobhit	
+04/11/18	9:50 am	PSIT Shivam tripathi	
+04/11/18	9:52 am	PSIT Shivam tripathi	
+04/11/18	10:46 am	PSIT Shivam tripathi	
+04/11/18	12:17 pm	Shobhit	
+04/11/18	12:18 pm	PSIT Shivam tripathi	
+04/11/18	12:18 pm	PSIT Shivam tripathi	
+04/11/18	12:18 pm	PSIT Shivam tripathi	
+04/11/18	12:18 pm	PSIT Shivam tripathi	
+04/11/18	12:19 pm	Shobhit	
+04/11/18	12:19 pm	PSIT Shivam tripathi	
+04/11/18	12:21 pm	PSIT Shivam tripathi	
+04/11/18	12:21 pm	Shobhit	
+04/11/18	12:22 pm	PSIT Shivam tripathi	
+04/11/18	12:38 pm	Shobhit	
+04/11/18	6:03 pm	PSIT Shivam tripathi	
+04/11/18	6:10 pm	Shobhit	
+04/11/18	11:22 pm	PSIT Shivam tripathi	
+06/11/18	2:01 am	Shobhit	
+06/11/18	2:01 am	Shobhit	
+06/11/18	2:03 am	Shobhit	
+06/11/18	2:03 am	PSIT Shivam tripathi	
+17/11/18	7:37 pm	PSIT Shivam tripathi	
+18/11/18	2:18 pm	PSIT Shivam tripathi	
+25/11/18	12:19 pm	Shobhit	
+26/11/18	6:53 am	Shobhit	
+26/11/18	4:53 pm	PSIT Shivam tripathi	
+26/11/18	5:01 pm	PSIT Shivam tripathi	
+26/11/18	10:38 pm	Shobhit	
+28/11/18	10:28 pm	PSIT Shivam tripathi	
+28/11/18	10:28 pm	Shobhit	
+28/11/18	10:31 pm	PSIT Shivam tripathi	
+28/11/18	10:33 pm	PSIT Shivam tripathi	
+28/11/18	11:15 pm	Shobhit	
+28/11/18	11:16 pm	Shobhit	
+28/11/18	11:17 pm	PSIT Shivam tripathi	
+28/11/18	11:17 pm	Shobhit	
+29/11/18	12:10 am	Shobhit	
+29/11/18	12:11 am	Shobhit	
+29/11/18	12:12 am	Shobhit	
+29/11/18	12:12 am	PSIT Shivam tripathi	
+Webtech me 5-6 pages missing hai Notebook 1 se, Shriyanshi nahi laayi thi first notebook.	
+Yeh 2nd notebook ke poore hai	
+29/11/18	1:39 am	Shobhit	
+29/11/18	1:39 am	PSIT Shivam tripathi	
+29/11/18	1:39 am	Shobhit	
+29/11/18	3:42 pm	Shobhit	
+29/11/18	8:07 pm	PSIT Shivam tripathi	
+29/11/18	9:08 pm	Shobhit	
+01/12/18	6:34 pm	PSIT Shivam tripathi	
+02/12/18	4:11 pm	PSIT Shivam tripathi	
+02/12/18	4:21 pm	PSIT Shivam tripathi	
+03/12/18	1:16 am	PSIT Shivam tripathi	
+04/12/18	6:26 pm	Shobhit	
+04/12/18	6:28 pm	PSIT Shivam tripathi	
+05/12/18	10:25 pm	PSIT Shivam tripathi	
+05/12/18	11:01 pm	Shobhit	
+05/12/18	11:04 pm	PSIT Shivam tripathi	
+05/12/18	11:06 pm	PSIT Shivam tripathi	
+05/12/18	11:10 pm	PSIT Shivam tripathi	
+05/12/18	11:10 pm	Shobhit	
+05/12/18	11:11 pm	PSIT Shivam tripathi	
+05/12/18	11:12 pm	Shobhit	
+05/12/18	11:15 pm	Shobhit	
+05/12/18	11:18 pm	Shobhit	
+05/12/18	11:18 pm	PSIT Shivam tripathi	
+05/12/18	11:19 pm	PSIT Shivam tripathi	
+05/12/18	11:22 pm	Shobhit	
+05/12/18	11:25 pm	Shobhit	
+06/12/18	12:49 am	PSIT Shivam tripathi	
+06/12/18	12:49 am	PSIT Shivam tripathi	
+06/12/18	12:50 am	PSIT Shivam tripathi	
+06/12/18	12:50 am	Shobhit	
+06/12/18	12:50 am	PSIT Shivam tripathi	
+06/12/18	5:37 pm	Shobhit	
+06/12/18	6:49 pm	PSIT Shivam tripathi	
+06/12/18	6:50 pm	PSIT Shivam tripathi	
+06/12/18	6:55 pm	PSIT Shivam tripathi	
+06/12/18	6:56 pm	PSIT Shivam tripathi	
+06/12/18	6:56 pm	Shobhit	
+06/12/18	10:35 pm	PSIT Shivam tripathi	
+06/12/18	10:35 pm	PSIT Shivam tripathi	
+06/12/18	10:35 pm	PSIT Shivam tripathi	
+06/12/18	10:50 pm	PSIT Shivam tripathi	
+06/12/18	10:51 pm	Shobhit	
+07/12/18	6:17 am	PSIT Shivam tripathi	
+07/12/18	8:14 am	Shobhit	
+07/12/18	8:16 am	PSIT Shivam tripathi	
+07/12/18	8:16 am	PSIT Shivam tripathi	
+08/12/18	2:15 pm	Shobhit	
+08/12/18	2:16 pm	PSIT Shivam tripathi	
+08/12/18	2:18 pm	PSIT Shivam tripathi	
+08/12/18	2:19 pm	PSIT Shivam tripathi	
+08/12/18	7:15 pm	PSIT Shivam tripathi	
+08/12/18	8:48 pm	Shobhit	
+08/12/18	8:53 pm	PSIT Shivam tripathi	
+09/12/18	7:24 pm	PSIT Shivam tripathi	
+10/12/18	7:38 am	Shobhit	
+10/12/18	7:40 am	Shobhit	
+10/12/18	7:41 am	Shobhit	
+10/12/18	7:41 am	PSIT Shivam tripathi	
+10/12/18	7:42 am	Shobhit	
+Phir raat me 12 se 3	
+10/12/18	7:43 am	PSIT Shivam tripathi	
+10/12/18	7:43 am	Shobhit	
+10/12/18	7:43 am	Shobhit	
+19/12/18	9:43 am	PSIT Shivam tripathi	
+19/12/18	7:51 pm	Shobhit	This photo of Shanghai is taken by Quantum Satellite with 24 9 billion pixels of quantum technology It s worth seeing You can zoom in zoom in and zoom in when you look at it You can clearly see every gesture even face of pedestrians on the road You can see the license plate Photos can also be moved up and down left and right It is said that this is the latest development of China s military science and technology achievements hidden indeed suffered harm It can also be rotated Press to zoom in and to zoom in Left and right rotation It s too clear
+ http://sh-meet.bigpixel.cn/?from=groupmessage&isappinstalled=0	
+19/12/18	7:51 pm	Shobhit	
+19/12/18	7:52 pm	Shobhit	
+19/12/18	7:52 pm	PSIT Shivam tripathi	
+19/12/18	7:53 pm	PSIT Shivam tripathi	
+19/12/18	7:58 pm	PSIT Shivam tripathi	
+19/12/18	8:10 pm	PSIT Shivam tripathi	
+20/12/18	8:32 am	Shobhit	
+20/12/18	8:49 am	PSIT Shivam tripathi	
+21/12/18	10:04 am	Shobhit	

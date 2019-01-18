@@ -1,0 +1,2655 @@
+02/03/17, 9:35 pm - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+02/03/17, 9:35 pm - Shobhit: ME ke.... 4 vale ki pic bejj do
+02/03/17, 9:35 pm - PSIT Shivam tripathi: Ok
+02/03/17, 9:35 pm - Shobhit: lath machine !!
+02/03/17, 9:35 pm - Shobhit: 👍
+02/03/17, 9:37 pm - PSIT Shivam tripathi: <Media omitted>
+02/03/17, 9:37 pm - PSIT Shivam tripathi: <Media omitted>
+02/03/17, 9:37 pm - PSIT Shivam tripathi: <Media omitted>
+02/03/17, 9:37 pm - PSIT Shivam tripathi: <Media omitted>
+02/03/17, 9:37 pm - Shobhit: thnxx!!
+02/03/17, 9:37 pm - PSIT Shivam tripathi: 👍🏼
+02/03/17, 9:37 pm - Shobhit: 😘
+02/03/17, 9:38 pm - PSIT Shivam tripathi: Laat marenge ab
+02/03/17, 9:38 pm - PSIT Shivam tripathi: Lathe machine se pehle
+02/03/17, 9:38 pm - PSIT Shivam tripathi: Kal milna
+02/03/17, 9:38 pm - Shobhit: 😱
+02/03/17, 9:38 pm - Shobhit: kyo
+02/03/17, 9:39 pm - Shobhit: 😟
+02/03/17, 9:39 pm - PSIT Shivam tripathi: 😎
+02/03/17, 9:39 pm - PSIT Shivam tripathi: Majaak kar rhe
+02/03/17, 9:39 pm - Shobhit: 😜
+02/03/17, 9:39 pm - Shobhit: ok....
+02/03/17, 9:39 pm - Shobhit: fr tik h....
+02/03/17, 9:39 pm - PSIT Shivam tripathi: 😃
+02/03/17, 9:39 pm - Shobhit: nhi to hmm kal gola marr dete!!
+02/03/17, 9:39 pm - Shobhit: 🙃
+02/03/17, 9:39 pm - PSIT Shivam tripathi: 🙃
+02/03/17, 9:44 pm - Shobhit: Greedy algo dakk lo
+02/03/17, 9:44 pm - PSIT Shivam tripathi: Ok
+02/03/17, 9:53 pm - Shobhit: 👍
+02/03/17, 9:53 pm - Shobhit: kya din bhr phn liye rahte ho...
+02/03/17, 9:54 pm - Shobhit: alwys online!!
+02/03/17, 9:55 pm - PSIT Shivam tripathi: Nahi
+02/03/17, 9:55 pm - PSIT Shivam tripathi: Tum shanti se so jao
+02/03/17, 9:55 pm - PSIT Shivam tripathi: Tu tu ho raha hai phone har 2 min me
+03/03/17, 6:42 am - Shobhit: oh....
+03/03/17, 6:42 am - Shobhit: 😜
+08/03/17, 8:46 pm - Shobhit: pc ka wrk kiya hh kya
+08/03/17, 8:58 pm - PSIT Shivam tripathi: No
+08/03/17, 8:59 pm - Shobhit: ok
+12/03/17, 10:03 pm - Shobhit: no...matr . what !!
+
+. bai.. bas tum chalo to... hmm hh.. tumhare satt !!
+12/03/17, 10:28 pm - PSIT Shivam tripathi: 🤠
+12/03/17, 10:28 pm - PSIT Shivam tripathi: Happy Holi Patel ji..
+12/03/17, 10:29 pm - Shobhit: same to u
+12/03/17, 10:29 pm - Shobhit: 😄
+08/04/17, 6:34 pm - Shobhit: progm bannay?
+08/04/17, 6:34 pm - PSIT Shivam tripathi: Abhi so rahe 9 baje tak banaunga
+08/04/17, 6:34 pm - Shobhit: ok...
+08/04/17, 6:34 pm - Shobhit: agr bann jay to msg kr dena!!
+08/04/17, 6:34 pm - PSIT Shivam tripathi: Ok
+08/04/17, 9:55 pm - Shobhit: kiya kutch?
+08/04/17, 9:56 pm - PSIT Shivam tripathi: Haan kar rahe
+08/04/17, 9:56 pm - PSIT Shivam tripathi: Tumhara solution galat hI
+08/04/17, 9:56 pm - PSIT Shivam tripathi: Hamko smallest no. of possible flips nikaalna hai
+08/04/17, 9:56 pm - Shobhit: kya!!
+08/04/17, 9:56 pm - Shobhit: 😳😳
+08/04/17, 9:56 pm - PSIT Shivam tripathi: Ek line se loop chalane pe smallest no. of possible flips nahi mil raha
+08/04/17, 9:57 pm - Shobhit: oh...
+08/04/17, 9:57 pm - PSIT Shivam tripathi: 😔
+08/04/17, 9:57 pm - Shobhit: to koi or method samj aay kya?
+08/04/17, 9:57 pm - PSIT Shivam tripathi: Laga kar dekh raha hu
+08/04/17, 9:58 pm - PSIT Shivam tripathi: Lag jayega toh bata dunha
+08/04/17, 9:58 pm - Shobhit: ok
+08/04/17, 9:58 pm - PSIT Shivam tripathi: 👍🏼
+08/04/17, 10:31 pm - Shobhit: i think ho gy hh...
+08/04/17, 10:31 pm - Shobhit: hmm code bejj rhe h chek karo
+08/04/17, 10:32 pm - PSIT Shivam tripathi: Ok
+08/04/17, 10:41 pm - Shobhit: // Example program
+#include <iostream>
+#include <string>
+
+
+int main()
+{
+    char s[1000];
+    int n,j=0,ps,count=0,f=1;
+    std::cout<<"enter pan size:";
+    std::cin>>ps;
+    std::cout<<"enter number of terms:";
+    std::cin>>n;
+    std::cout<<"enter + or -:";
+    for(int i=0;i<n;i++)
+    std::cin>>s[i];
+    
+    for(int i=0;i<n;i++)
+    {
+        while(j<n)
+        {
+            if(s[j]=='+')
+              {j=j+1;}
+        
+        if(s[j]=='-')
+        {
+            if((j+ps)>n)
+         break;
+        
+            for(int k=0;k<ps;k++)
+            {
+                if(s[j+k]=='-')
+               { s[j+k]='+';
+               
+               }
+                else if(s[j+k]=='+')
+                s[j+k]='-';
+                
+                
+            }
+            count++;
+            j=j+ps;
+        }
+        }
+        j=0;
+    }
+    for(int i=0;i<n;i++)
+    {if(s[i]=='-')
+    f=0;
+    }
+    if(f==0)
+    std::cout<<"IMPOSIBLE";
+
+else
+std::cout<<count;
+    
+    return 0;
+}
+08/04/17, 10:41 pm - Shobhit: http://cpp.sh/
+08/04/17, 10:41 pm - Shobhit: iss site pe run kr lo
+08/04/17, 10:43 pm - Shobhit: ??...
+08/04/17, 10:43 pm - PSIT Shivam tripathi: Dekhta hu
+08/04/17, 10:43 pm - Shobhit: 👍
+08/04/17, 10:47 pm - Shobhit: ?
+08/04/17, 10:47 pm - PSIT Shivam tripathi: run kar raha
+08/04/17, 10:48 pm - Shobhit: ok...hmm tidy number ...dakte hh
+08/04/17, 10:49 pm - PSIT Shivam tripathi: output toh sahi de raha hai
+08/04/17, 10:49 pm - Shobhit: hmm
+08/04/17, 10:49 pm - Shobhit: ista matlb sahi h
+08/04/17, 10:49 pm - Shobhit: 😁😀
+08/04/17, 10:49 pm - PSIT Shivam tripathi: haan
+08/04/17, 10:49 pm - Shobhit: 🤣
+08/04/17, 10:51 pm - Shobhit: to ab tidy nubr
+08/04/17, 10:51 pm - Shobhit: ?
+08/04/17, 10:51 pm - Shobhit: ya ishi ko or chek karo ge
+08/04/17, 10:51 pm - PSIT Shivam tripathi: dekhte hai
+08/04/17, 10:51 pm - PSIT Shivam tripathi: academics ka bhi padhna hai yaar
+08/04/17, 10:51 pm - PSIT Shivam tripathi: pu aane wale
+08/04/17, 10:52 pm - Shobhit: hmk
+09/04/17, 1:31 pm - PSIT Shivam tripathi: Submit kiya tha ?
+09/04/17, 1:31 pm - PSIT Shivam tripathi: Khatm ho gaya
+09/04/17, 2:08 pm - Shobhit: no...
+09/04/17, 2:08 pm - PSIT Shivam tripathi: Sahi hai
+09/04/17, 2:08 pm - Shobhit: tumne .. manna kr diya to hmm ne bi nhi kiya
+09/04/17, 2:08 pm - PSIT Shivam tripathi: Khatm ho gaya time
+09/04/17, 2:09 pm - Shobhit: hmm...
+09/04/17, 2:09 pm - PSIT Shivam tripathi: Koi baat nahi hai
+09/04/17, 2:09 pm - PSIT Shivam tripathi: Agli baar poori taiyari se karenge
+09/04/17, 2:09 pm - Shobhit: ha
+09/04/17, 2:09 pm - PSIT Shivam tripathi: Agle saal hoga ab ya kuchh mahine baad phir se ?
+09/04/17, 2:09 pm - Shobhit: 🙂
+09/04/17, 2:09 pm - Shobhit: sayd next yr
+09/04/17, 2:09 pm - PSIT Shivam tripathi: Lekin practice kar sakte hai ham log usi sawaal ki pancake wala aur tidy wala submit karke dekh lenge
+09/04/17, 2:10 pm - Shobhit: ha
+27/07/18, 10:59 pm - Shobhit: Yr java yr.. java kr diss sb aaj
+27/07/18, 11:37 pm - PSIT Shivam tripathi: 😓😓
+27/07/18, 11:42 pm - Shobhit: Btao kya kiya jay
+27/07/18, 11:42 pm - PSIT Shivam tripathi: Havkerrrank pe coding karo
+27/07/18, 11:42 pm - PSIT Shivam tripathi: 😜
+27/07/18, 11:42 pm - Shobhit: 🤔
+27/07/18, 11:42 pm - Shobhit: Sonam
+27/07/18, 11:42 pm - PSIT Shivam tripathi: Bewafa hai !
+27/07/18, 11:43 pm - Shobhit: 😂
+27/07/18, 11:43 pm - PSIT Shivam tripathi: 🤣
+27/07/18, 11:43 pm - Shobhit: Model online run kiye h?
+27/07/18, 11:43 pm - Shobhit: Kissi cloud pe
+27/07/18, 11:43 pm - PSIT Shivam tripathi: ?
+27/07/18, 11:44 pm - Shobhit: Ibm or Google
+27/07/18, 11:44 pm - PSIT Shivam tripathi: No
+27/07/18, 11:44 pm - Shobhit: Ok
+27/07/18, 11:44 pm - Shobhit: Vo eclipse ho rha h na
+27/07/18, 11:44 pm - Shobhit: Abhi
+27/07/18, 11:45 pm - PSIT Shivam tripathi: ?
+27/07/18, 11:45 pm - PSIT Shivam tripathi: AchA
+27/07/18, 11:45 pm - PSIT Shivam tripathi: Real wala
+27/07/18, 11:45 pm - PSIT Shivam tripathi: This message was deleted
+27/07/18, 11:45 pm - PSIT Shivam tripathi: Lunar Eclipse
+27/07/18, 11:45 pm - PSIT Shivam tripathi: 🌝
+27/07/18, 11:45 pm - Shobhit: Ha vahi
+27/07/18, 11:45 pm - PSIT Shivam tripathi: 👍
+27/07/18, 11:46 pm - PSIT Shivam tripathi: Yaha dekhne ko nahi milega
+27/07/18, 11:46 pm - PSIT Shivam tripathi: ☹
+27/07/18, 11:46 pm - Shobhit: 👨🏼‍💼👉🦕
+27/07/18, 11:46 pm - Shobhit: Kyo
+27/07/18, 11:46 pm - PSIT Shivam tripathi: News me padha 😄
+27/07/18, 11:46 pm - Shobhit: Nhi
+27/07/18, 11:48 pm - Shobhit: Kya h
+27/07/18, 11:48 pm - PSIT Shivam tripathi: Nasa confirmed
+27/07/18, 11:49 pm - PSIT Shivam tripathi: India me visible nahi hoga
+27/07/18, 11:49 pm - Shobhit: Oh
+27/07/18, 11:49 pm - Shobhit: To fr ab kaise transform hoge😒
+27/07/18, 11:49 pm - PSIT Shivam tripathi: 🤣
+27/07/18, 11:49 pm - Shobhit: Online dakh ke🤨
+27/07/18, 11:50 pm - PSIT Shivam tripathi: ☹☹☹
+27/07/18, 11:50 pm - PSIT Shivam tripathi: 🐧
+28/07/18, 9:49 am - Shobhit: Happy birthday bhai
+28/07/18, 9:51 am - PSIT Shivam tripathi: धन्यवाद 👨🏻
+08/08/18, 10:31 pm - Shobhit: 1 hua?
+08/08/18, 10:31 pm - Shobhit: Code chef ka?
+08/08/18, 11:05 pm - PSIT Shivam tripathi: Nahi bhai
+08/08/18, 11:05 pm - PSIT Shivam tripathi: Abhi karta hu
+08/08/18, 11:09 pm - Shobhit: Ok
+09/08/18, 12:37 am - Shobhit: Hua
+09/08/18, 12:37 am - PSIT Shivam tripathi: Abhi kiya nahi
+09/08/18, 12:37 am - Shobhit: Are
+09/08/18, 12:37 am - PSIT Shivam tripathi: Time nahi mil raha
+09/08/18, 12:38 am - Shobhit: Kahe kya kr rhe ho?
+09/08/18, 12:38 am - PSIT Shivam tripathi: Tum koi aur try karo
+09/08/18, 12:38 am - Shobhit: 4 kare?
+09/08/18, 12:38 am - PSIT Shivam tripathi: Kar lo
+09/08/18, 12:38 am - PSIT Shivam tripathi: Coordinate Compression ki language samjha do
+09/08/18, 12:38 am - PSIT Shivam tripathi: Pata nahi kya ho raha hai usme
+09/08/18, 12:39 am - Shobhit: Acha vahi dakhte h
+09/08/18, 12:39 am - Shobhit: 4 ke baad
+09/08/18, 12:40 am - PSIT Shivam tripathi: Haan
+09/08/18, 12:40 am - PSIT Shivam tripathi: 3rd hua tha mera, and 4th me 50/100
+09/08/18, 12:43 am - Shobhit: Gazb
+09/08/18, 12:43 am - Shobhit: 👍
+09/08/18, 12:44 am - PSIT Shivam tripathi: 🐧
+09/08/18, 1:33 am - PSIT Shivam tripathi: Ho gaya
+09/08/18, 1:33 am - PSIT Shivam tripathi: Pehla
+09/08/18, 2:01 am - Shobhit: B and o count kiye hoge
+09/08/18, 2:03 am - PSIT Shivam tripathi: Kal baat karte hai class me
+09/08/18, 2:06 am - Shobhit: Ok
+13/08/18, 7:55 pm - Shobhit: Are.. iiti jaldi
+13/08/18, 8:54 pm - PSIT Shivam tripathi: 😜
+14/08/18, 6:05 am - Shobhit: // Example program
+#include <iostream>
+#include <string>
+#include<math.h>
+   #include <bits/stdc++.h>
+#define ll long long int
+const int mod = 1e9 + 7;
+using namespace std;
+ 
+ll cal(ll a,ll n,ll mod)
+{ll s=1;
+    while(n)
+    {
+      if(n&1)s=(s*a)%mod;
+      
+      a=(a*a)%mod;
+      n>>=1;
+    }
+    return s;
+    
+}
+
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        ll a,b,n;
+        cin>>a>>b>>n;
+        
+        if(a==b)
+        {
+            cout<<(cal(a,n,mod)+cal(b,n,mod))%mod;
+        }
+        
+        else
+        {
+         ll d=(cal(a,n,a-b)+cal(b,n,a-b))%(a-b);
+         cout<<__gcd(d,a-b);
+         }
+         cout<<endl;
+    }
+ 
+ return 0;
+}
+14/08/18, 6:06 am - Shobhit: 50% hi result aa rha h? last 2 galt
+14/08/18, 7:24 am - PSIT Shivam tripathi: Mod wale fn me 
+a^2 % n kar rahe ho
+14/08/18, 7:24 am - PSIT Shivam tripathi: a ki range 10^12 hai last 2 test cases me
+14/08/18, 7:24 am - PSIT Shivam tripathi: Overflow ho jayega us step pe
+14/08/18, 7:33 am - Shobhit: To kya kare
+14/08/18, 7:37 am - PSIT Shivam tripathi: College ke liye ready ho jao
+14/08/18, 7:37 am - PSIT Shivam tripathi: Chuppe chaap
+14/08/18, 7:37 am - PSIT Shivam tripathi: 🌝
+14/08/18, 7:38 am - PSIT Shivam tripathi: Use int arrays and perform squaring
+14/08/18, 7:38 am - PSIT Shivam tripathi: Or use
+14/08/18, 7:38 am - PSIT Shivam tripathi: int_132 as data type
+14/08/18, 7:38 am - Shobhit: 😂
+14/08/18, 7:39 am - Shobhit: Frgi ke tarike mt batao
+14/08/18, 7:39 am - Shobhit: Ha ye sahi lagg rha h
+14/08/18, 7:39 am - PSIT Shivam tripathi: Achha tareeka hai
+14/08/18, 7:42 am - Shobhit: 😒 yahi kiye te ky?
+14/08/18, 7:54 am - PSIT Shivam tripathi: ☹
+14/08/18, 7:55 am - PSIT Shivam tripathi: Haan 😢
+14/08/18, 7:55 am - PSIT Shivam tripathi: Net pe dekha tha large int ke liye
+14/08/18, 7:55 am - PSIT Shivam tripathi: Long long int dikha raha tha
+14/08/18, 7:55 am - PSIT Shivam tripathi: Usse kaam nahi ban rhaa yha
+14/08/18, 7:55 am - PSIT Shivam tripathi: Int_132 toh kal editorial me dekh ke pata chala
+15/08/18, 3:05 am - PSIT Shivam tripathi: 👨🏻‍💻
+15/08/18, 3:53 am - Shobhit: 😅
+15/08/18, 3:53 am - Shobhit: Sooy jao
+15/08/18, 3:53 am - PSIT Shivam tripathi: Ja rahe
+15/08/18, 3:53 am - PSIT Shivam tripathi: ✋🏻
+15/08/18, 3:54 am - Shobhit: <Media omitted>
+15/08/18, 3:54 am - Shobhit: You deleted this message
+15/08/18, 3:54 am - Shobhit: <Media omitted>
+15/08/18, 3:55 am - PSIT Shivam tripathi: 🤠
+15/08/18, 3:55 am - PSIT Shivam tripathi: Subah nikal jaoge
+15/08/18, 3:55 am - PSIT Shivam tripathi: Uthte hi
+15/08/18, 3:56 am - Shobhit: Ha
+15/08/18, 3:56 am - Shobhit: 😅 vahi
+15/08/18, 3:56 am - PSIT Shivam tripathi: 👍
+15/08/18, 3:56 am - PSIT Shivam tripathi: Chalo phir
+15/08/18, 3:56 am - PSIT Shivam tripathi: Gn
+15/08/18, 3:56 am - Shobhit: Gn bhai
+19/08/18, 6:58 pm - PSIT Shivam tripathi: 9:30 - 12:00 Cookoff
+19/08/18, 7:00 pm - Shobhit: 😁👍
+19/08/18, 7:00 pm - Shobhit: 😅 bull gy te
+19/08/18, 7:18 pm - PSIT Shivam tripathi: Bull 🐃 gaye the
+19/08/18, 7:18 pm - PSIT Shivam tripathi: 🤣
+20/08/18, 12:05 am - PSIT Shivam tripathi: Nahi diye :(
+20/08/18, 12:05 am - PSIT Shivam tripathi: tum
+20/08/18, 6:05 am - Shobhit: Na
+20/08/18, 6:05 am - Shobhit: Yumhe kaise pta
+20/08/18, 6:05 am - Shobhit: 😒
+21/08/18, 11:54 pm - Shobhit: Dakha kon si best hm?
+21/08/18, 11:54 pm - Shobhit: Obj detect ke liye
+21/08/18, 11:54 pm - PSIT Shivam tripathi: Nahi
+21/08/18, 11:55 pm - PSIT Shivam tripathi: 🤣🤣
+21/08/18, 11:55 pm - Shobhit: Dakh lo
+21/08/18, 11:55 pm - Shobhit: Kamm aayga
+21/08/18, 11:55 pm - Shobhit: 😎
+21/08/18, 11:55 pm - PSIT Shivam tripathi: Busy hai abhi
+21/08/18, 11:55 pm - Shobhit: Aakele rahite ho na
+21/08/18, 11:56 pm - Shobhit: Fr kaise busy🤔
+21/08/18, 11:56 pm - PSIT Shivam tripathi: Khaali thodi baithe rehte hai bhai
+21/08/18, 11:56 pm - Shobhit: 😅 acha
+21/08/18, 11:56 pm - Shobhit: Tik h
+21/08/18, 11:57 pm - Shobhit: Mazzak kr rhe h
+21/08/18, 11:57 pm - PSIT Shivam tripathi: 😎
+21/08/18, 11:57 pm - PSIT Shivam tripathi: 😂😂😂
+22/08/18, 9:57 am - Shobhit: Bsnl ka sim kitne ka h ?
+22/08/18, 9:57 am - Shobhit: New lene me
+22/08/18, 11:33 am - PSIT Shivam tripathi: Ham benchte hai kya bhai
+22/08/18, 11:33 am - PSIT Shivam tripathi: ☹
+22/08/18, 11:34 am - Shobhit: Are matlb kitne ka liya ta
+22/08/18, 11:34 am - Shobhit: Pahile
+22/08/18, 11:35 am - PSIT Shivam tripathi: Bhai 2013 me liya tha
+22/08/18, 11:35 am - Shobhit: 😅 acha
+22/08/18, 11:36 am - PSIT Shivam tripathi: 😂
+25/08/18, 10:52 pm - Shobhit: Codechef me solution kaha dikthata h?
+25/08/18, 11:24 pm - PSIT Shivam tripathi: Kiska solution dekhna hai
+25/08/18, 11:24 pm - PSIT Shivam tripathi: Problem ke bagal me dikhata hai all submissions
+25/08/18, 11:24 pm - PSIT Shivam tripathi: Jiska dekhna ho dekh lo
+25/08/18, 11:25 pm - Shobhit: Ok
+26/08/18, 9:48 pm - PSIT Shivam tripathi: कोडिंग करो, कोडर बनो 🧐
+27/08/18, 6:41 am - Shobhit: 😅
+04/09/18, 12:26 am - PSIT Shivam tripathi: ☹
+04/09/18, 12:26 am - PSIT Shivam tripathi: Puri road construction me hai toh chale kaise aage
+04/09/18, 12:29 am - Shobhit: 🤔
+04/09/18, 12:46 am - Shobhit: Paidal
+04/09/18, 9:21 pm - Shobhit: You deleted this message
+04/09/18, 9:26 pm - Shobhit: Padlo kal assignment h
+04/09/18, 9:37 pm - PSIT Shivam tripathi: 🤣
+04/09/18, 9:37 pm - Shobhit: Utt gy
+06/09/18, 8:50 pm - PSIT Shivam tripathi: 🌝
+08/09/18, 1:07 am - Shobhit: 2 hua
+08/09/18, 1:08 am - PSIT Shivam tripathi: 5th kar raha hhu
+08/09/18, 1:08 am - Shobhit: 😅
+08/09/18, 1:08 am - Shobhit: Acha 4 hua
+08/09/18, 1:08 am - PSIT Shivam tripathi: first 4 ques last me karenge
+08/09/18, 1:08 am - Shobhit: Ok
+08/09/18, 1:08 am - PSIT Shivam tripathi: 😢
+08/09/18, 1:08 am - Shobhit: 👍
+08/09/18, 1:08 am - PSIT Shivam tripathi: Har baar 3 kar lete hai
+08/09/18, 1:08 am - Shobhit: Ok
+08/09/18, 1:08 am - PSIT Shivam tripathi: iss bar bdhiya wale pehle karenge
+08/09/18, 1:08 am - PSIT Shivam tripathi: tum bhi padh ke dekho 5th
+08/09/18, 1:09 am - PSIT Shivam tripathi: achha lagega
+08/09/18, 1:09 am - Shobhit: Bad shuffle
+08/09/18, 1:09 am - PSIT Shivam tripathi: ha
+08/09/18, 1:09 am - Shobhit: Ok
+08/09/18, 1:16 am - Shobhit: Kahh kya rha h question me
+08/09/18, 1:17 am - PSIT Shivam tripathi: 🌝
+08/09/18, 1:17 am - Shobhit: 🤔🙄
+08/09/18, 1:17 am - PSIT Shivam tripathi: Ek hi input hai
+08/09/18, 1:17 am - PSIT Shivam tripathi: Ek hi number
+08/09/18, 1:17 am - PSIT Shivam tripathi: Aur 2 permutations print karne hai
+08/09/18, 1:17 am - PSIT Shivam tripathi: Ek jiski probability max hai
+08/09/18, 1:17 am - PSIT Shivam tripathi: Ek jiski min hai
+08/09/18, 1:17 am - Shobhit: Probability?
+08/09/18, 1:17 am - PSIT Shivam tripathi: <Media omitted>
+08/09/18, 1:18 am - PSIT Shivam tripathi: Maine Abhi yeh banaya samajhne ke liye
+08/09/18, 1:18 am - Shobhit: Ok
+08/09/18, 1:18 am - PSIT Shivam tripathi: 😢
+08/09/18, 1:18 am - Shobhit: Very good boy
+08/09/18, 1:18 am - PSIT Shivam tripathi: Bada hi ajeeb sawaal hai
+08/09/18, 1:19 am - PSIT Shivam tripathi: Lekin 20 marks mil jayenge
+08/09/18, 1:19 am - Shobhit: 😅 ha
+08/09/18, 1:19 am - PSIT Shivam tripathi: N ki 7 value tak chala denge
+08/09/18, 1:19 am - PSIT Shivam tripathi: 🌝
+08/09/18, 1:19 am - Shobhit: Mtlb?
+08/09/18, 1:19 am - Shobhit: Acha ha smj gy
+08/09/18, 1:19 am - PSIT Shivam tripathi: <Media omitted>
+08/09/18, 1:19 am - Shobhit: Ha smj gu 👍
+08/09/18, 1:19 am - PSIT Shivam tripathi: .
+08/09/18, 1:20 am - Shobhit: 😁
+08/09/18, 1:28 am - Shobhit: Bhai do use hogi
+08/09/18, 1:28 am - Shobhit: Matrix banegi n*n ki
+08/09/18, 1:28 am - Shobhit: Dp*
+08/09/18, 1:28 am - PSIT Shivam tripathi: Yes
+08/09/18, 1:29 am - Shobhit: 👍
+08/09/18, 1:29 am - PSIT Shivam tripathi: Aise hi hona chahiye
+08/09/18, 1:29 am - PSIT Shivam tripathi: Achha idea diya tumne
+08/09/18, 1:29 am - PSIT Shivam tripathi: Abhi tak ham jugaad laga rhe the
+08/09/18, 1:29 am - PSIT Shivam tripathi: 🤭
+08/09/18, 1:29 am - Shobhit: Chahiye , chahiye 🤔😅
+08/09/18, 1:29 am - Shobhit: Kya chahiye
+08/09/18, 1:29 am - PSIT Shivam tripathi: 😆
+08/09/18, 1:29 am - Shobhit: Thanks
+08/09/18, 1:29 am - PSIT Shivam tripathi: Webtech wala bolta hai na
+08/09/18, 1:30 am - PSIT Shivam tripathi: chahiye chahiye
+08/09/18, 1:30 am - Shobhit: Ha 🤣
+08/09/18, 1:30 am - Shobhit: But mujhe dp nhi aati ache se
+08/09/18, 1:30 am - PSIT Shivam tripathi: mujhe bhi
+08/09/18, 1:30 am - PSIT Shivam tripathi: :(
+08/09/18, 1:30 am - PSIT Shivam tripathi: seekh lenge
+08/09/18, 1:30 am - PSIT Shivam tripathi: 10 din hai
+08/09/18, 1:30 am - Shobhit: To ab sikhte h pahile 👍
+08/09/18, 1:30 am - PSIT Shivam tripathi: isi liye diye hai
+08/09/18, 1:31 am - Shobhit: Badiya saval h
+08/09/18, 1:31 am - Shobhit: 👉🤘🏻👍
+08/09/18, 1:31 am - PSIT Shivam tripathi: OK
+08/09/18, 1:32 am - Shobhit: <Media omitted>
+08/09/18, 1:32 am - Shobhit: 😎🤩
+08/09/18, 1:32 am - PSIT Shivam tripathi: 😇
+09/09/18, 1:25 am - Shobhit: Hua vo
+09/09/18, 1:25 am - PSIT Shivam tripathi: Kaun sa ?
+09/09/18, 1:25 am - Shobhit: 4
+09/09/18, 1:25 am - Shobhit: Kr rhe te na
+09/09/18, 1:25 am - PSIT Shivam tripathi: Partially Accept hua
+09/09/18, 1:25 am - PSIT Shivam tripathi: 20  marks
+09/09/18, 1:25 am - Shobhit: Dp
+09/09/18, 1:26 am - PSIT Shivam tripathi: No DP
+09/09/18, 1:26 am - Shobhit: Ok
+09/09/18, 1:26 am - PSIT Shivam tripathi: Rishabh nishad ne kar liya hai full
+09/09/18, 1:26 am - PSIT Shivam tripathi: Voh bata rhaa
+09/09/18, 1:26 am - PSIT Shivam tripathi: Sirf basic logic hai
+09/09/18, 1:26 am - PSIT Shivam tripathi: Pattern samajh ke ho jayega
+09/09/18, 1:26 am - Shobhit: Acha🤔
+09/09/18, 1:26 am - PSIT Shivam tripathi: Bahut easy hai
+09/09/18, 1:26 am - PSIT Shivam tripathi: Toh ham vahi dhundhne me lage hai pattern
+09/09/18, 9:19 am - PSIT Shivam tripathi: This message was deleted
+09/09/18, 9:20 am - Shobhit: 4 chall gy
+09/09/18, 9:21 am - Shobhit: Mhnti ladke ho tum 😅
+09/09/18, 9:21 am - PSIT Shivam tripathi: 🐸
+09/09/18, 9:21 am - PSIT Shivam tripathi: 2 chale hai, baaki 2 partial
+09/09/18, 9:21 am - Shobhit: Oh
+09/09/18, 9:21 am - Shobhit: Badiga
+09/09/18, 9:21 am - PSIT Shivam tripathi: 8 din hai abhi
+09/09/18, 9:21 am - Shobhit: Bdiya*
+09/09/18, 9:21 am - PSIT Shivam tripathi: 🌝
+09/09/18, 9:22 am - PSIT Shivam tripathi: चुटकी बजा देंगे
+09/09/18, 9:22 am - Shobhit: 🤭 are
+09/09/18, 9:45 am - Shobhit: 2 vale dakho
+09/09/18, 9:46 am - Shobhit: <Media omitted>
+09/09/18, 9:48 am - PSIT Shivam tripathi: Pehli condition likhne ki jaroorat nhi
+09/09/18, 9:48 am - PSIT Shivam tripathi: n,x,m,y hamesha >=1 hai
+09/09/18, 9:48 am - PSIT Shivam tripathi: Anyways
+09/09/18, 9:48 am - PSIT Shivam tripathi: No problme
+09/09/18, 9:48 am - PSIT Shivam tripathi: in that
+09/09/18, 9:48 am - Shobhit: chall nhi rha
+09/09/18, 9:48 am - Shobhit: wa
+09/09/18, 9:49 am - Shobhit: apne me chall rha ha
+09/09/18, 9:49 am - PSIT Shivam tripathi: Yeh na bola karo yaar
+09/09/18, 9:49 am - PSIT Shivam tripathi: Ki mere me chal rhaa
+09/09/18, 9:49 am - PSIT Shivam tripathi: codechef nahi le raha
+09/09/18, 9:49 am - PSIT Shivam tripathi: 🤣🤣
+09/09/18, 9:49 am - Shobhit: are mtlb koi equalty type kutch galti h
+09/09/18, 9:49 am - PSIT Shivam tripathi: Tumhari conditions sahi hai last wali
+09/09/18, 9:50 am - Shobhit: vo dakh kr batao
+09/09/18, 9:50 am - PSIT Shivam tripathi: Line 15-26 check kar lo
+09/09/18, 9:50 am - PSIT Shivam tripathi: baaki sahi hai
+09/09/18, 9:50 am - Shobhit: 😅
+09/09/18, 9:50 am - Shobhit: ha vahi galt hogi
+09/09/18, 9:52 am - PSIT Shivam tripathi: Check kro
+09/09/18, 9:52 am - PSIT Shivam tripathi: aise galti samajh nahi aayegi
+09/09/18, 9:52 am - PSIT Shivam tripathi: mujhe
+09/09/18, 10:02 am - Shobhit: <Media omitted>
+09/09/18, 10:02 am - Shobhit: Aaisa kaisa kb hota h😅
+09/09/18, 10:02 am - PSIT Shivam tripathi: Gazab launde ho yaar tum
+09/09/18, 10:02 am - PSIT Shivam tripathi: 🤣🤣
+09/09/18, 10:03 am - PSIT Shivam tripathi: Aage wala chala diye
+09/09/18, 10:03 am - PSIT Shivam tripathi: Pehle wala reh gaya
+09/09/18, 10:03 am - Shobhit: Vahi
+09/09/18, 10:03 am - PSIT Shivam tripathi: गज़ब
+09/09/18, 10:03 am - Shobhit: Pta nhi
+09/09/18, 10:03 am - PSIT Shivam tripathi: ठग लाइफ
+09/09/18, 10:03 am - PSIT Shivam tripathi: 😎
+09/09/18, 10:05 am - Shobhit: <Media omitted>
+09/09/18, 10:05 am - Shobhit: Equal rahh gy ta😅
+09/09/18, 10:05 am - PSIT Shivam tripathi: Yeh baat
+09/09/18, 10:05 am - PSIT Shivam tripathi: 😎
+09/09/18, 10:06 am - Shobhit: You deleted this message
+09/09/18, 10:06 am - Shobhit: America me h
+09/09/18, 10:06 am - PSIT Shivam tripathi: Psit me ho
+09/09/18, 10:06 am - Shobhit: 🤣
+09/09/18, 10:06 am - PSIT Shivam tripathi: Ghar ki hai
+09/09/18, 10:07 am - PSIT Shivam tripathi: 😅
+09/09/18, 10:07 am - Shobhit: Ha
+09/09/18, 10:07 am - PSIT Shivam tripathi: ✔
+09/09/18, 10:07 am - PSIT Shivam tripathi: 2 saal baad
+09/09/18, 10:07 am - PSIT Shivam tripathi: Infosys ki aayegi
+09/09/18, 10:07 am - PSIT Shivam tripathi: 🐸
+09/09/18, 10:07 am - Shobhit: Ye dakh kr kussi hoti h.. correct answer
+09/09/18, 10:07 am - PSIT Shivam tripathi: <Media omitted>
+09/09/18, 10:07 am - Shobhit: 🤭 janna hi nhi h usme
+09/09/18, 10:08 am - PSIT Shivam tripathi: Good
+09/09/18, 10:08 am - Shobhit: 😃
+09/09/18, 10:29 pm - Shobhit: 4 me kya kiya h?
+09/09/18, 10:30 pm - PSIT Shivam tripathi: .
+09/09/18, 10:31 pm - Shobhit: 🤭
+09/09/18, 10:31 pm - Shobhit: Batao
+09/09/18, 10:31 pm - PSIT Shivam tripathi: Try karo
+09/09/18, 10:31 pm - PSIT Shivam tripathi: Phir kal batayenge class me
+09/09/18, 10:31 pm - Shobhit: 😅 are
+09/09/18, 10:31 pm - PSIT Shivam tripathi: 😎
+10/09/18, 10:15 pm - Shobhit: Piche dakho kon h
+10/09/18, 10:15 pm - PSIT Shivam tripathi: kaun hai
+10/09/18, 10:15 pm - Shobhit: 😨
+10/09/18, 10:15 pm - PSIT Shivam tripathi: sonam toh nahi khadi
+10/09/18, 10:15 pm - PSIT Shivam tripathi: :(
+10/09/18, 10:15 pm - Shobhit: 🤣
+10/09/18, 10:16 pm - Shobhit: Dinbhar whatap me jute rahite ho
+10/09/18, 10:16 pm - Shobhit: Koi mill gai h kya
+10/09/18, 10:16 pm - Shobhit: 🤔
+10/09/18, 10:16 pm - PSIT Shivam tripathi: Nopes bro
+10/09/18, 10:16 pm - PSIT Shivam tripathi: live single
+10/09/18, 10:16 pm - PSIT Shivam tripathi: build career
+10/09/18, 10:16 pm - PSIT Shivam tripathi: live happy
+10/09/18, 10:17 pm - Shobhit: Cycle ka
+10/09/18, 10:17 pm - PSIT Shivam tripathi: patao ladki in colleg
+10/09/18, 10:17 pm - PSIT Shivam tripathi: baitho 25000 kamaye infosys me
+10/09/18, 10:17 pm - PSIT Shivam tripathi: growth kahne ki baat hai
+10/09/18, 10:17 pm - Shobhit: 🤣🤭
+10/09/18, 10:17 pm - PSIT Shivam tripathi: :(
+10/09/18, 10:17 pm - PSIT Shivam tripathi: isse achha
+10/09/18, 10:17 pm - Shobhit: Ab hui motivational bate
+10/09/18, 10:17 pm - PSIT Shivam tripathi: live single
+10/09/18, 10:18 pm - PSIT Shivam tripathi: baad me ladki chhod ke chali jjayegi
+10/09/18, 10:18 pm - PSIT Shivam tripathi: ki tumhare paas paisa nahi hai
+10/09/18, 10:18 pm - Shobhit: 😨 ab gahra ho rha h
+10/09/18, 10:18 pm - Shobhit: Iita paresan kahe ho
+10/09/18, 10:18 pm - PSIT Shivam tripathi: ladki sab pata lenge
+10/09/18, 10:18 pm - PSIT Shivam tripathi: AND square subsegments solve kar
+10/09/18, 10:18 pm - PSIT Shivam tripathi: o
+10/09/18, 10:18 pm - PSIT Shivam tripathi: toh jaane
+10/09/18, 10:18 pm - PSIT Shivam tripathi: 😃
+10/09/18, 10:18 pm - Shobhit: 😅
+10/09/18, 10:18 pm - PSIT Shivam tripathi: 7th ques
+10/09/18, 10:19 pm - Shobhit: Bai 🤣 4 ho nhi rha
+10/09/18, 10:19 pm - Shobhit: 7 i batt kr rhe
+10/09/18, 10:19 pm - PSIT Shivam tripathi: partial ho jayga'
+10/09/18, 10:19 pm - Shobhit: Pura karo
+10/09/18, 10:20 pm - Shobhit: 6 hua ky?
+10/09/18, 10:20 pm - PSIT Shivam tripathi: nahi ho raha
+10/09/18, 10:21 pm - Shobhit: Abhi bahut pdna h 😒
+10/09/18, 10:21 pm - PSIT Shivam tripathi: i know
+10/09/18, 10:21 pm - Shobhit: Iitne me sirf iita hi ho payga
+10/09/18, 10:21 pm - Shobhit: 2-3 max 4
+10/09/18, 10:21 pm - PSIT Shivam tripathi: ham isi wajah se pareshan rahte hai
+10/09/18, 10:22 pm - Shobhit: Uuse todi hoga
+10/09/18, 10:22 pm - Shobhit: Pdho
+10/09/18, 10:22 pm - Shobhit: Bhai 7  to easy dikh rha h
+10/09/18, 10:23 pm - Shobhit: Segment tree use hoga syd isme
+10/09/18, 10:24 pm - Shobhit: 😁🤣
+10/09/18, 10:24 pm - PSIT Shivam tripathi: padhte hai phir
+10/09/18, 10:30 pm - Shobhit: yees🤘
+10/09/18, 10:30 pm - PSIT Shivam tripathi: ?
+10/09/18, 10:30 pm - Shobhit: ha padhte h
+10/09/18, 10:31 pm - PSIT Shivam tripathi: Hmm
+10/09/18, 10:45 pm - Shobhit: band kr do whatapp
+10/09/18, 10:45 pm - PSIT Shivam tripathi: Hmm
+10/09/18, 10:46 pm - PSIT Shivam tripathi: Chinta na karo bhai
+10/09/18, 10:46 pm - PSIT Shivam tripathi: time waste nahi kar rahe
+10/09/18, 10:46 pm - Shobhit: 😨
+10/09/18, 11:03 pm - Shobhit: 4 me
+10/09/18, 11:03 pm - Shobhit: 7 ka max and min kya aa rha ta?
+10/09/18, 11:09 pm - PSIT Shivam tripathi: abhi laga nahi raha
+10/09/18, 11:10 pm - Shobhit: 4 me n=7 me
+10/09/18, 11:10 pm - Shobhit: Max and min
+10/09/18, 11:10 pm - PSIT Shivam tripathi: Achha
+10/09/18, 11:10 pm - PSIT Shivam tripathi: Voh
+10/09/18, 11:10 pm - Shobhit: Yes
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Kai possibilities hai
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Mai apna wala bata raha
+10/09/18, 11:11 pm - Shobhit: Ok
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Max : 2341675
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Min: 7123456
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Pattern dikha 😎
+10/09/18, 11:11 pm - Shobhit: Ha
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Min ✔
+10/09/18, 11:11 pm - Shobhit: Yes
+10/09/18, 11:11 pm - PSIT Shivam tripathi: Max ka bhi dhundho
+10/09/18, 11:12 pm - Shobhit: <Media omitted>
+10/09/18, 11:12 pm - Shobhit: <Media omitted>
+10/09/18, 11:12 pm - Shobhit: 🤭
+10/09/18, 11:13 pm - PSIT Shivam tripathi: gud
+10/09/18, 11:13 pm - Shobhit: Apne aap se nhi kiya h
+10/09/18, 11:13 pm - Shobhit: Help li ti..
+10/09/18, 11:13 pm - Shobhit: 🤣
+10/09/18, 11:13 pm - PSIT Shivam tripathi: No problem
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Aage ke try karo ques iss baar
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Yeh 4 aise the jo kar lete
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Bhale thoda time lagta
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Aage wale karo
+10/09/18, 11:14 pm - Shobhit: Ha
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Help lo net se
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Explore karo kya logic ya DS use hone
+10/09/18, 11:14 pm - PSIT Shivam tripathi: Padho
+10/09/18, 11:14 pm - PSIT Shivam tripathi: ✔
+10/09/18, 11:14 pm - PSIT Shivam tripathi: .
+10/09/18, 11:14 pm - PSIT Shivam tripathi: 🤭
+10/09/18, 11:14 pm - Shobhit: 😁
+10/09/18, 11:22 pm - Shobhit: <Media omitted>
+10/09/18, 11:23 pm - PSIT Shivam tripathi: Kiska ?
+10/09/18, 11:23 pm - Shobhit: Mera h
+10/09/18, 11:23 pm - PSIT Shivam tripathi: Abe :(
+10/09/18, 11:23 pm - PSIT Shivam tripathi: 😎
+10/09/18, 11:23 pm - Shobhit: 🤭
+10/09/18, 11:23 pm - Shobhit: Kya hua
+10/09/18, 11:23 pm - PSIT Shivam tripathi: Bhaukaal tight kar diye tum
+10/09/18, 11:24 pm - Shobhit: 😁😅
+10/09/18, 11:24 pm - Shobhit: Kyo bhai
+10/09/18, 11:24 pm - PSIT Shivam tripathi: 600 score
+10/09/18, 11:24 pm - Shobhit: Html ka kamal h sirf...
+10/09/18, 11:25 pm - PSIT Shivam tripathi: PSIT wale tumko pyaar karenge
+10/09/18, 11:25 pm - Shobhit: Edit krdiya page me
+10/09/18, 11:26 pm - PSIT Shivam tripathi: achha
+10/09/18, 11:26 pm - PSIT Shivam tripathi: 😀
+10/09/18, 11:26 pm - Shobhit: <Media omitted>
+10/09/18, 11:26 pm - PSIT Shivam tripathi: Anyways no joke
+10/09/18, 11:26 pm - Shobhit: Kyo bhai
+10/09/18, 11:26 pm - PSIT Shivam tripathi: I wish you do a good job like this in future
+10/09/18, 11:26 pm - PSIT Shivam tripathi: In Real
+10/09/18, 11:26 pm - PSIT Shivam tripathi: Not HTML
+10/09/18, 11:26 pm - Shobhit: Oho.. forsure
+10/09/18, 11:26 pm - PSIT Shivam tripathi: 😀
+10/09/18, 11:27 pm - Shobhit: Ye dakho
+10/09/18, 11:30 pm - PSIT Shivam tripathi: Waah
+10/09/18, 11:30 pm - Shobhit: Hacker 🤔
+10/09/18, 11:32 pm - PSIT Shivam tripathi: Black Hat Hacker
+10/09/18, 11:32 pm - PSIT Shivam tripathi: :)
+10/09/18, 11:32 pm - Shobhit: Coding karo
+10/09/18, 11:32 pm - PSIT Shivam tripathi: 😢
+10/09/18, 11:32 pm - PSIT Shivam tripathi: Bhai ek no. channel hai
+10/09/18, 11:32 pm - PSIT Shivam tripathi: Orgasm ho jaata
+10/09/18, 11:33 pm - Shobhit: <Media omitted>
+10/09/18, 11:33 pm - PSIT Shivam tripathi: 😟
+10/09/18, 11:34 pm - PSIT Shivam tripathi: Matlab ek aisi feeling aa jati jisse bahut khushi milti
+10/09/18, 11:34 pm - PSIT Shivam tripathi: Hamara kahne ka matlab yehi tha
+10/09/18, 11:34 pm - Shobhit: 🤭 ha fr tik h...
+10/09/18, 11:47 pm - Shobhit: You deleted this message
+10/09/18, 11:47 pm - PSIT Shivam tripathi: Topa
+10/09/18, 11:47 pm - Shobhit: 🤣
+12/09/18, 9:04 pm - Shobhit: <Media omitted>
+12/09/18, 9:05 pm - Shobhit: Ye subsequence h?
+12/09/18, 11:30 pm - PSIT Shivam tripathi: ✔
+12/09/18, 11:31 pm - Shobhit: Ok
+14/09/18, 12:16 am - Shobhit: ye dakho
+14/09/18, 12:16 am - Shobhit: You deleted this message
+14/09/18, 12:16 am - Shobhit: bato fr
+14/09/18, 12:24 am - Shobhit: https://ide.geeksforgeeks.org/SAxZzkfPQE
+15/09/18, 10:30 pm - Shobhit: dakho iskko?
+15/09/18, 10:30 pm - Shobhit: 1234
+15/09/18, 10:30 pm - Shobhit: query 1 4
+15/09/18, 10:30 pm - Shobhit: 1--1
+2--2
+3--3
+4--4
+12--0
+23--2
+34--0
+123--0
+234--0
+1234--0
+count 7
+15/09/18, 10:35 pm - Shobhit: bhai isko review kr lo
+15/09/18, 10:35 pm - Shobhit: input kr ke
+16/09/18, 4:45 am - PSIT Shivam tripathi: Gud morning
+16/09/18, 4:45 am - PSIT Shivam tripathi: 🌞
+16/09/18, 4:45 am - PSIT Shivam tripathi: Dekhta hu
+16/09/18, 6:29 am - Shobhit: Good morning
+16/09/18, 6:29 am - PSIT Shivam tripathi: 🐸
+16/09/18, 6:30 am - Shobhit: Jaise agr tum rat ko soojao ge to kutch ho jayga ga ky?
+16/09/18, 6:30 am - Shobhit: 🧟‍♂
+16/09/18, 6:30 am - Shobhit: <Media omitted>
+16/09/18, 6:31 am - PSIT Shivam tripathi: So chuke hai bhai
+16/09/18, 6:31 am - PSIT Shivam tripathi: 10:30 se 4:30
+16/09/18, 6:31 am - Shobhit: Acha fr tik h
+16/09/18, 6:31 am - PSIT Shivam tripathi: 😬
+16/09/18, 6:32 am - Shobhit: Is imoji ka front to
+16/09/18, 6:32 am - Shobhit: <Media omitted>
+16/09/18, 6:33 am - Shobhit: Bhai to and valla hua
+16/09/18, 6:33 am - PSIT Shivam tripathi: 🙄
+16/09/18, 6:34 am - Shobhit: 7 questions
+16/09/18, 6:34 am - Shobhit: Codechef
+16/09/18, 6:34 am - PSIT Shivam tripathi: Ho gaye tumhare
+16/09/18, 6:35 am - Shobhit: Na but dakha ta
+16/09/18, 6:35 am - Shobhit: Tree se bi ho jyga
+16/09/18, 6:35 am - PSIT Shivam tripathi: Condition zero wala
+16/09/18, 6:35 am - PSIT Shivam tripathi: ?
+16/09/18, 6:35 am - Shobhit: Na dakha nhi
+16/09/18, 6:35 am - Shobhit: Table game
+16/09/18, 6:35 am - Shobhit: ?
+16/09/18, 6:36 am - PSIT Shivam tripathi: Partial hua hai
+16/09/18, 6:36 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:36 am - PSIT Shivam tripathi: Memory Jyada use kar li
+16/09/18, 6:36 am - PSIT Shivam tripathi: 🤣
+16/09/18, 6:36 am - Shobhit: 😅 hme to smj nhi aa rha question
+16/09/18, 6:36 am - PSIT Shivam tripathi: 🌝
+16/09/18, 6:37 am - Shobhit: Test case explain kr skte ho?
+16/09/18, 6:37 am - PSIT Shivam tripathi: Nahi
+16/09/18, 6:37 am - Shobhit: 🤣
+16/09/18, 6:37 am - Shobhit: Krdo
+16/09/18, 6:37 am - PSIT Shivam tripathi: ☹
+16/09/18, 6:37 am - PSIT Shivam tripathi: Nishad se call karke punchh lena
+16/09/18, 6:37 am - Shobhit: <Media omitted>
+16/09/18, 6:37 am - PSIT Shivam tripathi: Kal usne 12 ghante lagaya tha
+16/09/18, 6:37 am - PSIT Shivam tripathi: Yeh sawal
+16/09/18, 6:37 am - Shobhit: 🤭
+16/09/18, 6:37 am - PSIT Shivam tripathi: ☹
+16/09/18, 6:37 am - Shobhit: Are bt do
+16/09/18, 6:38 am - Shobhit: Are rahine do acha
+16/09/18, 6:38 am - PSIT Shivam tripathi: Batayenge
+16/09/18, 6:38 am - Shobhit: And valla try krte h
+16/09/18, 6:38 am - PSIT Shivam tripathi: Baad me
+16/09/18, 6:38 am - Shobhit: Solution nhi.. test case hi nhi smj aa rha
+16/09/18, 6:38 am - Shobhit: 😅
+16/09/18, 6:41 am - Shobhit: <Media omitted>
+16/09/18, 6:41 am - Shobhit: Bas count krne h.. perfect sqr
+16/09/18, 6:42 am - PSIT Shivam tripathi: Haa
+16/09/18, 6:42 am - Shobhit: Ye to parent ne store kr lo count
+16/09/18, 6:42 am - Shobhit: Use bi hojyga
+16/09/18, 6:43 am - Shobhit: Main batt ... Cpyiyo ki pic le ky?
+16/09/18, 6:43 am - Shobhit: Eco and cyber?
+16/09/18, 6:44 am - PSIT Shivam tripathi: Haa
+16/09/18, 6:44 am - Shobhit: Bejdo
+16/09/18, 6:44 am - PSIT Shivam tripathi: 100 Rs per copy
+16/09/18, 6:44 am - PSIT Shivam tripathi: 600 Rs Paytm karo
+16/09/18, 6:45 am - Shobhit: 🙂 kr diye
+16/09/18, 6:45 am - Shobhit: Bejo ab
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 6:45 am - Shobhit: 🤘🏻
+16/09/18, 6:45 am - Shobhit: Padliya?
+16/09/18, 6:45 am - PSIT Shivam tripathi: Haan
+16/09/18, 6:45 am - Shobhit: 🤣
+16/09/18, 6:45 am - PSIT Shivam tripathi: Sab hash kar liya dimaag me
+16/09/18, 6:46 am - Shobhit: Hash👉 #
+16/09/18, 6:46 am - Shobhit: Acha ab padlo.. whatap band kr do
+16/09/18, 6:46 am - PSIT Shivam tripathi: Nahi band karenge
+16/09/18, 6:46 am - PSIT Shivam tripathi: Notes bheje hai
+16/09/18, 6:47 am - PSIT Shivam tripathi: Respect karo
+16/09/18, 6:47 am - Shobhit: 🤭
+16/09/18, 6:47 am - PSIT Shivam tripathi: 208 panne click kiye hai
+16/09/18, 6:47 am - PSIT Shivam tripathi: 🤗
+16/09/18, 6:47 am - Shobhit: Acha ha.. 👌👍 #hero of the ct
+16/09/18, 6:47 am - PSIT Shivam tripathi: 🌝
+16/09/18, 7:21 am - PSIT Shivam tripathi: This message was deleted
+16/09/18, 7:21 am - PSIT Shivam tripathi: This message was deleted
+16/09/18, 7:32 am - Shobhit: Kya h ye?
+16/09/18, 7:32 am - Shobhit: Delete kya kr diya
+16/09/18, 7:32 am - PSIT Shivam tripathi: Xor ka code bhejo
+16/09/18, 7:32 am - PSIT Shivam tripathi: Please
+16/09/18, 7:33 am - Shobhit: Ye likh ne ki kya jarurt ti 🙄
+16/09/18, 7:33 am - PSIT Shivam tripathi: #include<bits/stdc++.h>
+using namespace std;
+
+#define PB push_back
+#define FOR(i,n) for (int i=0; i<n; i++)
+#define REP(i,k,n) for (int i=k; i<=n; i++)
+#define REPR(i,k,n) for (int i=k; i>=n; i--)
+
+int hasharray[1000001];
+
+int main()
+{
+	int t;
+	long long int n, x, y, subtract, count;
+	cin >> t;
+
+	while(t--)
+	{
+		cin >> n;
+
+		long long int a[n];
+		x = y = 0, subtract = 0;
+		
+		memset(hasharray, -1, 1000001);
+
+		FOR(i,n)
+		{
+			cin >> a[i];
+
+			hasharray[a[i]]++;
+
+			if(hasharray[a[i]] != 0)
+				subtract++;
+
+			if(a[i]%2==0)
+				x++;
+			else
+				y++;
+		}
+
+		cout << "Subtract " << subtract << endl;
+
+		sort(a, a+n);
+
+		vector <int> v;
+
+		v.PB(a[0]);
+
+		for(int i=1; i<n; i++)
+		{
+			if(a[i] != a[i-1])
+				v.PB(a[i]);
+		}
+
+		memset(hasharray, -1, 1000001);
+
+		long long int xor2[v.size()];
+
+		FOR(i,v.size())
+		{
+			xor2[i] = v[i] & (~(1 << 1));
+
+			hasharray[xor2[i]]++;
+
+			if(hasharray[xor2[i]] != 0)
+				subtract++;
+		}
+
+		cout << "Subtract " << subtract << endl;
+
+		x = x*(x-1)/2;
+		y = y*(y-1)/2;
+
+		count = x + y - subtract;
+
+		cout << count << endl;
+	}
+
+}
+16/09/18, 7:33 am - Shobhit: <Media omitted>
+16/09/18, 7:33 am - PSIT Shivam tripathi: ok
+16/09/18, 7:34 am - Shobhit: 👍
+16/09/18, 7:59 am - Shobhit: And valla bejo
+16/09/18, 8:00 am - Shobhit: Mere wa ho rha h
+16/09/18, 8:01 am - Shobhit: Ye?
+16/09/18, 8:01 am - Shobhit: <Media omitted>
+16/09/18, 8:01 am - Shobhit: Ye h kon sa tree?
+16/09/18, 8:01 am - PSIT Shivam tripathi: Partial ho gaya tumhara ?
+16/09/18, 8:01 am - Shobhit: 😅 nhi
+16/09/18, 8:01 am - PSIT Shivam tripathi: Partial karo fir tree banana
+16/09/18, 8:01 am - PSIT Shivam tripathi: Partial normal loop laga ke ho jayega
+16/09/18, 8:01 am - PSIT Shivam tripathi: Brute force
+16/09/18, 8:02 am - Shobhit: Vahi to wa ho rha h
+16/09/18, 8:02 am - PSIT Shivam tripathi: Tree me mera bhi WA ho raha
+16/09/18, 8:02 am - Shobhit: Bhai dakh lo isko
+16/09/18, 8:02 am - Shobhit: Brute Force ka h
+16/09/18, 8:04 am - PSIT Shivam tripathi: Perfect square galat check kar rahe
+16/09/18, 8:04 am - PSIT Shivam tripathi: Interger hai "an"
+16/09/18, 8:04 am - PSIT Shivam tripathi: This message was deleted
+16/09/18, 8:05 am - PSIT Shivam tripathi: Ruko
+16/09/18, 8:05 am - Shobhit: Ha 4*4=16!= 17
+16/09/18, 8:05 am - PSIT Shivam tripathi: 🤣
+16/09/18, 8:05 am - PSIT Shivam tripathi: Haa
+16/09/18, 8:05 am - Shobhit: 🙄
+16/09/18, 8:08 am - Shobhit: Bhai smjh hi nhi aa rha
+16/09/18, 8:08 am - Shobhit: Dakho kutch line change me galti h ky?
+16/09/18, 8:08 am - Shobhit: for(i=1;i<=(b-aa+1);i++) // use for size of subset like i=1>1,2,3 ||i=2> 12,23 || i=3>123
+16/09/18, 8:08 am - Shobhit: for(j=aa-1;j<b;j++) //it select elemnt from array line 28
+16/09/18, 8:08 am - PSIT Shivam tripathi: Vahi dekh raha
+16/09/18, 8:11 am - PSIT Shivam tripathi: Samajh nahi aa raha
+16/09/18, 8:11 am - PSIT Shivam tripathi: Complicate kar diya hai codd
+16/09/18, 8:11 am - Shobhit: Ha.. ishi vajh se.. magg rhe h tumhara
+16/09/18, 8:11 am - Shobhit: Hmm smj lege
+16/09/18, 8:11 am - Shobhit: 😁
+16/09/18, 8:11 am - Shobhit: Maggie kaa lo aaj
+16/09/18, 8:11 am - Shobhit: Mazzaa aa jayga
+16/09/18, 8:12 am - PSIT Shivam tripathi: int main()
+{
+	int t, n, q, l, r;
+	cin >> t;
+
+	while(t--)
+	{
+		cin >> n >> q;
+		long long int a[n], count, value;
+
+		for(int i=1; i<=n; i++)
+			cin >> a[i];
+
+		while(q--)
+		{
+			count = 0;
+			cin >> l >> r;
+			value = a[l];
+
+			for(int i=l; i<r; i++)
+			{
+				value = a[i];
+
+				if(perfectsquare(value))
+					count++;
+
+				for(int j=i+1; j<=r; j++)
+				{
+					value &= a[j];
+
+					if(perfectsquare(value))
+						count++;
+				}
+			}
+
+			if(perfectsquare(a[r]))
+				count++;
+
+			cout << count << endl;
+		}
+	}
+}
+16/09/18, 8:12 am - PSIT Shivam tripathi: change kar dena bhai bas
+16/09/18, 8:12 am - Shobhit: 🤣
+16/09/18, 8:12 am - PSIT Shivam tripathi: sirf variable change karne se bhi pakad lete hai codechef wale
+16/09/18, 8:12 am - PSIT Shivam tripathi: iss baar meri id band ho jayegu
+16/09/18, 8:12 am - Shobhit: Are apne vale hi change karege
+16/09/18, 8:12 am - Shobhit: Paresn mt ho
+16/09/18, 8:12 am - PSIT Shivam tripathi: Haa
+16/09/18, 8:12 am - PSIT Shivam tripathi: ok
+16/09/18, 8:13 am - Shobhit: Are .. iita kahe paresn ho.. dushri banna lena
+16/09/18, 8:13 am - PSIT Shivam tripathi: nahi bhai
+16/09/18, 8:13 am - PSIT Shivam tripathi: vahi chalani hai
+16/09/18, 8:13 am - PSIT Shivam tripathi: official wali baat hi alag hai
+16/09/18, 8:13 am - Shobhit: Ok.. paresn mt hona..
+16/09/18, 8:13 am - Shobhit: Nhi karege
+16/09/18, 8:14 am - Shobhit: 🤘🏻 jindagi ke maze lo..
+16/09/18, 8:14 am - PSIT Shivam tripathi: ☹
+16/09/18, 8:14 am - Shobhit: Bahut paresn rahite ho
+16/09/18, 8:14 am - PSIT Shivam tripathi: Yeeee
+16/09/18, 8:14 am - PSIT Shivam tripathi: MAzeeee
+16/09/18, 8:14 am - PSIT Shivam tripathi: 🤭
+16/09/18, 8:15 am - Shobhit: <Media omitted>
+16/09/18, 8:16 am - PSIT Shivam tripathi: 🌝
+16/09/18, 10:12 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 10:13 am - PSIT Shivam tripathi: Table game me खेल हो रहा
+16/09/18, 10:14 am - Shobhit: Bhai
+16/09/18, 10:14 am - Shobhit: <Media omitted>
+16/09/18, 10:14 am - Shobhit: 🤘🏻👌
+16/09/18, 10:14 am - PSIT Shivam tripathi: ☹
+16/09/18, 10:14 am - PSIT Shivam tripathi: Dimaag kharab ho ja raha ab toh
+16/09/18, 10:14 am - PSIT Shivam tripathi: Dusre solution me
+16/09/18, 10:15 am - PSIT Shivam tripathi: <Media omitted>
+16/09/18, 10:15 am - PSIT Shivam tripathi: Yeh ho raha
+16/09/18, 10:15 am - PSIT Shivam tripathi: 5th chal rhaa but baaki 4 me sigsegv error aa raha
+16/09/18, 10:15 am - PSIT Shivam tripathi: Ab dono ko aise mix karna hai
+16/09/18, 10:15 am - PSIT Shivam tripathi: Ki isme 5th chal jaye
+16/09/18, 10:15 am - PSIT Shivam tripathi: 🤣🤣
+16/09/18, 10:15 am - PSIT Shivam tripathi: खेल है यह तोह
+16/09/18, 10:16 am - Shobhit: 🤭
+16/09/18, 10:16 am - Shobhit: Ye kon sa
+16/09/18, 10:16 am - Shobhit: Dono 5 h ky
+16/09/18, 10:16 am - PSIT Shivam tripathi: Dono
+16/09/18, 10:17 am - PSIT Shivam tripathi: Table game hi hai
+16/09/18, 10:17 am - Shobhit: 🤭🤣 gazb
+16/09/18, 10:17 am - Shobhit: Merge sort laaga dona
+16/09/18, 10:17 am - PSIT Shivam tripathi: ☹
+16/09/18, 10:17 am - Shobhit: Dive and coqure vali
+16/09/18, 10:17 am - Shobhit: 😅🤣
+16/09/18, 10:17 am - Shobhit: Mazza aa rha h... Sab salla galat ho rha h 🤣
+16/09/18, 10:17 am - PSIT Shivam tripathi: ☹
+16/09/18, 10:17 am - PSIT Shivam tripathi: Maze na lo
+16/09/18, 10:18 am - PSIT Shivam tripathi: Question karo
+16/09/18, 10:18 am - Shobhit: Mera dakho
+16/09/18, 10:18 am - PSIT Shivam tripathi: 🤣🤣
+16/09/18, 10:18 am - PSIT Shivam tripathi: Kya baat hau
+16/09/18, 10:18 am - PSIT Shivam tripathi: waah
+16/09/18, 10:18 am - Shobhit: Mere me dono ki error merge ho gai h
+16/09/18, 10:18 am - PSIT Shivam tripathi: 🤣
+16/09/18, 1:10 pm - Shobhit: And valla wa?
+16/09/18, 1:10 pm - Shobhit: Aa rha h
+16/09/18, 1:10 pm - Shobhit: 🤔
+16/09/18, 1:11 pm - Shobhit: // Example program
+#include <iostream>
+#include <bits/stdc++.h>
+#define ll long long int
+using namespace std;
+
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int n,q,i,j,an,f,e;
+        cin>>n>>q;
+        
+        int a[n+1];
+        
+        for(i=1;i<=n;i++)
+        cin>>a[i];
+        
+        for(int k=0;k<q;k++)
+        {  int c=0;
+             
+             cin>>f>>e;
+             an=a[f];
+             
+            for(i=f;i<e;i++)
+            {   
+                an=a[i];
+                
+                if(sqrt(an)*sqrt(an)==an)
+                c++;
+                
+                for(j=i+1;j<=e;j++)
+                {
+                    an =an&a[j];
+                    
+                    if(sqrt(an)*sqrt(an)==an)
+                    c++;
+                    
+                }
+            }
+                if(sqrt(a[e])*sqrt(a[e])==a[e])
+                c++;
+            
+           cout<<c<<endl;
+         
+        }
+    }
+    
+    
+    return 0;
+}
+16/09/18, 1:12 pm - PSIT Shivam tripathi: oh
+16/09/18, 1:12 pm - Shobhit: batao
+16/09/18, 1:17 pm - PSIT Shivam tripathi: same dikh raha mujhe toh
+16/09/18, 1:18 pm - Shobhit: Mtlb?
+16/09/18, 1:18 pm - Shobhit: Acha code hh
+16/09/18, 1:18 pm - Shobhit: Ha
+16/09/18, 1:18 pm - PSIT Shivam tripathi: matlab jaise maine kiya tha
+16/09/18, 1:18 pm - Shobhit: Batao?
+16/09/18, 1:18 pm - Shobhit: Kya kami h?
+16/09/18, 1:18 pm - PSIT Shivam tripathi: nahi samajh aa raha bhai
+16/09/18, 1:18 pm - Shobhit: 😅
+16/09/18, 1:20 pm - Shobhit: Ye challa ta?
+16/09/18, 1:20 pm - PSIT Shivam tripathi: aur nahi toh kya
+16/09/18, 1:20 pm - PSIT Shivam tripathi: partially correct hai
+16/09/18, 1:20 pm - Shobhit: 🤔 to fr mera kyo nhi chall rha
+16/09/18, 1:20 pm - PSIT Shivam tripathi: submit mat krna lekin mera wala
+16/09/18, 1:21 pm - Shobhit: Hh to same.. jo nhi ta vo kr diya
+16/09/18, 1:21 pm - Shobhit: Are nhi karege
+16/09/18, 1:21 pm - Shobhit: 😒
+16/09/18, 1:21 pm - PSIT Shivam tripathi: ek kaam karo
+16/09/18, 1:21 pm - PSIT Shivam tripathi: mid ki taiyari karo
+16/09/18, 1:21 pm - PSIT Shivam tripathi: 😢
+16/09/18, 1:21 pm - Shobhit: Ye kya hota h
+16/09/18, 1:21 pm - Shobhit: Ye valla ho jay fr
+16/09/18, 1:21 pm - Shobhit: 😁
+16/09/18, 1:26 pm - Shobhit: batao
+16/09/18, 1:26 pm - PSIT Shivam tripathi: nahi  samajh aa rha bhai
+16/09/18, 1:26 pm - PSIT Shivam tripathi: kya bataye
+16/09/18, 1:26 pm - PSIT Shivam tripathi: tumhare upar jadu kiya hai kisi ne
+16/09/18, 1:27 pm - Shobhit: kutch bi
+16/09/18, 1:32 pm - PSIT Shivam tripathi: <Media omitted>
+17/09/18, 5:33 pm - Shobhit: Bhai himanshi ke notes lao jarra
+17/09/18, 5:34 pm - PSIT Shivam tripathi: 🤭
+17/09/18, 5:34 pm - PSIT Shivam tripathi: <Media omitted>
+17/09/18, 5:34 pm - PSIT Shivam tripathi: <Media omitted>
+17/09/18, 5:34 pm - PSIT Shivam tripathi: <Media omitted>
+17/09/18, 5:34 pm - PSIT Shivam tripathi: <Media omitted>
+17/09/18, 5:34 pm - Shobhit: Bas.. writing dakh nhi ti
+17/09/18, 5:35 pm - PSIT Shivam tripathi: 21 pages hai shri ke
+17/09/18, 5:35 pm - PSIT Shivam tripathi: Ye 50
+17/09/18, 5:35 pm - PSIT Shivam tripathi: Hai
+17/09/18, 5:35 pm - PSIT Shivam tripathi: ☹
+17/09/18, 5:35 pm - Shobhit: 🤔 ... Achi ladki h
+17/09/18, 5:35 pm - PSIT Shivam tripathi: Actually
+17/09/18, 5:35 pm - PSIT Shivam tripathi: Utne hi hai
+17/09/18, 5:35 pm - Shobhit: 🤭
+17/09/18, 5:35 pm - PSIT Shivam tripathi: 21*2
+17/09/18, 5:35 pm - PSIT Shivam tripathi: 42
+17/09/18, 5:35 pm - PSIT Shivam tripathi: Maine ek baar me do page liye hai snap me
+17/09/18, 5:36 pm - Shobhit: Ha
+17/09/18, 5:36 pm - PSIT Shivam tripathi: Ham abhi pahuche nahi ghar ☹
+17/09/18, 5:36 pm - PSIT Shivam tripathi: 5:10 pe bus chali
+17/09/18, 5:36 pm - Shobhit: Kahe kya kr rhe ho
+17/09/18, 5:36 pm - Shobhit: Oh... Bekr h fr to bus
+17/09/18, 5:36 pm - PSIT Shivam tripathi: Psedo ke sath the
+17/09/18, 5:37 pm - Shobhit: 🤣
+17/09/18, 5:37 pm - PSIT Shivam tripathi: 😢
+17/09/18, 5:37 pm - Shobhit: Ab to fun ho gy
+17/09/18, 5:37 pm - Shobhit: Boli ke saat saat writing bi achi h 👌👍
+17/09/18, 5:41 pm - PSIT Shivam tripathi: 🌝
+17/09/18, 5:41 pm - PSIT Shivam tripathi: Pic bhejo
+17/09/18, 5:43 pm - Shobhit: You deleted this message
+17/09/18, 5:45 pm - Shobhit: ?
+17/09/18, 5:46 pm - PSIT Shivam tripathi: ☹
+17/09/18, 5:46 pm - Shobhit: Kya hua
+17/09/18, 5:46 pm - PSIT Shivam tripathi: ☹
+17/09/18, 5:46 pm - Shobhit: Kya hau? we
+17/09/18, 5:48 pm - PSIT Shivam tripathi: ☹
+17/09/18, 5:48 pm - Shobhit: 🙄
+17/09/18, 5:48 pm - Shobhit: Are
+17/09/18, 5:48 pm - PSIT Shivam tripathi: 😢
+17/09/18, 5:48 pm - Shobhit: Kya hua bhai
+17/09/18, 5:49 pm - PSIT Shivam tripathi: 😢
+17/09/18, 5:49 pm - PSIT Shivam tripathi: Kuchh kaam nahi hai kya karne ko tumhe
+17/09/18, 5:49 pm - PSIT Shivam tripathi: Hamare faltu msg padh rahe ho
+17/09/18, 5:49 pm - Shobhit: 🤣
+17/09/18, 5:49 pm - PSIT Shivam tripathi: 🤣
+17/09/18, 5:49 pm - Shobhit: Kr rhe h pice kamm chall rha h
+17/09/18, 5:50 pm - Shobhit: 😒
+17/09/18, 6:27 pm - PSIT Shivam tripathi: Kitne star
+17/09/18, 8:15 pm - Shobhit: 10
+17/09/18, 8:18 pm - Shobhit: Tare
+17/09/18, 11:01 pm - PSIT Shivam tripathi: ☹
+17/09/18, 11:01 pm - Shobhit: Kya hua
+18/09/18, 6:26 pm - PSIT Shivam tripathi: <Media omitted>
+18/09/18, 6:26 pm - PSIT Shivam tripathi: 😑😑
+18/09/18, 6:27 pm - PSIT Shivam tripathi: 🌝
+18/09/18, 8:15 pm - Shobhit: Haan
+18/09/18, 11:11 pm - Shobhit: Kal kon sa h pahila
+18/09/18, 11:12 pm - PSIT Shivam tripathi: Pata nahi
+18/09/18, 11:12 pm - PSIT Shivam tripathi: Pata karo
+18/09/18, 11:12 pm - PSIT Shivam tripathi: Aur bata do
+18/09/18, 11:12 pm - PSIT Shivam tripathi: Hame bhi
+18/09/18, 11:12 pm - PSIT Shivam tripathi: 🐧
+18/09/18, 11:12 pm - Shobhit: Webtech h ayd
+18/09/18, 11:12 pm - Shobhit: Check kr lo na
+18/09/18, 11:12 pm - PSIT Shivam tripathi: .
+18/09/18, 11:15 pm - Shobhit: ?
+18/09/18, 11:15 pm - PSIT Shivam tripathi: .
+18/09/18, 11:15 pm - Shobhit: Pta challa
+18/09/18, 11:20 pm - Shobhit: Web hi h
+19/09/18, 5:47 pm - Shobhit: <Media omitted>
+19/09/18, 7:09 pm - PSIT Shivam tripathi: 🤣
+21/09/18, 12:58 am - Shobhit: <Media omitted>
+21/09/18, 12:58 am - PSIT Shivam tripathi: 🌝
+21/09/18, 12:59 am - Shobhit: Upload krdo
+21/09/18, 12:59 am - Shobhit: 😃
+22/09/18, 11:17 pm - Shobhit: Ye kya h...
+22/09/18, 11:18 pm - PSIT Shivam tripathi: Yeh image ha
+22/09/18, 11:18 pm - PSIT Shivam tripathi: i
+22/09/18, 11:18 pm - Shobhit: 😒
+22/09/18, 11:19 pm - PSIT Shivam tripathi: Tumhe kya lag raha
+22/09/18, 11:19 pm - PSIT Shivam tripathi: i am joking
+22/09/18, 11:19 pm - PSIT Shivam tripathi: NO
+22/09/18, 11:19 pm - PSIT Shivam tripathi: Kisi se bhi punch lo
+22/09/18, 11:19 pm - PSIT Shivam tripathi: Sachhaai yahi hai
+22/09/18, 11:19 pm - PSIT Shivam tripathi: Yeh ek image hai
+22/09/18, 11:31 pm - Shobhit: Are matlb kya meaning hh iska
+22/09/18, 11:31 pm - PSIT Shivam tripathi: Samjho
+22/09/18, 11:31 pm - Shobhit: Kitabo ke upr admi kada h
+22/09/18, 11:32 pm - Shobhit: Papp lage fa
+22/09/18, 11:32 pm - Shobhit: Ga*
+22/09/18, 11:32 pm - PSIT Shivam tripathi: Half knowledge destroys the world
+22/09/18, 11:32 pm - Shobhit: Kyo
+22/09/18, 11:32 pm - PSIT Shivam tripathi: 😕
+22/09/18, 11:32 pm - PSIT Shivam tripathi: Yaar
+22/09/18, 11:33 pm - PSIT Shivam tripathi: Its just a image
+22/09/18, 11:33 pm - PSIT Shivam tripathi: 😐
+22/09/18, 11:33 pm - PSIT Shivam tripathi: Matrix
+22/09/18, 11:33 pm - PSIT Shivam tripathi: Hai matrix
+22/09/18, 11:33 pm - Shobhit: Something is better than nothing
+22/09/18, 11:33 pm - PSIT Shivam tripathi: 😕
+22/09/18, 11:33 pm - Shobhit: 🙄😁
+22/09/18, 11:34 pm - Shobhit: Missile h kya
+22/09/18, 11:34 pm - Shobhit: Or aliens
+22/09/18, 11:34 pm - PSIT Shivam tripathi: Nahi bhai
+22/09/18, 11:34 pm - PSIT Shivam tripathi: Purani khaawat yaad hogi
+22/09/18, 11:34 pm - PSIT Shivam tripathi: Aadhi jankaari haanikarak hoti hai
+22/09/18, 11:35 pm - Shobhit: Gutke ke bare me sunaa ta aisa... Gutka kanna hanikark h
+22/09/18, 11:35 pm - PSIT Shivam tripathi: Gud night
+22/09/18, 11:35 pm - PSIT Shivam tripathi: 😢
+22/09/18, 11:35 pm - Shobhit: 🤣
+22/09/18, 11:35 pm - PSIT Shivam tripathi: 😐
+26/09/18, 12:22 am - Shobhit: Tum college chood do... Dikh na jaanna ab😒
+26/09/18, 7:13 am - PSIT Shivam tripathi: Tumko bahut pasand hai kya ?
+26/09/18, 7:49 am - Shobhit: Haan
+26/09/18, 7:49 am - Shobhit: Academy h meri
+26/09/18, 8:09 am - PSIT Shivam tripathi: ✔
+26/09/18, 8:09 am - PSIT Shivam tripathi: Cool
+26/09/18, 8:49 am - Shobhit: 😃
+26/09/18, 9:26 pm - Shobhit: <Media omitted>
+26/09/18, 9:26 pm - Shobhit: <Media omitted>
+26/09/18, 9:27 pm - Shobhit: 6start=Microsoft
+26/09/18, 9:30 pm - Shobhit: <Media omitted>
+26/09/18, 10:42 pm - PSIT Shivam tripathi: 6 kyu dekh rahe bhai
+26/09/18, 10:42 pm - PSIT Shivam tripathi: 4* ya uskke upar jyadatar pros hai
+26/09/18, 10:59 pm - Shobhit: Hmm
+26/09/18, 11:00 pm - PSIT Shivam tripathi: 6 matlab 7-1
+26/09/18, 11:00 pm - PSIT Shivam tripathi: 7 ki baat chhod do
+26/09/18, 11:01 pm - PSIT Shivam tripathi: voh jyadatar research institutes ya bade heavy log hai
+26/09/18, 11:01 pm - Shobhit: Ha bhai gazb h
+26/09/18, 11:01 pm - PSIT Shivam tripathi: Asli tez toh
+26/09/18, 11:01 pm - PSIT Shivam tripathi: ham log hai
+26/09/18, 11:01 pm - PSIT Shivam tripathi: 3* wale
+26/09/18, 11:01 pm - Shobhit: Are
+26/09/18, 11:01 pm - PSIT Shivam tripathi: Hami jaise logo ke sath one hot encoding hoti ahi
+26/09/18, 11:01 pm - PSIT Shivam tripathi: *hai
+26/09/18, 11:01 pm - PSIT Shivam tripathi: 🤣🤣
+26/09/18, 11:02 pm - Shobhit: 😓
+26/09/18, 11:02 pm - Shobhit: Microsoft me mill jay bhai
+26/09/18, 11:02 pm - Shobhit: Bass
+26/09/18, 11:02 pm - PSIT Shivam tripathi: 🙂🤝✌
+26/09/18, 11:05 pm - Shobhit: Mill jaygi na
+26/09/18, 11:05 pm - PSIT Shivam tripathi: are kyu nahi
+26/09/18, 11:05 pm - PSIT Shivam tripathi: microsoft is dying for people like us
+26/09/18, 11:06 pm - Shobhit: 🤣
+26/09/18, 11:06 pm - Shobhit: But for what work ?
+26/09/18, 11:07 pm - PSIT Shivam tripathi: Janitor
+26/09/18, 11:07 pm - Shobhit: 😒
+26/09/18, 11:07 pm - Shobhit: Software engineer...
+26/09/18, 11:07 pm - Shobhit: And so..
+26/09/18, 11:07 pm - Shobhit: 😁
+26/09/18, 11:08 pm - PSIT Shivam tripathi: Bhaiya tum so jao
+26/09/18, 11:08 pm - PSIT Shivam tripathi: Daso nahi ab
+26/09/18, 11:08 pm - Shobhit: 🙄
+26/09/18, 11:08 pm - PSIT Shivam tripathi: 😐
+26/09/18, 11:08 pm - Shobhit: Padho acha ab
+26/09/18, 11:31 pm - PSIT Shivam tripathi: ?
+26/09/18, 11:31 pm - PSIT Shivam tripathi: While one-hot encoding solves the problem of unequal weights given to categories within a feature, it is not very useful when there are many categories, as that will result in formation of as many new columns, which can result in the curse of dimensionality. The concept of the “curse of dimensionality” discusses that in high-dimensional spaces some things just stop working properly.
+26/09/18, 11:32 pm - PSIT Shivam tripathi: Is wajah se hamne subah 'one hot encoding' ke bajaay normal encoding bola tha
+26/09/18, 11:35 pm - Shobhit: 😓 ha but ... Tum city me label encoder nhi use kr sakte ... Vo equation me affect kare ga..
+26/09/18, 11:35 pm - Shobhit: And the values change accordingly...
+26/09/18, 11:36 pm - PSIT Shivam tripathi: One hot toh bilkul use nahi kar sakte
+26/09/18, 11:36 pm - PSIT Shivam tripathi: Ek country ke dataset me
+26/09/18, 11:36 pm - PSIT Shivam tripathi: 500 cities hongi
+26/09/18, 11:36 pm - Shobhit: Ruko acha
+26/09/18, 11:36 pm - PSIT Shivam tripathi: 500 columns thodi add karoge
+26/09/18, 11:44 pm - Shobhit: <Media omitted>
+26/09/18, 11:44 pm - Shobhit: Isme country name h
+26/09/18, 11:44 pm - Shobhit: Label encoder use kiya
+26/09/18, 11:44 pm - PSIT Shivam tripathi: Ok
+26/09/18, 11:44 pm - Shobhit: <Media omitted>
+26/09/18, 11:44 pm - PSIT Shivam tripathi: Gateway to infosys🤟 Aur kuchh nahi
+26/09/18, 11:45 pm - Shobhit: <Media omitted>
+26/09/18, 11:45 pm - Shobhit: 😓
+26/09/18, 11:45 pm - PSIT Shivam tripathi: Aur bhi methods available hai
+26/09/18, 11:45 pm - Shobhit: Ha
+28/09/18, 6:59 pm - PSIT Shivam tripathi: https://www.youtube.com/watch?v=QzWW-CBugZo
+28/09/18, 6:59 pm - PSIT Shivam tripathi: Isne apni baat ko serious le liua
+28/09/18, 6:59 pm - PSIT Shivam tripathi: bread board pe hi bana diya 🤭🤭
+28/09/18, 7:01 pm - PSIT Shivam tripathi: Ek no. bhaai yeh video
+28/09/18, 7:01 pm - PSIT Shivam tripathi: Ise kehte hai Concept !!
+28/09/18, 10:22 pm - Shobhit: 😱 are gazb
+28/09/18, 10:22 pm - PSIT Shivam tripathi: haa
+28/09/18, 10:22 pm - PSIT Shivam tripathi: batao
+28/09/18, 10:23 pm - PSIT Shivam tripathi: type karte huye pkad liya tumhe
+28/09/18, 10:23 pm - PSIT Shivam tripathi: hamne
+28/09/18, 10:23 pm - PSIT Shivam tripathi: 😅
+28/09/18, 10:23 pm - Shobhit: 😅
+28/09/18, 10:23 pm - PSIT Shivam tripathi: achha video tha bhai
+28/09/18, 10:23 pm - PSIT Shivam tripathi: isko banaye agar khud toh kaafi samajh me ajaaye concepts
+28/09/18, 10:23 pm - Shobhit: Ha, iita hmm logo ko bi sikhana cahiye ta
+28/09/18, 10:24 pm - PSIT Shivam tripathi: 😐
+28/09/18, 10:24 pm - PSIT Shivam tripathi: tej nahi ho jaoge agar padha diya
+28/09/18, 10:24 pm - PSIT Shivam tripathi: phir tum teacher ko hi pachhad doge
+28/09/18, 10:24 pm - PSIT Shivam tripathi: yeh puri duniya me aisa hi mindset hai, psit akele nahi hai
+28/09/18, 10:24 pm - PSIT Shivam tripathi: jo launde khud kar lete hai
+28/09/18, 10:24 pm - PSIT Shivam tripathi: voh badhiya
+28/09/18, 10:24 pm - PSIT Shivam tripathi: 😀
+28/09/18, 10:25 pm - Shobhit: Bhai ,kya hua
+28/09/18, 10:25 pm - Shobhit: Bahut gahri bate kr rhe
+28/09/18, 10:25 pm - Shobhit: 🤔
+28/09/18, 10:25 pm - PSIT Shivam tripathi: kuchh nahi
+28/09/18, 10:25 pm - PSIT Shivam tripathi: mazaa aa raha be
+28/09/18, 10:25 pm - PSIT Shivam tripathi: time hai
+28/09/18, 10:25 pm - PSIT Shivam tripathi: 2 din
+28/09/18, 10:25 pm - PSIT Shivam tripathi: karte hai kuchh
+28/09/18, 10:25 pm - PSIT Shivam tripathi: tum bhi karo
+28/09/18, 10:25 pm - Shobhit: 😅 oh... Yes
+28/09/18, 10:25 pm - PSIT Shivam tripathi: 😀😀
+28/09/18, 10:25 pm - Shobhit: 🤘🏻
+28/09/18, 10:31 pm - Shobhit: <Media omitted>
+03/10/18, 9:08 pm - Shobhit: html ki file me kitne likhe h
+03/10/18, 9:11 pm - PSIT Shivam tripathi: This message was deleted
+03/10/18, 9:11 pm - Shobhit: 🙄🤔
+03/10/18, 9:11 pm - PSIT Shivam tripathi: 2
+03/10/18, 9:11 pm - Shobhit: ha ab tik h
+03/10/18, 9:58 pm - PSIT Shivam tripathi: Yeh tum kab bheje
+03/10/18, 9:58 pm - PSIT Shivam tripathi: Tum toh meri puri samasya define kar diye
+03/10/18, 9:58 pm - PSIT Shivam tripathi: not meri, but *sabki
+03/10/18, 9:58 pm - Shobhit: beja te... ak din
+03/10/18, 9:58 pm - PSIT Shivam tripathi: 🤭
+03/10/18, 9:58 pm - Shobhit: acha
+03/10/18, 9:59 pm - PSIT Shivam tripathi: .
+03/10/18, 9:59 pm - PSIT Shivam tripathi: ☹
+03/10/18, 10:00 pm - PSIT Shivam tripathi: Vaise complain nahi karna chahiye, ham log phir bhi bahut achhi zindagi ji rahe 😌
+03/10/18, 10:00 pm - Shobhit: ha...ashh ki
+03/10/18, 10:00 pm - Shobhit: 😎
+06/10/18, 12:04 am - Shobhit: Kiye
+06/10/18, 12:04 am - Shobhit: ?
+06/10/18, 12:04 am - PSIT Shivam tripathi: Nahi bhai
+06/10/18, 12:04 am - PSIT Shivam tripathi: Abhi raat me karenge
+06/10/18, 12:04 am - PSIT Shivam tripathi: Minimizedigit wala karna hai
+06/10/18, 12:04 am - PSIT Shivam tripathi: Vahi sonch rahe the
+06/10/18, 12:04 am - Shobhit: Ok
+06/10/18, 12:04 am - PSIT Shivam tripathi: Simple langauge hai
+06/10/18, 12:04 am - PSIT Shivam tripathi: Logic achha hoga but
+06/10/18, 12:04 am - Shobhit: 2 nhi hi rha 😅
+06/10/18, 12:05 am - PSIT Shivam tripathi: 😅
+06/10/18, 12:06 am - Shobhit: Ok.. karo.. batana fr
+06/10/18, 12:06 am - Shobhit: Hoy koi to
+06/10/18, 12:06 am - PSIT Shivam tripathi: Haan 😌🤭
+06/10/18, 12:06 am - PSIT Shivam tripathi: Tum bhi
+06/10/18, 12:06 am - PSIT Shivam tripathi: Idhar kripa kiye rahna
+06/10/18, 12:06 am - PSIT Shivam tripathi: 🤪
+06/10/18, 12:06 am - Shobhit: 🤭
+06/10/18, 11:13 am - Shobhit: Last test batao
+06/10/18, 11:13 am - Shobhit: 11 13 valla
+06/10/18, 11:14 am - Shobhit: 11+13*3=50.... 5+0=5
+06/10/18, 11:14 am - Shobhit: 1+1=2
+06/10/18, 11:14 am - PSIT Shivam tripathi: batate hai
+06/10/18, 11:14 am - PSIT Shivam tripathi: abhi bahar hai
+06/10/18, 11:14 am - Shobhit: Kaha
+06/10/18, 11:14 am - PSIT Shivam tripathi: :|
+06/10/18, 11:14 am - Shobhit: Gr me pahuco jaldi se
+06/10/18, 11:15 am - Shobhit: Fr batao..
+06/10/18, 11:23 am - PSIT Shivam tripathi: 11 + 13 + 13 = 37
+
+37 -> 10
+
+10 -> 1
+06/10/18, 11:23 am - Shobhit: Iss bar mann kr nhi  rha h... Na
+06/10/18, 11:23 am - Shobhit: Tumhara
+06/10/18, 11:23 am - PSIT Shivam tripathi: 😒
+06/10/18, 11:23 am - Shobhit: 😆
+06/10/18, 11:23 am - PSIT Shivam tripathi: 😒
+06/10/18, 11:24 am - Shobhit: Ok ok... 👍
+06/10/18, 11:24 am - PSIT Shivam tripathi: 🌝
+06/10/18, 10:23 pm - Shobhit: Hua koi
+06/10/18, 10:24 pm - PSIT Shivam tripathi: Nahi
+06/10/18, 10:25 pm - Shobhit: 😒
+06/10/18, 10:25 pm - PSIT Shivam tripathi: Kya ?
+06/10/18, 10:25 pm - PSIT Shivam tripathi: 😒
+06/10/18, 10:26 pm - Shobhit: Karo
+06/10/18, 10:26 pm - Shobhit: Mann nhi kr rha h ky
+06/10/18, 10:26 pm - Shobhit: Iss bar
+06/10/18, 10:26 pm - PSIT Shivam tripathi: 😒
+06/10/18, 10:26 pm - PSIT Shivam tripathi: Iss baar time nahi hai
+06/10/18, 10:26 pm - PSIT Shivam tripathi: Busy
+06/10/18, 10:26 pm - Shobhit: Aahh
+06/10/18, 10:26 pm - PSIT Shivam tripathi: Aur try kiya tha subah 2-3 gha te
+06/10/18, 10:26 pm - PSIT Shivam tripathi: Kuchh hua nahu
+06/10/18, 10:27 pm - PSIT Shivam tripathi: Maine digitsum wala submit kiya
+06/10/18, 10:27 pm - PSIT Shivam tripathi: But wrong answer
+06/10/18, 10:27 pm - PSIT Shivam tripathi: Chess wala try Kiya phir
+06/10/18, 10:27 pm - PSIT Shivam tripathi: Voh bhi nahi chala
+06/10/18, 10:27 pm - Shobhit: Isne pattern bann rha h
+06/10/18, 10:27 pm - PSIT Shivam tripathi: 😢
+06/10/18, 10:27 pm - Shobhit: Har digit ke liye alg se hoga..
+06/10/18, 10:28 pm - PSIT Shivam tripathi: Achha
+06/10/18, 10:28 pm - PSIT Shivam tripathi: 🤪
+06/10/18, 10:28 pm - Shobhit: <Media omitted>
+06/10/18, 10:28 pm - PSIT Shivam tripathi: Yehi use kiya tha maine
+06/10/18, 10:28 pm - Shobhit: 🤭
+06/10/18, 10:28 pm - PSIT Shivam tripathi: Mera sample cases me chal rhaa hai
+06/10/18, 10:28 pm - Shobhit: Same tavle
+06/10/18, 10:28 pm - Shobhit: Table
+06/10/18, 11:24 pm - Shobhit: acmipc me le rhe?
+06/10/18, 11:25 pm - PSIT Shivam tripathi: Kab hai ?
+06/10/18, 11:25 pm - Shobhit: start ho gy reg
+06/10/18, 11:27 pm - PSIT Shivam tripathi: Oct 23 ko hai
+06/10/18, 11:27 pm - PSIT Shivam tripathi: Kanpur Regionals
+06/10/18, 11:31 pm - Shobhit: ha
+06/10/18, 11:31 pm - Shobhit: vo to conest h
+06/10/18, 11:31 pm - Shobhit: reg to abhi ho rhe h
+06/10/18, 11:32 pm - PSIT Shivam tripathi: Kanpur regionals ke ?
+07/10/18, 12:11 am - Shobhit: Ha
+07/10/18, 12:11 am - Shobhit: Do ge ky
+07/10/18, 12:11 am - PSIT Shivam tripathi: No
+07/10/18, 12:11 am - PSIT Shivam tripathi: Abhi prepared nahi hu
+07/10/18, 12:12 am - PSIT Shivam tripathi: aur time bhi nahi de paunga abhi
+07/10/18, 12:12 am - Shobhit: are...
+07/10/18, 12:12 am - Shobhit: chalo acha tik h
+07/10/18, 12:12 am - PSIT Shivam tripathi: Hmm
+07/10/18, 12:12 am - PSIT Shivam tripathi: 😇
+07/10/18, 4:03 pm - PSIT Shivam tripathi: This message was deleted
+07/10/18, 4:03 pm - PSIT Shivam tripathi: This message was deleted
+07/10/18, 4:04 pm - Shobhit: 😅
+07/10/18, 4:04 pm - PSIT Shivam tripathi: This message was deleted
+07/10/18, 4:04 pm - PSIT Shivam tripathi: 😒
+07/10/18, 4:04 pm - Shobhit: Haha
+07/10/18, 4:04 pm - Shobhit: Engineers ki h
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 3:20 am - PSIT Shivam tripathi: <Media omitted>
+18/10/18, 6:06 am - Shobhit: Thanks bhai🤘🏻👍
+18/10/18, 6:06 am - Shobhit: Aaj nhi aaa rhe ky?
+18/10/18, 11:36 am - PSIT Shivam tripathi: 👻👻👻
+18/10/18, 11:49 am - Shobhit: Bhai b.tech ko leke serious nhi ho?
+18/10/18, 11:53 am - PSIT Shivam tripathi: Nahi bhai
+18/10/18, 11:53 am - PSIT Shivam tripathi: 🤪
+18/10/18, 11:53 am - Shobhit: Sidhe chale aao
+18/10/18, 11:53 am - PSIT Shivam tripathi: Dobara hoga ?
+18/10/18, 11:53 am - PSIT Shivam tripathi: Hack with psit ?
+18/10/18, 11:55 am - Shobhit: Pta nhi..
+18/10/18, 9:47 pm - PSIT Shivam tripathi: There ?
+18/10/18, 9:53 pm - Shobhit: Code camp ka hoga 2.0
+18/10/18, 9:53 pm - PSIT Shivam tripathi: Achha
+18/10/18, 9:53 pm - Shobhit: Yes
+18/10/18, 9:53 pm - PSIT Shivam tripathi: 🙏
+18/10/18, 9:53 pm - Shobhit: Aaj to kutch bi nhi hua
+18/10/18, 9:53 pm - Shobhit: College me
+18/10/18, 9:54 pm - PSIT Shivam tripathi: Matlab ?
+18/10/18, 9:54 pm - Shobhit: Matlb kutch bi nhi...
+18/10/18, 9:54 pm - PSIT Shivam tripathi: This message was deleted
+18/10/18, 9:54 pm - PSIT Shivam tripathi: Matlab free periods ?
+18/10/18, 9:54 pm - Shobhit: 😨 na
+18/10/18, 9:55 pm - Shobhit: Bas file check hui
+18/10/18, 9:55 pm - PSIT Shivam tripathi: Achha
+18/10/18, 9:55 pm - Shobhit: Joki puri nhi ti
+18/10/18, 9:55 pm - Shobhit: 🤣
+18/10/18, 9:55 pm - PSIT Shivam tripathi: 🤣
+19/10/18, 12:47 am - Shobhit: https://www.hackerrank.com/hackathon2-0-csit?utm_campaign=social-buttons&utm_medium=twitter&utm_source=contest
+19/10/18, 12:48 am - PSIT Shivam tripathi: ✔
+19/10/18, 12:48 am - Shobhit: apne college vahi h
+19/10/18, 12:48 am - Shobhit: jo hui ti uss din
+19/10/18, 12:49 am - PSIT Shivam tripathi: Haan
+19/10/18, 4:14 am - Shobhit: <Media omitted>
+19/10/18, 12:06 pm - PSIT Shivam tripathi: .
+19/10/18, 12:06 pm - PSIT Shivam tripathi: ?
+19/10/18, 12:17 pm - Shobhit: Ak taf bird h... Ank tarf.. cow
+19/10/18, 12:17 pm - Shobhit: Size dakho
+19/10/18, 12:17 pm - PSIT Shivam tripathi: Are
+19/10/18, 12:17 pm - PSIT Shivam tripathi: Yeh kyu bhej rahe ho
+19/10/18, 12:17 pm - PSIT Shivam tripathi: चिड़िया गाय
+19/10/18, 12:17 pm - PSIT Shivam tripathi: इनका मैं क्या करूँ
+19/10/18, 12:18 pm - Shobhit: 😨 are ..  size dakho..
+19/10/18, 12:18 pm - Shobhit: Ab itñi badi bird kaha dikhti h
+19/10/18, 12:21 pm - PSIT Shivam tripathi: Haan
+19/10/18, 12:21 pm - PSIT Shivam tripathi: Ostrich hoti hai badi
+19/10/18, 12:22 pm - Shobhit: Oh
+19/10/18, 12:22 pm - Shobhit: Vahi hogi fr
+19/10/18, 12:22 pm - PSIT Shivam tripathi: ☹
+19/10/18, 12:22 pm - PSIT Shivam tripathi: शुतर्मुर्ग
+19/10/18, 12:23 pm - Shobhit: Vo to pani me hoti h🤣
+19/10/18, 12:23 pm - Shobhit: <Media omitted>
+19/10/18, 12:23 pm - PSIT Shivam tripathi: Nahu
+19/10/18, 12:23 pm - PSIT Shivam tripathi: Apko bhi 👻
+19/10/18, 12:23 pm - Shobhit: ✌🏻😁
+20/10/18, 12:47 pm - Shobhit: <Media omitted>
+20/10/18, 12:48 pm - PSIT Shivam tripathi: 🤣🤣🤣🤣🤣🤣🤣☝🏻
+20/10/18, 12:48 pm - PSIT Shivam tripathi: Status lagao isko
+20/10/18, 12:49 pm - PSIT Shivam tripathi: Yann LeCun 😇
+20/10/18, 12:49 pm - Shobhit: 🤣
+21/10/18, 4:38 pm - Shobhit: Bahi kal paper kon kon se h?
+21/10/18, 4:38 pm - PSIT Shivam tripathi: jo kal hone hai
+21/10/18, 4:38 pm - PSIT Shivam tripathi: vahi hai
+21/10/18, 4:39 pm - Shobhit: 🙄😨
+21/10/18, 4:40 pm - PSIT Shivam tripathi: Cyber, DAA
+21/10/18, 4:40 pm - PSIT Shivam tripathi: In this order
+21/10/18, 4:40 pm - Shobhit: Ok
+22/10/18, 10:05 pm - Shobhit: Kal pahila? Eco?
+22/10/18, 10:14 pm - PSIT Shivam tripathi: बंटे को बेस पसंद है
+22/10/18, 10:14 pm - PSIT Shivam tripathi: Then eco
+22/10/18, 10:14 pm - Shobhit: 🤣
+22/10/18, 10:15 pm - Shobhit: Bas vahi NF aa rhe na.. sare
+22/10/18, 10:15 pm - Shobhit: 1,2,3,4,5
+22/10/18, 10:28 pm - PSIT Shivam tripathi: Haan
+23/10/18, 1:46 pm - Shobhit: <Media omitted>
+23/10/18, 1:56 pm - Shobhit: <Media omitted>
+23/10/18, 11:53 pm - Shobhit: ct1 me file handling aa chuka hh na?
+23/10/18, 11:53 pm - PSIT Shivam tripathi: Hm
+23/10/18, 11:53 pm - Shobhit: kaha se aa rha h?
+23/10/18, 11:54 pm - PSIT Shivam tripathi: No idea 
+!
+23/10/18, 11:54 pm - PSIT Shivam tripathi: Not studyin
+23/10/18, 11:54 pm - Shobhit: 🤔
+23/10/18, 11:55 pm - Shobhit: applet aa ta ky?
+23/10/18, 11:55 pm - Shobhit: ct1 me?
+23/10/18, 11:55 pm - PSIT Shivam tripathi: Mt punchho bhai
+23/10/18, 11:55 pm - PSIT Shivam tripathi: Nahi aata hai
+23/10/18, 11:55 pm - Shobhit: are... ct1 me applet aaya ta?
+23/10/18, 11:56 pm - PSIT Shivam tripathi: pata nahik
+23/10/18, 11:56 pm - PSIT Shivam tripathi: kiya toh nahi thha
+23/10/18, 11:56 pm - PSIT Shivam tripathi: 🤣
+23/10/18, 11:56 pm - Shobhit: ok
+23/10/18, 11:56 pm - Shobhit: page 47 se aa rha h.. ct2 me bhai'
+23/10/18, 11:56 pm - PSIT Shivam tripathi: achha
+23/10/18, 11:56 pm - PSIT Shivam tripathi: ok
+23/10/18, 11:56 pm - PSIT Shivam tripathi: punchh rahe ya bata rahe ?
+23/10/18, 11:57 pm - Shobhit: bta rhe
+23/10/18, 11:57 pm - PSIT Shivam tripathi: ok
+24/10/18, 11:08 am - Shobhit: <Media omitted>
+24/10/18, 11:08 am - Shobhit: <Media omitted>
+24/10/18, 11:10 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:10 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:10 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:10 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:10 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:11 am - PSIT Shivam tripathi: <Media omitted>
+24/10/18, 11:11 am - PSIT Shivam tripathi: <Media omitted>
+26/10/18, 10:22 pm - Shobhit: Kal aa rhe ho
+26/10/18, 10:22 pm - PSIT Shivam tripathi: Ha
+26/10/18, 10:22 pm - Shobhit: Snakdown kab se h?
+26/10/18, 10:23 pm - PSIT Shivam tripathi: Kitni baar pubchhoge
+26/10/18, 10:23 pm - PSIT Shivam tripathi: ☹
+26/10/18, 10:23 pm - Shobhit: Bull gy
+26/10/18, 10:23 pm - PSIT Shivam tripathi: 12:00 AM Sunday
+26/10/18, 10:23 pm - Shobhit: Ohk
+28/10/18, 1:17 am - Shobhit: Code bejo
+28/10/18, 1:17 am - Shobhit: Aktu vale
+28/10/18, 1:17 am - PSIT Shivam tripathi: RUC501
+28/10/18, 1:17 am - PSIT Shivam tripathi: RCS052
+28/10/18, 1:18 am - Shobhit: Link do
+28/10/18, 1:18 am - Shobhit: Kaha barna h
+28/10/18, 1:18 am - PSIT Shivam tripathi: aktu ke portal pe
+28/10/18, 1:18 am - PSIT Shivam tripathi: 😒
+28/10/18, 1:19 am - Shobhit: <Media omitted>
+28/10/18, 1:19 am - PSIT Shivam tripathi: pehli baar thodi bhar rahe ho
+28/10/18, 1:19 am - PSIT Shivam tripathi: nahi
+28/10/18, 1:19 am - PSIT Shivam tripathi: tum robot ho
+28/10/18, 1:19 am - PSIT Shivam tripathi: bharo usme
+28/10/18, 1:19 am - PSIT Shivam tripathi: Yes, I am a robot
+28/10/18, 1:19 am - Shobhit: Kull nhi rha ?
+28/10/18, 1:20 am - PSIT Shivam tripathi: Nahi khula ?
+28/10/18, 1:20 am - Shobhit: No
+28/10/18, 1:20 am - Shobhit: 😒
+28/10/18, 1:20 am - PSIT Shivam tripathi: Hmm
+28/10/18, 1:20 am - PSIT Shivam tripathi: site ki dikkat hai
+28/10/18, 1:20 am - PSIT Shivam tripathi: aaj nahi khul raha
+28/10/18, 1:20 am - PSIT Shivam tripathi: hai
+28/10/18, 1:20 am - PSIT Shivam tripathi: kisi ka bhi
+28/10/18, 1:20 am - Shobhit: To ab?
+28/10/18, 1:20 am - PSIT Shivam tripathi: a lot of people have faced this problem today
+28/10/18, 1:20 am - PSIT Shivam tripathi: ab btech nahi hoga aur kya
+28/10/18, 1:20 am - PSIT Shivam tripathi: 🤨
+28/10/18, 1:20 am - PSIT Shivam tripathi: WAit karo
+28/10/18, 1:20 am - Shobhit: 😨
+28/10/18, 1:20 am - PSIT Shivam tripathi: kal bhar dena
+28/10/18, 1:20 am - PSIT Shivam tripathi: sunday off nahi hota
+28/10/18, 1:21 am - PSIT Shivam tripathi: kuchh update hona hai
+28/10/18, 1:21 am - PSIT Shivam tripathi: isliye issues ho rahe
+28/10/18, 1:21 am - PSIT Shivam tripathi: admin me bola tha
+28/10/18, 1:21 am - Shobhit: Ok
+28/10/18, 1:21 am - PSIT Shivam tripathi: shubham punchhne gaya tha
+28/10/18, 1:21 am - Shobhit: Last to 30 hh
+28/10/18, 1:21 am - PSIT Shivam tripathi: Haan
+28/10/18, 1:21 am - PSIT Shivam tripathi: agar nahi bhara beta
+28/10/18, 1:21 am - PSIT Shivam tripathi: toh zindagi barbaad
+28/10/18, 1:21 am - PSIT Shivam tripathi: baithe rehna 4 semester ka result liye
+28/10/18, 1:21 am - PSIT Shivam tripathi: infy nahi le jayegi phir
+28/10/18, 1:22 am - PSIT Shivam tripathi: year repeat karna pad jayega
+28/10/18, 1:22 am - Shobhit: 🙄
+28/10/18, 1:22 am - Shobhit: Aise bate mt karo... Darr lagta h
+28/10/18, 1:23 am - PSIT Shivam tripathi: :(
+28/10/18, 1:23 am - PSIT Shivam tripathi: Darro
+28/10/18, 1:23 am - PSIT Shivam tripathi: Darane ke liye hi btech hota hai
+28/10/18, 1:23 am - PSIT Shivam tripathi: teacher ka kaam hai darana
+28/10/18, 1:23 am - PSIT Shivam tripathi: dhamkaana
+28/10/18, 1:23 am - PSIT Shivam tripathi: padhai toh secondary hai
+28/10/18, 1:23 am - Shobhit: Piche dako... Koi ulta kadda h ky
+28/10/18, 1:23 am - PSIT Shivam tripathi: 🤣
+28/10/18, 1:23 am - Shobhit: 🧟‍♂
+28/10/18, 1:24 am - Shobhit: Bhai ho jayga na ..kal
+28/10/18, 1:24 am - PSIT Shivam tripathi: Yupp
+28/10/18, 1:24 am - PSIT Shivam tripathi: Don't worry
+28/10/18, 1:24 am - PSIT Shivam tripathi: A lot of people have not submitted yet
+28/10/18, 1:25 am - Shobhit: Ok, it feels safe
+28/10/18, 7:19 pm - Shobhit: Kitte hua
+28/10/18, 7:20 pm - PSIT Shivam tripathi: 2
+28/10/18, 7:20 pm - PSIT Shivam tripathi: Tumhare
+28/10/18, 7:20 pm - PSIT Shivam tripathi: ?
+28/10/18, 7:20 pm - PSIT Shivam tripathi: 4 ?
+28/10/18, 7:20 pm - Shobhit: 5
+28/10/18, 7:20 pm - PSIT Shivam tripathi: Ho gaye honge
+28/10/18, 7:20 pm - PSIT Shivam tripathi: Ok 😢
+28/10/18, 7:20 pm - Shobhit: 2 hi hua h
+28/10/18, 7:20 pm - Shobhit: 😅
+28/10/18, 7:20 pm - Shobhit: Kal aa rhe ho
+28/10/18, 7:20 pm - PSIT Shivam tripathi: No
+28/10/18, 7:21 pm - Shobhit: ho hi nhi rhe
+28/10/18, 7:22 pm - PSIT Shivam tripathi: Chutiye hai ham
+28/10/18, 7:22 pm - PSIT Shivam tripathi: Sonch rahe coding chhod de
+28/10/18, 7:22 pm - PSIT Shivam tripathi: SQL padh le
+28/10/18, 7:22 pm - PSIT Shivam tripathi: 😢
+28/10/18, 7:22 pm - Shobhit: 🤭
+28/10/18, 7:22 pm - Shobhit: To fr kal college jao
+28/10/18, 7:22 pm - Shobhit: Sql ki lab h
+28/10/18, 7:23 pm - PSIT Shivam tripathi: 😐
+28/10/18, 7:23 pm - PSIT Shivam tripathi: kal chhutti leke naye karmchaari hire karne hai
+28/10/18, 7:23 pm - PSIT Shivam tripathi: safai ke liye
+28/10/18, 7:23 pm - PSIT Shivam tripathi: purane karmchaariyo ko nikaal diya
+28/10/18, 7:23 pm - PSIT Shivam tripathi: saaale safai ke beech me instagram chalane lagte the
+28/10/18, 7:23 pm - PSIT Shivam tripathi: 😑
+28/10/18, 7:24 pm - PSIT Shivam tripathi: 😶
+28/10/18, 7:24 pm - PSIT Shivam tripathi: NASA walo ko inspection karna hai kal
+28/10/18, 7:24 pm - PSIT Shivam tripathi: isliye safai karwa rahe hai
+28/10/18, 7:25 pm - Shobhit: Abe .... Hm tumhari parsani katam karva dege perso
+28/10/18, 7:25 pm - PSIT Shivam tripathi: 🤭
+28/10/18, 7:29 pm - Shobhit: America se cutter magvaya h
+28/10/18, 7:29 pm - Shobhit: Perso aa jayge.
+28/10/18, 7:30 pm - Shobhit: Bas fr.. rocket me fit krva ke ... Space me
+28/10/18, 7:30 pm - Shobhit: 👋🏻
+28/10/18, 7:30 pm - PSIT Shivam tripathi: 😁
+28/10/18, 7:30 pm - Shobhit: <Media omitted>
+28/10/18, 7:30 pm - Shobhit: <Media omitted>
+28/10/18, 7:30 pm - Shobhit: Yahi te na
+28/10/18, 7:30 pm - Shobhit: Check kr lo
+28/10/18, 7:31 pm - PSIT Shivam tripathi: Hmm
+28/10/18, 7:31 pm - Shobhit: Ok
+28/10/18, 7:31 pm - PSIT Shivam tripathi: Correct
+28/10/18, 7:32 pm - Shobhit: Bas yhi 2 code fill krne te?
+28/10/18, 7:32 pm - PSIT Shivam tripathi: Yes
+28/10/18, 7:32 pm - Shobhit: Ok
+28/10/18, 7:33 pm - PSIT Shivam tripathi: 😇
+28/10/18, 7:33 pm - Shobhit: karo bhai ...
+28/10/18, 7:34 pm - Shobhit: iss bar bi qualify nhi ho payge ky
+28/10/18, 7:34 pm - Shobhit: 😅
+28/10/18, 7:34 pm - PSIT Shivam tripathi: KAr rahe hai
+28/10/18, 7:34 pm - Shobhit: https://stackoverflow.com/questions/53028709/find-all-combination-of-n-as-a-sum-of-k-distinct-elements
+28/10/18, 7:35 pm - PSIT Shivam tripathi: 🤭
+28/10/18, 7:35 pm - PSIT Shivam tripathi: Thanks
+28/10/18, 7:35 pm - PSIT Shivam tripathi: Dekhte hai
+28/10/18, 7:35 pm - Shobhit: code bejj ne agr chll jay to
+28/10/18, 7:35 pm - Shobhit: 😂
+28/10/18, 7:35 pm - PSIT Shivam tripathi: ok
+28/10/18, 8:48 pm - Shobhit: hua
+28/10/18, 8:50 pm - PSIT Shivam tripathi: Nopes
+28/10/18, 8:50 pm - PSIT Shivam tripathi: 1 test case nahi chal rha
+28/10/18, 8:50 pm - PSIT Shivam tripathi: vahi debug kar raha
+28/10/18, 8:50 pm - PSIT Shivam tripathi: kyu
+28/10/18, 8:51 pm - Shobhit: ok
+28/10/18, 8:53 pm - PSIT Shivam tripathi: bhai help karo yaar
+28/10/18, 8:53 pm - PSIT Shivam tripathi: chef and sequence laga raha
+28/10/18, 8:53 pm - PSIT Shivam tripathi: partial hua hai
+28/10/18, 8:53 pm - Shobhit: bejo
+28/10/18, 8:54 pm - PSIT Shivam tripathi: Same na submit kar dena
+28/10/18, 8:54 pm - PSIT Shivam tripathi: jo ham fans jaaye
+28/10/18, 8:54 pm - Shobhit: 😅
+28/10/18, 8:54 pm - PSIT Shivam tripathi: #include<iostream>
+#include<string>
+#include<set>
+#include<string.h>
+#include<vector>
+#include<algorithm>
+using namespace std;
+
+#define ll long long int
+#define PB push_back
+#define MP make_pair
+#define PLL pair<ll ,ll>
+#define FOR(i,n) for (int i=0; i<n; i++)
+#define REP(i,k,n) for (int i=k; i<=n; i++)
+#define REPR(i,k,n) for (int i=k; i>=n; i--)
+
+int main()
+{
+	ll t, n, m, l, k, count, waitingtime, entrytime;
+	set <ll> s;
+	cin >> t;
+	while(t--)
+	{
+		cin >> n >> m >> k >> l;
+		ll a[n];
+
+		FOR(i,n)
+		{
+			cin >> a[i];
+		}
+		sort(a,a+n);
+
+		REP(i,1,k)
+		{
+			count = 0;
+			for(int j=0; j<n; j++)
+			{
+				if(a[j] < i)
+					count++;
+				else
+					break;
+			}
+			entrytime = l*(m+count+1);
+			waitingtime = entrytime - i;
+			s.insert(waitingtime);
+			//cout << count << " " << entrytime << " " << waitingtime << endl;
+			
+		}
+		cout << *s.begin() << endl;
+		s.clear();
+	}
+}
+28/10/18, 8:55 pm - Shobhit: acha ye..
+28/10/18, 9:40 pm - Shobhit: <Media omitted>
+28/10/18, 9:40 pm - Shobhit: Ho gy bhai
+28/10/18, 9:41 pm - PSIT Shivam tripathi: Abhi call karta hu
+28/10/18, 9:41 pm - Shobhit: Ok
+28/10/18, 9:58 pm - PSIT Shivam tripathi: Solution bhejo
+28/10/18, 9:59 pm - Shobhit: #include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define PB push_back
+#define FOR(i,n) for (int i=0; i<n; i++)
+
+
+int main()
+{ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+
+int t;
+cin>>t;
+while(t--)
+{
+   ll int n,m,k,l;
+   cin>>n>>m>>k>>l;
+   
+   ll int val_l=m*l;
+   
+   set<ll int>st;
+   set<ll int>wt;
+   
+   ll int ele;
+   for(int i=0;i<n;i++)
+   {
+       cin>>ele;
+       st.insert(ele);
+   }
+   
+   st.insert(k);
+   
+   ll int count=0,et=0,j=0,w=0,min=INT_MAX;
+   
+   for(auto it:st)
+   {
+       if(it>k)
+        break;
+        
+        et=l*(m+j+1);
+        w=et-it;
+        
+        if(min>w)
+            min=w;
+        
+        j++;
+   }
+   
+  
+   
+   cout<<min;
+   cout<<'\n';
+   wt.clear();
+   
+}
+
+return 0;
+}
+28/10/18, 9:59 pm - PSIT Shivam tripathi: Cool
+28/10/18, 10:08 pm - Shobhit: tumhara valla formula use kiya
+28/10/18, 10:08 pm - Shobhit: or chall gy
+28/10/18, 10:08 pm - PSIT Shivam tripathi: Yeee
+28/10/18, 10:08 pm - Shobhit: 😁
+28/10/18, 10:08 pm - PSIT Shivam tripathi: 😅
+28/10/18, 10:10 pm - Shobhit: 4 kr rhe ho?
+28/10/18, 10:11 pm - PSIT Shivam tripathi: Haan
+28/10/18, 10:11 pm - Shobhit: ok
+28/10/18, 11:27 pm - Shobhit: na
+28/10/18, 11:28 pm - Shobhit: You deleted this message
+28/10/18, 11:37 pm - Shobhit: You deleted this message
+28/10/18, 11:40 pm - PSIT Shivam tripathi: kaaa hua bhaiya
+28/10/18, 11:41 pm - PSIT Shivam tripathi: SQL query bhej denge jyada battameezi na karo
+28/10/18, 11:41 pm - Shobhit: 🤣
+28/10/18, 11:41 pm - Shobhit: are vo msg kr rhe dushre ko, ho rha tumko barr barr
+28/10/18, 11:41 pm - PSIT Shivam tripathi: ok
+29/10/18, 12:07 am - PSIT Shivam tripathi: Ham tumhare dimaag me haavi ho chuke hai 🤪🤭
+29/10/18, 12:08 am - Shobhit: 😨
+29/10/18, 9:09 am - Shobhit: 5 ke liye test case banay hotot msg kr do
+29/10/18, 9:25 am - PSIT Shivam tripathi: 🤭
+29/10/18, 9:45 am - Shobhit: kya hua
+29/10/18, 11:26 am - Shobhit: <Media omitted>
+29/10/18, 11:27 am - PSIT Shivam tripathi: ☹
+29/10/18, 1:36 pm - Shobhit: any update?
+29/10/18, 1:40 pm - PSIT Shivam tripathi: NO bhai
+29/10/18, 1:40 pm - Shobhit: 😕
+29/10/18, 4:56 pm - PSIT Shivam tripathi: All teams scoring >= 350 in this round will qualify for the Pre-Elimination Round. That is the current cut-off, and so to not disadvantage the teams who are unaware of the extension of the contest, we are freezing that as the cut-off.
+29/10/18, 7:42 pm - PSIT Shivam tripathi: https://www.geeksforgeeks.org/interval-tree/
+29/10/18, 7:48 pm - Shobhit: 👍 tree se
+29/10/18, 7:49 pm - PSIT Shivam tripathi: Overlapping interval wala tree construct karna padega
+29/10/18, 7:49 pm - Shobhit: 🤔
+29/10/18, 7:49 pm - PSIT Shivam tripathi: ☹
+29/10/18, 7:49 pm - PSIT Shivam tripathi: Aise hi dekh rahe
+29/10/18, 7:50 pm - Shobhit: Bhai kr do
+29/10/18, 9:46 pm - PSIT Shivam tripathi: https://www.codechef.com/viewsolution/21282712
+29/10/18, 9:46 pm - PSIT Shivam tripathi: Solution dekho
+29/10/18, 9:46 pm - PSIT Shivam tripathi: Man kar raha hai ulta latak jaau
+29/10/18, 9:46 pm - PSIT Shivam tripathi: ped se
+29/10/18, 9:47 pm - PSIT Shivam tripathi: 🌳
+29/10/18, 9:47 pm - PSIT Shivam tripathi: ☹
+29/10/18, 9:47 pm - PSIT Shivam tripathi: https://www.codechef.com/viewsolution/21331156
+29/10/18, 9:47 pm - PSIT Shivam tripathi: Yeh bhi choota
+29/10/18, 10:07 pm - Shobhit: 😨
+30/10/18, 9:53 am - Shobhit: https://discuss.codechef.com/questions/139106/chefko-editorial
+01/11/18, 12:45 am - Shobhit: <Media omitted>
+01/11/18, 12:45 am - PSIT Shivam tripathi: 😃
+01/11/18, 12:46 am - PSIT Shivam tripathi: Good msg, but
+01/11/18, 12:46 am - PSIT Shivam tripathi: Ignore maaro
+01/11/18, 12:46 am - Shobhit: 🤔 kyo
+01/11/18, 12:46 am - PSIT Shivam tripathi: Clickbait hai yeh bhi ek tarah ka
+01/11/18, 12:46 am - PSIT Shivam tripathi: Not sure about this
+01/11/18, 12:46 am - PSIT Shivam tripathi: But quora me bahut hota hai aajkal
+01/11/18, 12:46 am - Shobhit: Oh
+01/11/18, 12:47 am - PSIT Shivam tripathi: Inspirational post karne ke liye, question bhi usi hisaab ka daal dete hai
+01/11/18, 12:47 am - PSIT Shivam tripathi: 😁
+01/11/18, 12:47 am - Shobhit: Haan
+02/11/18, 11:53 pm - Shobhit: <Media omitted>
+02/11/18, 11:53 pm - PSIT Shivam tripathi: 😝
+03/11/18, 12:32 am - Shobhit: Mukul bindal kon h?
+03/11/18, 12:33 am - PSIT Shivam tripathi: Pata nahi bhai
+03/11/18, 12:33 am - PSIT Shivam tripathi: Kyu ?
+03/11/18, 12:33 am - Shobhit: Arora ke satt rahita h
+03/11/18, 12:33 am - PSIT Shivam tripathi: Achha
+03/11/18, 12:33 am - Shobhit: 3*
+03/11/18, 12:33 am - PSIT Shivam tripathi: Shobhit patel kaun hai ?
+03/11/18, 12:33 am - PSIT Shivam tripathi: Achha
+03/11/18, 12:33 am - Shobhit: Shivam ka dost h
+03/11/18, 12:34 am - PSIT Shivam tripathi: Achha
+03/11/18, 12:34 am - Shobhit: Tripathi, rajpoot
+03/11/18, 12:34 am - PSIT Shivam tripathi: 2* hai
+03/11/18, 12:34 am - PSIT Shivam tripathi: 😄
+03/11/18, 12:34 am - Shobhit: 😨
+03/11/18, 12:34 am - PSIT Shivam tripathi: 😶🤟
+03/11/18, 12:36 am - Shobhit: Nov ka pahila dakha
+03/11/18, 12:36 am - Shobhit: Mtlb kutch bi banna dege ky
+03/11/18, 12:36 am - PSIT Shivam tripathi: Haan
+03/11/18, 12:36 am - PSIT Shivam tripathi: Mazaak chal raha hai
+03/11/18, 12:36 am - Shobhit: 🤭 sab me yes
+03/11/18, 12:37 am - PSIT Shivam tripathi: haan
+03/11/18, 12:37 am - PSIT Shivam tripathi: 🐼
+03/11/18, 12:37 am - PSIT Shivam tripathi: Gennady ne banaya hai voh sawaal
+03/11/18, 12:38 am - Shobhit: <Media omitted>
+03/11/18, 12:38 am - PSIT Shivam tripathi: Are voh naam nahi chhapta apna
+03/11/18, 12:38 am - PSIT Shivam tripathi: Chupke se kaam karta hai
+03/11/18, 12:38 am - Shobhit: 🤣
+03/11/18, 12:38 am - Shobhit: Accha
+03/11/18, 12:38 am - PSIT Shivam tripathi: 🤪
+03/11/18, 12:43 am - Shobhit: <Media omitted>
+03/11/18, 12:43 am - PSIT Shivam tripathi: Nice
+03/11/18, 12:44 am - PSIT Shivam tripathi: 😋
+03/11/18, 12:44 am - Shobhit: Nice ky tum bi to ho
+03/11/18, 12:44 am - PSIT Shivam tripathi: Achhi bat hai na bhai
+03/11/18, 12:44 am - PSIT Shivam tripathi: Seekh rahe hai
+03/11/18, 12:44 am - Shobhit: 👍🤓
+03/11/18, 12:44 am - PSIT Shivam tripathi: 😄
+03/11/18, 12:44 am - Shobhit: Stauts me laga de
+03/11/18, 12:44 am - Shobhit: 🤔 sahi nhi rahega na
+03/11/18, 12:44 am - PSIT Shivam tripathi: Haan laga do
+03/11/18, 12:45 am - PSIT Shivam tripathi: Rehne do
+03/11/18, 12:45 am - Shobhit: 👍
+03/11/18, 12:45 am - PSIT Shivam tripathi: aaj ham soch rahe the, ki sab ko ek hi cheez nahi matter karti
+03/11/18, 12:45 am - PSIT Shivam tripathi: sabki priority alag alag hai
+03/11/18, 12:45 am - Shobhit: 🙄
+03/11/18, 12:45 am - Shobhit: Matlb
+03/11/18, 12:45 am - PSIT Shivam tripathi: toh tumhare liye badi baat hai lekin baaki logo ko shayad koi matlab na ho usse
+03/11/18, 12:46 am - PSIT Shivam tripathi: 😊
+03/11/18, 12:46 am - Shobhit: Loggo ke liye nhi bhai.. 🤩 maal
+03/11/18, 12:46 am - Shobhit: Objects
+03/11/18, 12:46 am - PSIT Shivam tripathi: Matlab koi farak nahi padega status lagane se
+03/11/18, 12:46 am - PSIT Shivam tripathi: Koi maal nahi milega
+03/11/18, 12:46 am - PSIT Shivam tripathi: 😶
+03/11/18, 12:46 am - Shobhit: 😓
+03/11/18, 12:47 am - Shobhit: 😒
+03/11/18, 12:47 am - Shobhit: Milegi
+03/11/18, 12:47 am - PSIT Shivam tripathi: sahi me bhai
+03/11/18, 12:47 am - PSIT Shivam tripathi: hot bandi chahiye toh thoda khulna padega tumhe
+03/11/18, 12:48 am - PSIT Shivam tripathi: choot chaalaaki wali baatein karni padegi
+03/11/18, 12:48 am - Shobhit: 🤭
+03/11/18, 12:48 am - PSIT Shivam tripathi: 😢
+03/11/18, 12:48 am - Shobhit: Ye na ho payga
+03/11/18, 12:48 am - PSIT Shivam tripathi: abe ham ye sonchte hai
+03/11/18, 12:48 am - PSIT Shivam tripathi: maal ladki pata bhi le
+03/11/18, 12:48 am - PSIT Shivam tripathi: toh baat kya karenge usse
+03/11/18, 12:49 am - Shobhit: 🤩 coding sikha dege
+03/11/18, 12:49 am - PSIT Shivam tripathi: kantaap maar ke bhaag jayegi
+03/11/18, 12:49 am - PSIT Shivam tripathi: 😅
+03/11/18, 12:49 am - Shobhit: Or bi mazza ayga
+03/11/18, 12:49 am - Shobhit: 😁
+03/11/18, 12:49 am - PSIT Shivam tripathi: jyada paisa aa jaye toh yeh nahi pata chalta ki ladki paiso ki vajah se hai, ya  sahi me chahti hai
+03/11/18, 12:50 am - Shobhit: 🤭 ho sakta h ye..
+03/11/18, 1:38 am - Shobhit: 3 padha?
+03/11/18, 1:38 am - PSIT Shivam tripathi: ahi
+03/11/18, 1:38 am - PSIT Shivam tripathi: nahi
+03/11/18, 1:38 am - PSIT Shivam tripathi: ab kal karenge
+03/11/18, 1:39 am - PSIT Shivam tripathi: 2nd kiya tha
+03/11/18, 1:39 am - PSIT Shivam tripathi: pata nahi
+03/11/18, 1:39 am - PSIT Shivam tripathi: wa hogaya
+03/11/18, 1:39 am - PSIT Shivam tripathi: 😅
+03/11/18, 1:39 am - Shobhit: mtlb bata do
+03/11/18, 1:39 am - Shobhit: 🤔
+03/11/18, 1:39 am - Shobhit: nested loop se kaoge to partial hoga
+03/11/18, 1:39 am - PSIT Shivam tripathi: ok
+03/11/18, 1:39 am - PSIT Shivam tripathi: no nested loop
+03/11/18, 1:39 am - PSIT Shivam tripathi: linear
+03/11/18, 1:39 am - PSIT Shivam tripathi: hashing
+03/11/18, 1:39 am - PSIT Shivam tripathi: 4 iterations
+03/11/18, 1:40 am - Shobhit: ok, hmne bi yahi kiya fr
+03/11/18, 1:41 am - Shobhit: https://s3.amazonaws.com/codechef_shared/download/translated/NOV18/hindi/PRDRG.pdf
+03/11/18, 1:41 am - PSIT Shivam tripathi: ?
+03/11/18, 1:41 am - Shobhit: dako
+03/11/18, 1:41 am - PSIT Shivam tripathi: princess and dragons ka solb
+03/11/18, 1:41 am - PSIT Shivam tripathi: n
+03/11/18, 1:42 am - PSIT Shivam tripathi: Achha yeh
+03/11/18, 1:42 am - PSIT Shivam tripathi: yeh toh faltu sawal lag rha
+03/11/18, 1:42 am - PSIT Shivam tripathi: hindi me kyu bheje ho
+03/11/18, 1:42 am - PSIT Shivam tripathi: Chef and Ridges !
+03/11/18, 1:42 am - Shobhit: smj nhi aa rha
+03/11/18, 1:43 am - PSIT Shivam tripathi: x = 1, y = 2^n
+03/11/18, 12:18 pm - Shobhit: <Media omitted>
+03/11/18, 12:18 pm - PSIT Shivam tripathi: 😑😑😑😑
+03/11/18, 12:18 pm - PSIT Shivam tripathi: Subah subah se zehar de rahe ho
+03/11/18, 12:19 pm - PSIT Shivam tripathi: Sawal hua 3rd ?
+03/11/18, 12:39 pm - Shobhit: Ha
+03/11/18, 12:39 pm - Shobhit: Partial hua h
+03/11/18, 12:39 pm - Shobhit: Powr dakh rhe h
+03/11/18, 12:41 pm - Shobhit: Ho gy pura
+03/11/18, 12:41 pm - PSIT Shivam tripathi: Good
+03/11/18, 12:42 pm - Shobhit: 😁 thanx
+03/11/18, 12:42 pm - Shobhit: Jo soch rhe te vo nhi krna h
+03/11/18, 12:42 pm - PSIT Shivam tripathi: ab jaao jijji se baat karo
+03/11/18, 12:42 pm - Shobhit: Jb divide karo ge us segment me move karege
+03/11/18, 12:42 pm - PSIT Shivam tripathi: Achha
+03/11/18, 12:52 pm - PSIT Shivam tripathi: .
+03/11/18, 12:52 pm - PSIT Shivam tripathi: shayad man jaaye
+03/11/18, 12:52 pm - PSIT Shivam tripathi: launde ne sawal laga liya hai
+03/11/18, 1:05 pm - Shobhit: 🤭
+03/11/18, 1:05 pm - Shobhit: 👉
+03/11/18, 1:06 pm - Shobhit: You deleted this message
+03/11/18, 1:06 pm - PSIT Shivam tripathi: Yeh kya tha ?
+03/11/18, 1:06 pm - PSIT Shivam tripathi: Air Force
+03/11/18, 1:06 pm - PSIT Shivam tripathi: Ja rahe kya
+03/11/18, 1:06 pm - Shobhit: Ha
+03/11/18, 1:07 pm - PSIT Shivam tripathi: Ok
+03/11/18, 4:03 pm - Shobhit: Snakdown pre elimination kb se h?
+03/11/18, 4:04 pm - PSIT Shivam tripathi: Bhai kabhi kabhi tum ajeeb ajeeb cheezin punchhte ho
+03/11/18, 4:04 pm - PSIT Shivam tripathi: Maine tumse 100 baar  bataya hoga yeh
+03/11/18, 4:04 pm - Shobhit: 😒
+03/11/18, 4:04 pm - PSIT Shivam tripathi: 🤨
+03/11/18, 4:04 pm - Shobhit: Btado
+03/11/18, 4:04 pm - PSIT Shivam tripathi: 9-12
+03/11/18, 4:04 pm - PSIT Shivam tripathi: today
+03/11/18, 4:04 pm - Shobhit: Ok
+03/11/18, 4:04 pm - PSIT Shivam tripathi: hmm
+03/11/18, 4:05 pm - Shobhit: Bull gy te
+03/11/18, 4:05 pm - PSIT Shivam tripathi: 😢
+03/11/18, 4:05 pm - Shobhit: Age dakhe questions
+03/11/18, 4:05 pm - Shobhit: Agee*
+03/11/18, 4:05 pm - PSIT Shivam tripathi: Nahi bhai
+03/11/18, 4:05 pm - Shobhit: Ok
+03/11/18, 4:05 pm - PSIT Shivam tripathi: 😊
+03/11/18, 4:06 pm - Shobhit: 4 easy h dakho
+03/11/18, 4:06 pm - PSIT Shivam tripathi: Ok
+03/11/18, 4:23 pm - PSIT Shivam tripathi: Kya baat hai 🤪
+03/11/18, 4:24 pm - Shobhit: 😁
+03/11/18, 4:24 pm - Shobhit: Sabka nikalega
+03/11/18, 8:24 pm - PSIT Shivam tripathi: Troubleshooting
+03/11/18, 8:24 pm - Shobhit: ?
+03/11/18, 8:25 pm - PSIT Shivam tripathi: परेशानियों को बंदूक मारो
+03/11/18, 8:25 pm - Shobhit: 🤔😒
+03/11/18, 8:29 pm - Shobhit: vo bolla competative coder h to ky, developer to hm ache h.!!
+03/11/18, 8:29 pm - PSIT Shivam tripathi: ?
+03/11/18, 8:29 pm - Shobhit: vahi ceo
+03/11/18, 8:30 pm - Shobhit: 8lpa valo ko
+03/11/18, 10:29 pm - Shobhit: #include<bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define PB push_back
+#define FOR(i,n) for (int i=0; i<n; i++)
+
+
+int main()
+{ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+
+int t;
+cin>>t;
+while(t--)
+{
+    int n,m;
+    cin>>n>>m;
+    
+    ll int t1[n],t2[m];
+    
+    for(int i=0;i<n;i++)
+    cin>>t1[i];
+    
+    for(int i=0;i<m;i++)
+    cin>>t2[i];
+    
+    int sm=n;
+    if(sm>m)
+        sm=m;
+        
+        int xo=t1[0]^t2[0],x1;
+        
+        for(int i=1;i<sm;i++)
+        {
+            x1 =t1[i]^t2[i];
+            xo=xo+x1;
+        }
+        
+        if(xo==0)
+        {
+            cout<<"Bob"<<endl;
+        }
+        else
+        {
+            cout<<"Alice"<<endl;
+        }
+}
+
+return 0;
+}
+03/11/18, 10:29 pm - Shobhit: but usme WA aa rha h
+03/11/18, 10:29 pm - Shobhit: 😒😓
+03/11/18, 10:30 pm - PSIT Shivam tripathi: Mujhko hi bhej rahe the ?
+03/11/18, 10:30 pm - PSIT Shivam tripathi: Ham toh inventry wala kar rahe
+03/11/18, 10:30 pm - Shobhit: ha
+03/11/18, 10:30 pm - Shobhit: ok
+03/11/18, 10:49 pm - Shobhit: shivam se batiya rhe ho
+03/11/18, 10:49 pm - Shobhit: fatak se rako
+03/11/18, 10:49 pm - Shobhit: hme batt krni h
+03/11/18, 10:58 pm - PSIT Shivam tripathi: kar lo ab
+03/11/18, 11:15 pm - PSIT Shivam tripathi: Kaha gayab go gaye
+03/11/18, 11:41 pm - PSIT Shivam tripathi: https://www.codechef.com/viewsolution/20372133
+04/11/18, 12:10 am - Shobhit: 👍
+04/11/18, 12:17 am - Shobhit: <Media omitted>
+04/11/18, 12:18 am - Shobhit: 🤭sabko nikalne ke baad msg dakha
+04/11/18, 12:18 am - Shobhit: Ab to hmm bi leave kr chuke h
+04/11/18, 12:30 am - PSIT Shivam tripathi: 😶
+04/11/18, 12:30 am - PSIT Shivam tripathi: Ok
+04/11/18, 12:30 am - PSIT Shivam tripathi: 😢
+04/11/18, 12:46 am - Shobhit: <Media omitted>
+04/11/18, 12:46 am - Shobhit: Tik h?
+04/11/18, 12:46 am - Shobhit: <Media omitted>
+04/11/18, 12:46 am - PSIT Shivam tripathi: 😅
+04/11/18, 12:46 am - PSIT Shivam tripathi: Haan
+04/11/18, 12:47 am - Shobhit: 😁🤭
+04/11/18, 9:50 am - PSIT Shivam tripathi: Gennady ke partner ne java me 2 wrong submissions kar diye the
+04/11/18, 9:50 am - PSIT Shivam tripathi: 😂😂😂
+04/11/18, 9:50 am - PSIT Shivam tripathi: Tabhi saala 2nd ho gaye yeh log
+04/11/18, 9:51 am - PSIT Shivam tripathi: https://www.codechef.com/viewsolution/21417082
+04/11/18, 9:52 am - PSIT Shivam tripathi: Iss solution se ek nayi cheez pata chali
+04/11/18, 9:52 am - PSIT Shivam tripathi: inline functions me 'asm()' use kar ke, c/c++ ke sath assemmbly language mix kar sakte ho
+04/11/18, 9:52 am - PSIT Shivam tripathi: This helps with speed.
+04/11/18, 9:52 am - PSIT Shivam tripathi: 😨
+04/11/18, 9:52 am - PSIT Shivam tripathi: Mind Blown !!
+04/11/18, 9:53 am - PSIT Shivam tripathi: https://www.codeproject.com/Articles/15971/Using-Inline-Assembly-in-C-C
+04/11/18, 10:45 am - Shobhit: 😨 java
+04/11/18, 10:46 am - Shobhit: Gazb cpp is best
+04/11/18, 10:46 am - PSIT Shivam tripathi: 😋
+04/11/18, 12:11 pm - Shobhit: 4 dakha
+04/11/18, 12:11 pm - Shobhit: Smj nhi aa rha kon sa structure use kar
+04/11/18, 12:12 pm - PSIT Shivam tripathi: Dekhte hai
+04/11/18, 12:12 pm - Shobhit: Ok
+04/11/18, 12:17 pm - Shobhit: ?
+04/11/18, 12:17 pm - PSIT Shivam tripathi: Normal vector and set se ho jayega
+04/11/18, 12:17 pm - PSIT Shivam tripathi: Ya phir queue use kar lo
+04/11/18, 12:18 pm - Shobhit: Partial ho rha h
+04/11/18, 12:18 pm - PSIT Shivam tripathi: Usse shifting turant ho jayegi
+04/11/18, 12:18 pm - Shobhit: 30%
+04/11/18, 12:18 pm - PSIT Shivam tripathi: 😢
+04/11/18, 12:18 pm - PSIT Shivam tripathi: Batti chali gayi
+04/11/18, 12:18 pm - PSIT Shivam tripathi: Invertor kharab
+04/11/18, 12:18 pm - PSIT Shivam tripathi: No battery on phone or laptop
+04/11/18, 12:18 pm - Shobhit: Are
+04/11/18, 12:18 pm - PSIT Shivam tripathi: 😖
+04/11/18, 12:18 pm - PSIT Shivam tripathi: .
+04/11/18, 12:18 pm - PSIT Shivam tripathi: M
+04/11/18, 12:18 pm - PSIT Shivam tripathi: Shifting kaise kar rahe ho abhi
+04/11/18, 12:18 pm - PSIT Shivam tripathi: ?
+04/11/18, 12:18 pm - Shobhit: Dost ke gr se kr lo
+04/11/18, 12:19 pm - PSIT Shivam tripathi: I am the Only launda in whole apartment
+04/11/18, 12:19 pm - PSIT Shivam tripathi: All others are बुड्ढा lov
+04/11/18, 12:19 pm - PSIT Shivam tripathi: *Log
+04/11/18, 12:19 pm - Shobhit: 🤔
+04/11/18, 12:19 pm - Shobhit: <Media omitted>
+04/11/18, 12:19 pm - Shobhit: N me kr rhe h shift
+04/11/18, 12:19 pm - PSIT Shivam tripathi: 😢
+04/11/18, 12:20 pm - PSIT Shivam tripathi: TLE ho rhaa ?
+04/11/18, 12:20 pm - Shobhit: Ha
+04/11/18, 12:20 pm - PSIT Shivam tripathi: Queue use kar ke dekho
+04/11/18, 12:20 pm - PSIT Shivam tripathi: Pop and push karna
+04/11/18, 12:20 pm - Shobhit: <Media omitted>
+04/11/18, 12:21 pm - PSIT Shivam tripathi: 😂
+04/11/18, 12:21 pm - Shobhit: Ha ye try krte h
+04/11/18, 12:21 pm - PSIT Shivam tripathi: Front se pop ho jayega
+04/11/18, 12:21 pm - PSIT Shivam tripathi: End pe push kar dena
+04/11/18, 12:21 pm - Shobhit: Ok
+04/11/18, 12:21 pm - PSIT Shivam tripathi: q.push(q.pop());
+04/11/18, 12:21 pm - PSIT Shivam tripathi: Bas itne pe ho jayega
+04/11/18, 12:21 pm - Shobhit: 🤭
+04/11/18, 12:22 pm - Shobhit: Ok,Try krte h
+04/11/18, 12:22 pm - PSIT Shivam tripathi: Batti aagyi
+04/11/18, 12:22 pm - PSIT Shivam tripathi: 🕺🏻🕺🏻🕺🏻
+04/11/18, 12:22 pm - PSIT Shivam tripathi: Yeeee
+04/11/18, 12:38 pm - Shobhit: 👍
+04/11/18, 12:39 pm - Shobhit: <Media omitted>
+04/11/18, 12:40 pm - PSIT Shivam tripathi: OOH
+04/11/18, 12:40 pm - PSIT Shivam tripathi: SHIT
+04/11/18, 12:40 pm - Shobhit: Segment type hoga syd kutch
+04/11/18, 2:48 pm - Shobhit: Kiya kya bhai
+04/11/18, 3:15 pm - PSIT Shivam tripathi: Nahi
+04/11/18, 4:09 pm - Shobhit: Ok
+04/11/18, 6:02 pm - PSIT Shivam tripathi: Dance karne jana tha hamk
+04/11/18, 6:02 pm - PSIT Shivam tripathi: O
+04/11/18, 6:02 pm - PSIT Shivam tripathi: Isliye kar nahi paaye
+04/11/18, 6:03 pm - PSIT Shivam tripathi: 🕺🏻
+04/11/18, 6:09 pm - Shobhit: Kaha
+04/11/18, 6:09 pm - PSIT Shivam tripathi: PSIT ki chhat pe
+04/11/18, 6:10 pm - Shobhit: 😁😂
+04/11/18, 6:10 pm - Shobhit: Hmm bi aa rhe
+04/11/18, 9:07 pm - Shobhit: Bsnl me vo 400 ka koi pln aata h
+04/11/18, 9:07 pm - Shobhit: Kitne ka h vo?
+04/11/18, 9:08 pm - PSIT Shivam tripathi: Pata nahi bhai
+04/11/18, 9:09 pm - PSIT Shivam tripathi: Hamne karaya nahi kaafi samay se
+04/11/18, 9:09 pm - Shobhit: Ok
+04/11/18, 9:09 pm - PSIT Shivam tripathi: Change hota rehta hai
+04/11/18, 9:09 pm - Shobhit: <Media omitted>
+04/11/18, 9:09 pm - PSIT Shivam tripathi: https://portal2.bsnl.in/myportal/quickrecharge.do
+04/11/18, 9:09 pm - PSIT Shivam tripathi: Yaha pe jao
+04/11/18, 9:09 pm - Shobhit: Ok
+04/11/18, 9:09 pm - PSIT Shivam tripathi: Details daalo
+04/11/18, 9:10 pm - PSIT Shivam tripathi: STV recharge select karna
+04/11/18, 9:10 pm - PSIT Shivam tripathi: Usme data plans
+04/11/18, 9:10 pm - PSIT Shivam tripathi: <Media omitted>
+04/11/18, 9:10 pm - PSIT Shivam tripathi: Yeh hai
+04/11/18, 9:13 pm - Shobhit: 👍 thnx bhai
+04/11/18, 9:58 pm - PSIT Shivam tripathi: Kya kar rahe ?
+04/11/18, 11:17 pm - Shobhit: 5 dakh rhe te
+04/11/18, 11:22 pm - PSIT Shivam tripathi: 👀
+06/11/18, 2:00 am - Shobhit: Kiya koi
+06/11/18, 2:01 am - PSIT Shivam tripathi: haan
+06/11/18, 2:01 am - PSIT Shivam tripathi: moondance
+06/11/18, 2:01 am - Shobhit: 🤔
+06/11/18, 2:01 am - Shobhit: Matlb
+06/11/18, 2:01 am - PSIT Shivam tripathi: gud night
+06/11/18, 2:01 am - PSIT Shivam tripathi: bye
+06/11/18, 2:01 am - Shobhit: 🤣
+06/11/18, 2:01 am - PSIT Shivam tripathi: servlet padh rahe the]
+06/11/18, 2:01 am - Shobhit: are nov kiya
+06/11/18, 2:01 am - PSIT Shivam tripathi: ab sql karenge
+06/11/18, 2:01 am - PSIT Shivam tripathi: nahi bhai
+06/11/18, 2:01 am - Shobhit: kyo nhi kr rhe
+06/11/18, 2:01 am - PSIT Shivam tripathi: busy in some studd
+06/11/18, 2:02 am - Shobhit: ok
+06/11/18, 2:02 am - PSIT Shivam tripathi: hmm
+06/11/18, 2:02 am - PSIT Shivam tripathi: coding bhi kar rahe
+06/11/18, 2:02 am - PSIT Shivam tripathi: 2-3 hrs
+06/11/18, 2:02 am - Shobhit: mujhe lagga, fr mozz kr rhe ho sab chood ke
+06/11/18, 2:02 am - PSIT Shivam tripathi: lonely cycles ek question hai
+06/11/18, 2:02 am - PSIT Shivam tripathi: voh kiuya tha
+06/11/18, 2:02 am - Shobhit: chef pe
+06/11/18, 2:02 am - PSIT Shivam tripathi: nahi bhai, time nahi waste karunga
+06/11/18, 2:02 am - PSIT Shivam tripathi: haan
+06/11/18, 2:02 am - Shobhit: ok
+06/11/18, 2:03 am - Shobhit: iss bar nov easy lagg rha h
+06/11/18, 2:03 am - PSIT Shivam tripathi: achha
+06/11/18, 2:03 am - Shobhit: syd 6 ho jane cahiye
+06/11/18, 2:03 am - PSIT Shivam tripathi: aisa hai
+06/11/18, 2:03 am - PSIT Shivam tripathi: phir karte hai
+06/11/18, 2:03 am - Shobhit: 5 ho gy h
+06/11/18, 2:03 am - Shobhit: 🤣
+06/11/18, 2:03 am - PSIT Shivam tripathi: abhi dekhta hu
+06/11/18, 2:03 am - PSIT Shivam tripathi: subah dekhu sonch raha
+06/11/18, 2:03 am - PSIT Shivam tripathi: sahi hai
+06/11/18, 2:03 am - Shobhit: 😀 ok
+06/11/18, 2:03 am - PSIT Shivam tripathi: 🤪
+17/11/18, 5:39 pm - PSIT Shivam tripathi: Enigma machine ?
+17/11/18, 7:31 pm - Shobhit: Haaaa
+17/11/18, 7:37 pm - PSIT Shivam tripathi: 🐄
+18/11/18, 1:49 pm - Shobhit: https://youtu.be/5RONxqEw2d0
+18/11/18, 2:18 pm - PSIT Shivam tripathi: 🐸
+25/11/18, 7:36 am - Shobhit: Daa ki file banai?
+25/11/18, 12:12 pm - PSIT Shivam tripathi: Hmm
+25/11/18, 12:12 pm - PSIT Shivam tripathi: 5
+25/11/18, 12:12 pm - Shobhit: 3,4 bej do
+25/11/18, 12:19 pm - PSIT Shivam tripathi: In an hour
+25/11/18, 12:19 pm - Shobhit: 🙄
+26/11/18, 2:44 am - PSIT Shivam tripathi: <Media omitted>
+26/11/18, 6:53 am - Shobhit: 🐉
+26/11/18, 2:21 pm - Shobhit: <Media omitted>
+26/11/18, 4:53 pm - PSIT Shivam tripathi: ☹
+26/11/18, 4:54 pm - PSIT Shivam tripathi: Saal me 5-6 baar khate hai
+26/11/18, 5:01 pm - PSIT Shivam tripathi: Voh bhi 4 kfc ke
+26/11/18, 5:01 pm - PSIT Shivam tripathi: ☹
+26/11/18, 10:38 pm - Shobhit: thurshday ko janna padega
+26/11/18, 10:38 pm - Shobhit: dbms ka tset hoga
+26/11/18, 10:38 pm - Shobhit: 🤔
+26/11/18, 10:38 pm - Shobhit: kal marr do
+26/11/18, 11:09 pm - PSIT Shivam tripathi: Aa jaate hai
+26/11/18, 11:09 pm - PSIT Shivam tripathi: Ab
+28/11/18, 8:42 pm - Shobhit: Bhai notes bejj do
+28/11/18, 10:28 pm - PSIT Shivam tripathi: Subah tak
+28/11/18, 10:28 pm - Shobhit: kyo
+28/11/18, 10:28 pm - PSIT Shivam tripathi: 😢
+28/11/18, 10:28 pm - PSIT Shivam tripathi: Abhi so ke utha hu
+28/11/18, 10:28 pm - Shobhit: 🤔
+28/11/18, 10:28 pm - PSIT Shivam tripathi: 4-5 baje tak bhej denge
+28/11/18, 10:29 pm - Shobhit: turing machine banai h ky
+28/11/18, 10:29 pm - Shobhit: iita time
+28/11/18, 10:29 pm - PSIT Shivam tripathi: Khana nahi khane doge bhaiya
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Abhi aadhi neend me lete hai
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Pics saari laptop pe daal ke
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Order ke karke
+28/11/18, 10:30 pm - Shobhit: are kaaa lo
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Vawas phone me daalke
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Fresh pdf
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Banayenge
+28/11/18, 10:30 pm - Shobhit: 😨 lot of work
+28/11/18, 10:30 pm - Shobhit: 👍 ok
+28/11/18, 10:30 pm - PSIT Shivam tripathi: Ek issue hai
+28/11/18, 10:30 pm - PSIT Shivam tripathi: DAA me
+28/11/18, 10:30 pm - Shobhit: aram se bezzo
+28/11/18, 10:31 pm - PSIT Shivam tripathi: First copy nahi laai thi shriyanshi
+28/11/18, 10:31 pm - Shobhit: ok
+28/11/18, 10:31 pm - PSIT Shivam tripathi: Toh shivani se liya hai jo part chutaa hai
+28/11/18, 10:31 pm - PSIT Shivam tripathi: Hai pura lekin ✔
+28/11/18, 10:31 pm - Shobhit: 😆 badiya admi ho bhai,
+28/11/18, 10:31 pm - Shobhit: mazaa aa gy
+28/11/18, 10:31 pm - PSIT Shivam tripathi: 🤪
+28/11/18, 10:31 pm - Shobhit: 👍👍👍👍 ye lo
+28/11/18, 10:32 pm - Shobhit: 🍔🍟🍕🥪🥙🌯🌮 ye lo bhai
+28/11/18, 10:33 pm - PSIT Shivam tripathi: 😋😋😋😋😋😋
+28/11/18, 11:14 pm - Shobhit: You deleted this message
+28/11/18, 11:15 pm - Shobhit: You deleted this message
+28/11/18, 11:15 pm - PSIT Shivam tripathi: Nahi
+28/11/18, 11:15 pm - Shobhit: 👍🤣
+28/11/18, 11:15 pm - Shobhit: Bahut tez ho
+28/11/18, 11:15 pm - PSIT Shivam tripathi: Abe suno
+28/11/18, 11:15 pm - PSIT Shivam tripathi: 61 hai ?
+28/11/18, 11:15 pm - Shobhit: Ha
+28/11/18, 11:15 pm - PSIT Shivam tripathi: Maar sakte ho
+28/11/18, 11:15 pm - PSIT Shivam tripathi: 90 rahegi
+28/11/18, 11:15 pm - Shobhit: Fine lage ga
+28/11/18, 11:15 pm - PSIT Shivam tripathi: 689 lectures hai
+28/11/18, 11:15 pm - PSIT Shivam tripathi: nahi lagegi
+28/11/18, 11:16 pm - PSIT Shivam tripathi: gauranteee
+28/11/18, 11:16 pm - Shobhit: 🤔
+28/11/18, 11:16 pm - PSIT Shivam tripathi: Abhi kitne lectures dikha raha?
+28/11/18, 11:16 pm - PSIT Shivam tripathi: total jo huye hai
+28/11/18, 11:16 pm - Shobhit: 680
+28/11/18, 11:16 pm - Shobhit: Kal milla ke
+28/11/18, 11:16 pm - Shobhit: 688
+28/11/18, 11:16 pm - PSIT Shivam tripathi: Araam se maar sakte ho
+28/11/18, 11:16 pm - PSIT Shivam tripathi: 89.9 hogi
+28/11/18, 11:16 pm - PSIT Shivam tripathi: no fine
+28/11/18, 11:16 pm - Shobhit: Lagta h
+28/11/18, 11:16 pm - PSIT Shivam tripathi: but tum chale jao
+28/11/18, 11:17 pm - PSIT Shivam tripathi: hamse na kahna
+28/11/18, 11:17 pm - PSIT Shivam tripathi: 😥
+28/11/18, 11:17 pm - Shobhit: 😨
+28/11/18, 11:20 pm - Shobhit: Ok
+29/11/18, 12:10 am - Shobhit: <Media omitted>
+29/11/18, 12:10 am - Shobhit: 😓
+29/11/18, 12:11 am - PSIT Shivam tripathi: Hmm
+29/11/18, 12:11 am - PSIT Shivam tripathi: Tapan told me
+29/11/18, 12:11 am - Shobhit: Hmare to 3 cpy ho gy
+29/11/18, 12:11 am - Shobhit: 🤣
+29/11/18, 12:11 am - PSIT Shivam tripathi: Links bhejo
+29/11/18, 12:11 am - PSIT Shivam tripathi: 4 ro
+29/11/18, 12:11 am - PSIT Shivam tripathi: Mujhe dekhna hai
+29/11/18, 12:12 am - Shobhit: Jo beje vahi chepp diye
+29/11/18, 12:12 am - Shobhit: 🤣
+29/11/18, 12:12 am - Shobhit: Dost h bahr ke
+29/11/18, 12:12 am - Shobhit: Apne vale ka name nhi h
+29/11/18, 12:12 am - PSIT Shivam tripathi: ☹
+29/11/18, 12:12 am - PSIT Shivam tripathi: Galat baat hai
+29/11/18, 1:37 am - PSIT Shivam tripathi: <Media omitted>
+29/11/18, 1:37 am - PSIT Shivam tripathi: <Media omitted>
+29/11/18, 1:38 am - PSIT Shivam tripathi: DBMS is complete.
+Webtech me 5-6 pages missing hai Notebook 1 se, Shriyanshi nahi laayi thi first notebook.
+Yeh 2nd notebook ke poore hai
+29/11/18, 1:39 am - Shobhit: 👍😁
+29/11/18, 1:39 am - Shobhit: Thanks
+29/11/18, 1:39 am - PSIT Shivam tripathi: Baaki baad me bhej denge
+29/11/18, 1:39 am - PSIT Shivam tripathi: 🤪
+29/11/18, 1:39 am - Shobhit: Ok
+29/11/18, 1:39 am - Shobhit: 🤘🏻
+29/11/18, 3:23 pm - PSIT Shivam tripathi: <Media omitted>
+29/11/18, 3:23 pm - PSIT Shivam tripathi: <Media omitted>
+29/11/18, 3:42 pm - Shobhit: 👍
+29/11/18, 5:08 pm - PSIT Shivam tripathi: <Media omitted>
+29/11/18, 8:07 pm - PSIT Shivam tripathi: Viva nahi hua na
+29/11/18, 8:07 pm - PSIT Shivam tripathi: 😝
+29/11/18, 9:08 pm - Shobhit: 😬
+01/12/18, 6:18 pm - Shobhit: Bhai eco ki pdf do
+01/12/18, 6:19 pm - PSIT Shivam tripathi: <Media omitted>
+01/12/18, 6:19 pm - PSIT Shivam tripathi: <Media omitted>
+01/12/18, 6:19 pm - PSIT Shivam tripathi: <Media omitted>
+01/12/18, 6:19 pm - PSIT Shivam tripathi: <Media omitted>
+01/12/18, 6:19 pm - PSIT Shivam tripathi: <Media omitted>
+01/12/18, 6:33 pm - Shobhit: cpy ke nhi h
+01/12/18, 6:34 pm - PSIT Shivam tripathi: 😑
+01/12/18, 6:34 pm - PSIT Shivam tripathi: CT2 tak ke notes hai ?
+01/12/18, 6:34 pm - PSIT Shivam tripathi: copy wale
+01/12/18, 6:34 pm - PSIT Shivam tripathi: bas
+01/12/18, 6:34 pm - Shobhit: oh, ye to bhut ho jayge
+01/12/18, 6:34 pm - PSIT Shivam tripathi: uske aage usne yahi chhapa hai
+01/12/18, 6:34 pm - PSIT Shivam tripathi: Hmm
+02/12/18, 4:11 pm - Shobhit: 🎒<-gift
+02/12/18, 4:11 pm - PSIT Shivam tripathi: 🐼
+02/12/18, 4:12 pm - Shobhit: are ye panda nikal
+02/12/18, 4:21 pm - PSIT Shivam tripathi: 😂
+02/12/18, 10:32 pm - Shobhit: <Media omitted>
+03/12/18, 1:16 am - PSIT Shivam tripathi: 😂😂
+04/12/18, 4:58 pm - Shobhit: Pdf bejdo
+04/12/18, 6:21 pm - PSIT Shivam tripathi: Kaun si ?
+04/12/18, 6:22 pm - Shobhit: Dbms
+04/12/18, 6:22 pm - Shobhit: Subh vali
+04/12/18, 6:22 pm - PSIT Shivam tripathi: Bhej denge
+04/12/18, 6:22 pm - Shobhit: Ok
+04/12/18, 6:23 pm - PSIT Shivam tripathi: Ladki bhejo ?
+04/12/18, 6:26 pm - Shobhit: 🤔
+04/12/18, 6:27 pm - Shobhit: Online lelo
+04/12/18, 6:27 pm - Shobhit: Sale h
+04/12/18, 6:28 pm - PSIT Shivam tripathi: 🐨
+05/12/18, 10:25 pm - PSIT Shivam tripathi: 🌝
+05/12/18, 11:01 pm - Shobhit: 🥪🌮
+05/12/18, 11:04 pm - PSIT Shivam tripathi: Sandwich and Taco
+05/12/18, 11:04 pm - PSIT Shivam tripathi: 🤪
+05/12/18, 11:05 pm - Shobhit: Haa
+05/12/18, 11:05 pm - PSIT Shivam tripathi: PPL padho
+05/12/18, 11:05 pm - Shobhit: <Media omitted>
+05/12/18, 11:05 pm - PSIT Shivam tripathi: Aur haa, aaj 11 se 12 ke beech bahar na nikalna
+05/12/18, 11:06 pm - PSIT Shivam tripathi: 🌝
+05/12/18, 11:06 pm - Shobhit: Kyo
+05/12/18, 11:07 pm - PSIT Shivam tripathi: Kaaran tum jaante ho
+05/12/18, 11:07 pm - PSIT Shivam tripathi: Dhyaan se soncho
+05/12/18, 11:07 pm - Shobhit: 🤣 ha
+05/12/18, 11:07 pm - Shobhit: Tik h.. point note kr liya
+05/12/18, 11:08 pm - PSIT Shivam tripathi: gud
+05/12/18, 11:09 pm - Shobhit: Ppl pdlo bhai
+05/12/18, 11:09 pm - Shobhit: Important h
+05/12/18, 11:09 pm - PSIT Shivam tripathi: Aata hai
+05/12/18, 11:09 pm - PSIT Shivam tripathi: CT2 tak ka
+05/12/18, 11:10 pm - PSIT Shivam tripathi: 🤟
+05/12/18, 11:10 pm - Shobhit: Padhe to us time bi nhi te
+05/12/18, 11:10 pm - Shobhit: 😒
+05/12/18, 11:11 pm - PSIT Shivam tripathi: 🌝
+05/12/18, 11:11 pm - PSIT Shivam tripathi: are
+05/12/18, 11:11 pm - PSIT Shivam tripathi: discuss nahi kiya tha
+05/12/18, 11:11 pm - PSIT Shivam tripathi: ARI, recursion
+05/12/18, 11:11 pm - PSIT Shivam tripathi: Types of function passing
+05/12/18, 11:11 pm - PSIT Shivam tripathi: 2 sawal yahi se phansega
+05/12/18, 11:11 pm - Shobhit: Ha bull gy 😓
+05/12/18, 11:11 pm - PSIT Shivam tripathi: Revise kar lena
+05/12/18, 11:11 pm - PSIT Shivam tripathi: abhi ham sonch rahe
+05/12/18, 11:11 pm - PSIT Shivam tripathi: bas lambda wala samajh lenge
+05/12/18, 11:11 pm - PSIT Shivam tripathi: aadhe ghante
+05/12/18, 11:12 pm - Shobhit: 🤓
+05/12/18, 11:12 pm - PSIT Shivam tripathi: baaki subha revise karenge jo purana tha
+05/12/18, 11:12 pm - PSIT Shivam tripathi: itna bahut hai ppl me
+05/12/18, 11:12 pm - Shobhit: Ha, ye sahi h
+05/12/18, 11:14 pm - Shobhit: Cnn apply kiya h?
+05/12/18, 11:14 pm - PSIT Shivam tripathi: Haan
+05/12/18, 11:14 pm - PSIT Shivam tripathi: MNIST, and FMNIST me
+05/12/18, 11:15 pm - Shobhit: Mnist nhi.. real img pr
+05/12/18, 11:15 pm - Shobhit: Vo to compressed hota h na
+05/12/18, 11:15 pm - PSIT Shivam tripathi: MNIST fake image thodi hai bhai
+05/12/18, 11:15 pm - Shobhit: 🤣
+05/12/18, 11:15 pm - PSIT Shivam tripathi: real image pe cant apply CNN
+05/12/18, 11:15 pm - PSIT Shivam tripathi: need low dimensional image
+05/12/18, 11:15 pm - Shobhit: Ha bhai , vahi problem ho rhi
+05/12/18, 11:16 pm - PSIT Shivam tripathi: Bro
+05/12/18, 11:16 pm - PSIT Shivam tripathi: IMAGENET me
+05/12/18, 11:16 pm - PSIT Shivam tripathi: bhi
+05/12/18, 11:16 pm - PSIT Shivam tripathi: 1000 image train karne me
+05/12/18, 11:16 pm - PSIT Shivam tripathi: 30 min lagta hai
+05/12/18, 11:16 pm - PSIT Shivam tripathi: 256x256 image pe
+05/12/18, 11:16 pm - PSIT Shivam tripathi: ab sonch lo
+05/12/18, 11:16 pm - PSIT Shivam tripathi: aagr
+05/12/18, 11:17 pm - Shobhit: Oh, cloud me syd km lage
+05/12/18, 11:17 pm - PSIT Shivam tripathi: Cloud me agar tumhe GPU allotted hai toh
+05/12/18, 11:17 pm - PSIT Shivam tripathi: CNN me dataset bada chahiye hota ha
+05/12/18, 11:17 pm - PSIT Shivam tripathi: network deep hai
+05/12/18, 11:17 pm - PSIT Shivam tripathi: toh bill baithega tumhara
+05/12/18, 11:17 pm - PSIT Shivam tripathi: jyada train kiya toh
+05/12/18, 11:18 pm - Shobhit: Ha
+05/12/18, 11:18 pm - Shobhit: 😓
+05/12/18, 11:18 pm - Shobhit: Bahut paisa lete h
+05/12/18, 11:18 pm - PSIT Shivam tripathi: 🤪
+05/12/18, 11:18 pm - PSIT Shivam tripathi: Google cloud me ek do bar use kar sakte ho free
+05/12/18, 11:18 pm - PSIT Shivam tripathi: $ 100 credit dete hai
+05/12/18, 11:18 pm - PSIT Shivam tripathi: shayad
+05/12/18, 11:18 pm - Shobhit: Free hona chaiye ye sab collegeg me
+05/12/18, 11:18 pm - PSIT Shivam tripathi: practice ke liye low quality image pe karo train
+05/12/18, 11:18 pm - PSIT Shivam tripathi: laptop me hi
+05/12/18, 11:19 pm - Shobhit: Bhai 4gb ram h
+05/12/18, 11:19 pm - Shobhit: Boll jayga
+05/12/18, 11:19 pm - PSIT Shivam tripathi: 🤣🤣
+05/12/18, 11:19 pm - PSIT Shivam tripathi: Aisi image pe, lagbhag 1000 image train karne pe 10 GB RAM chahiye
+05/12/18, 11:19 pm - Shobhit: Vahi dimensions vali dikt face kr rhe
+05/12/18, 11:19 pm - PSIT Shivam tripathi: Itne parameters ho jayenge
+05/12/18, 11:19 pm - PSIT Shivam tripathi: Hard Disk aur RAM ke beech Swapping shuru ho jayegi
+05/12/18, 11:20 pm - PSIT Shivam tripathi: slow ho jayega bahut
+05/12/18, 11:20 pm - Shobhit: Or mt darao
+05/12/18, 11:20 pm - Shobhit: Aise hi himt nhi ho rhi
+05/12/18, 11:20 pm - PSIT Shivam tripathi: slow ho ga, lekin chal jayega
+05/12/18, 11:21 pm - PSIT Shivam tripathi: Tensorflow use karo
+05/12/18, 11:21 pm - PSIT Shivam tripathi: 100 instance run karo ek bar me
+05/12/18, 11:21 pm - Shobhit: 10 img pe train kr le kya
+05/12/18, 11:21 pm - PSIT Shivam tripathi: ruk ruk ke chala sakte usme
+05/12/18, 11:21 pm - PSIT Shivam tripathi: checkpoint banta hai
+05/12/18, 11:21 pm - PSIT Shivam tripathi: toh parameters voh save kar leta hai temp file me
+05/12/18, 11:21 pm - Shobhit: Ye kaise krte h
+05/12/18, 11:21 pm - PSIT Shivam tripathi: yeh toh pagal panti hai
+05/12/18, 11:22 pm - Shobhit: 🤣
+05/12/18, 11:22 pm - PSIT Shivam tripathi: bata rah
+05/12/18, 11:22 pm - Shobhit: Ok
+05/12/18, 11:23 pm - PSIT Shivam tripathi: <Media omitted>
+05/12/18, 11:24 pm - Shobhit: Retrive kaise kare ge
+05/12/18, 11:24 pm - Shobhit: Agle run me
+05/12/18, 11:24 pm - PSIT Shivam tripathi: <Media omitted>
+05/12/18, 11:25 pm - Shobhit: Thanks
+05/12/18, 11:25 pm - PSIT Shivam tripathi: Yeh ek variable retrieve karta bas
+05/12/18, 11:25 pm - Shobhit: Try krte h
+05/12/18, 11:25 pm - PSIT Shivam tripathi: Tf ka documentation dekho
+05/12/18, 11:25 pm - Shobhit: 😒🤔
+05/12/18, 11:26 pm - Shobhit: Ok check krte h
+05/12/18, 11:27 pm - PSIT Shivam tripathi: https://www.tensorflow.org/guide/saved_model
+05/12/18, 11:27 pm - PSIT Shivam tripathi: lol
+06/12/18, 12:49 am - PSIT Shivam tripathi: 🐼
+06/12/18, 12:49 am - PSIT Shivam tripathi: Padh liya ppl ?
+06/12/18, 12:49 am - Shobhit: Nhi
+06/12/18, 12:49 am - PSIT Shivam tripathi: Toh Padho
+06/12/18, 12:49 am - PSIT Shivam tripathi: 🌝
+06/12/18, 12:50 am - Shobhit: Ha
+06/12/18, 12:50 am - Shobhit: Ja rhe
+06/12/18, 12:50 am - PSIT Shivam tripathi: Are nahi
+06/12/18, 12:50 am - PSIT Shivam tripathi: Jao nahi
+06/12/18, 12:50 am - PSIT Shivam tripathi: Thand hai
+06/12/18, 12:50 am - PSIT Shivam tripathi: Ghar pe hi padh lo
+06/12/18, 12:50 am - PSIT Shivam tripathi: 🤷🏼‍♂
+06/12/18, 12:50 am - Shobhit: 😓
+06/12/18, 12:50 am - PSIT Shivam tripathi: 🐨
+06/12/18, 12:51 am - Shobhit: 🧟‍♂ padlo
+06/12/18, 12:51 am - PSIT Shivam tripathi: Ok
+06/12/18, 5:37 pm - Shobhit: <Media omitted>
+06/12/18, 5:37 pm - Shobhit: ?
+06/12/18, 6:49 pm - PSIT Shivam tripathi: 🤔🤔
+06/12/18, 6:49 pm - Shobhit: Batao
+06/12/18, 6:50 pm - Shobhit: Ye tf.mul or tf.multiply me advanced cmd kon si h
+06/12/18, 6:50 pm - PSIT Shivam tripathi: So ke uthe hai
+06/12/18, 6:50 pm - PSIT Shivam tripathi: Abhi hame apna naam yaad nahi hai
+06/12/18, 6:50 pm - PSIT Shivam tripathi: 😢
+06/12/18, 6:50 pm - PSIT Shivam tripathi: Tum yeh kya punchh rahe ho
+06/12/18, 6:50 pm - Shobhit: Are🧟‍♂
+06/12/18, 6:53 pm - PSIT Shivam tripathi: Advanced matlab ?
+06/12/18, 6:53 pm - PSIT Shivam tripathi: Maine "tf.matmul" use kiya hai
+06/12/18, 6:53 pm - PSIT Shivam tripathi: tf.mul ka suna nahi
+06/12/18, 6:54 pm - PSIT Shivam tripathi: tf.multiply dekha abhi net pe toh usme element wise multiplication hota hai
+06/12/18, 6:54 pm - Shobhit: Dot?
+06/12/18, 6:54 pm - Shobhit: Or array?
+06/12/18, 6:55 pm - PSIT Shivam tripathi: ?
+06/12/18, 6:55 pm - PSIT Shivam tripathi: Isme tensor hota hai
+06/12/18, 6:55 pm - PSIT Shivam tripathi: Kisi bhi dimension ka le sakte ho
+06/12/18, 6:55 pm - Shobhit: Ok
+06/12/18, 6:56 pm - PSIT Shivam tripathi: 🐨
+06/12/18, 6:56 pm - Shobhit: 🌯🍔
+06/12/18, 10:31 pm - Shobhit: html ki pdf bej do
+06/12/18, 10:31 pm - Shobhit: bhai complete vali
+06/12/18, 10:35 pm - PSIT Shivam tripathi: .
+06/12/18, 10:35 pm - PSIT Shivam tripathi: .
+06/12/18, 10:35 pm - PSIT Shivam tripathi: .
+06/12/18, 10:35 pm - PSIT Shivam tripathi: 2 pdf hai
+06/12/18, 10:35 pm - Shobhit: ok
+06/12/18, 10:36 pm - Shobhit: ajax nhi likha h kya
+06/12/18, 10:49 pm - PSIT Shivam tripathi: Wednesday ko li thi PDFs
+06/12/18, 10:49 pm - PSIT Shivam tripathi: *Tuesday
+06/12/18, 10:49 pm - Shobhit: ok
+06/12/18, 10:49 pm - PSIT Shivam tripathi: 70 lao tum
+06/12/18, 10:49 pm - Shobhit: kyo bhai
+06/12/18, 10:49 pm - PSIT Shivam tripathi: Ajax hai toh
+06/12/18, 10:49 pm - Shobhit: kya hua
+06/12/18, 10:49 pm - PSIT Shivam tripathi: Last 3 pages
+06/12/18, 10:50 pm - Shobhit: ohk
+06/12/18, 10:50 pm - Shobhit: start nhi kiya ky?
+06/12/18, 10:50 pm - PSIT Shivam tripathi: No
+06/12/18, 10:50 pm - Shobhit: kr lo
+06/12/18, 10:50 pm - PSIT Shivam tripathi: Kyu ?
+06/12/18, 10:50 pm - Shobhit: future ise hi h
+06/12/18, 10:50 pm - PSIT Shivam tripathi: 😑
+06/12/18, 10:51 pm - Shobhit: 🙄😒
+06/12/18, 10:54 pm - PSIT Shivam tripathi: This message was deleted
+07/12/18, 6:17 am - PSIT Shivam tripathi: 💯/💯
+07/12/18, 8:14 am - Shobhit: Nhi
+07/12/18, 8:14 am - Shobhit: Subh hi kiya ta start
+07/12/18, 8:14 am - Shobhit: 🙄
+07/12/18, 8:14 am - Shobhit: <Media omitted>
+07/12/18, 8:16 am - PSIT Shivam tripathi: 🤔
+07/12/18, 8:16 am - PSIT Shivam tripathi: 🆒
+07/12/18, 8:23 am - Shobhit: Ha
+08/12/18, 1:10 am - PSIT Shivam tripathi: Padhai karo, बातें ना छौंको
+08/12/18, 1:12 am - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 1:12 am - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 7:42 am - Shobhit: <Media omitted>
+08/12/18, 10:37 am - Shobhit: december dakha?
+08/12/18, 12:23 pm - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 1:26 pm - Shobhit: Ye kya h?
+08/12/18, 1:26 pm - Shobhit: Calendar?
+08/12/18, 1:47 pm - PSIT Shivam tripathi: Yeh december hai
+08/12/18, 2:15 pm - Shobhit: 😒
+08/12/18, 2:15 pm - Shobhit: Ha
+08/12/18, 2:15 pm - PSIT Shivam tripathi: Galat toh bole nahi bhai
+08/12/18, 2:16 pm - PSIT Shivam tripathi: Grammatically correct hai
+08/12/18, 2:16 pm - PSIT Shivam tripathi: Bhale hi semantically galat ho
+08/12/18, 2:16 pm - PSIT Shivam tripathi: 🤣
+08/12/18, 2:16 pm - Shobhit: <Media omitted>
+08/12/18, 2:17 pm - Shobhit: Ye sab likhna band karo
+08/12/18, 2:17 pm - Shobhit: Or questions sol karo
+08/12/18, 2:17 pm - Shobhit: batao admit nikal gy?
+08/12/18, 2:18 pm - PSIT Shivam tripathi: HAan
+08/12/18, 2:18 pm - Shobhit: Jiska nhi aa rha? Vo
+08/12/18, 2:18 pm - PSIT Shivam tripathi: Voh apna jaane
+08/12/18, 2:18 pm - PSIT Shivam tripathi: Ham kya bataye uska
+08/12/18, 2:18 pm - PSIT Shivam tripathi: ham thodi aktu ke vc hai
+08/12/18, 2:18 pm - PSIT Shivam tripathi: 😑
+08/12/18, 2:18 pm - Shobhit: Banna le kya html se
+08/12/18, 2:18 pm - PSIT Shivam tripathi: tum bhi yar kaisi batein karte ho
+08/12/18, 2:18 pm - Shobhit: <Media omitted>
+08/12/18, 2:18 pm - PSIT Shivam tripathi: haan yeh kar lo
+08/12/18, 2:19 pm - PSIT Shivam tripathi: webtech master
+08/12/18, 2:19 pm - PSIT Shivam tripathi: yeeeeeeee
+08/12/18, 2:19 pm - PSIT Shivam tripathi: 🕺🏻
+08/12/18, 2:19 pm - Shobhit: <Media omitted>
+08/12/18, 2:19 pm - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 2:20 pm - Shobhit: 3 dakha?
+08/12/18, 2:25 pm - PSIT Shivam tripathi: 8 dekh rahe
+08/12/18, 2:25 pm - Shobhit: Are 3 karo
+08/12/18, 2:25 pm - PSIT Shivam tripathi: Chai bana rahe abhi
+08/12/18, 2:25 pm - PSIT Shivam tripathi: Chai pi le pehle
+08/12/18, 2:25 pm - Shobhit: Ok
+08/12/18, 2:25 pm - Shobhit: <Media omitted>
+08/12/18, 2:25 pm - Shobhit: Ye lo
+08/12/18, 3:57 pm - Shobhit: kiya
+08/12/18, 6:41 pm - Shobhit: <Media omitted>
+08/12/18, 7:15 pm - PSIT Shivam tripathi: 🤣🤣
+08/12/18, 8:48 pm - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 8:48 pm - PSIT Shivam tripathi: Webtech complete
+08/12/18, 8:48 pm - Shobhit: 👍🤘
+08/12/18, 8:52 pm - PSIT Shivam tripathi: <Media omitted>
+08/12/18, 8:52 pm - PSIT Shivam tripathi: In DBMS, Page 81-96 are written in right->left order
+08/12/18, 8:53 pm - Shobhit: ok😊
+08/12/18, 8:53 pm - PSIT Shivam tripathi: 🤠
+09/12/18, 6:41 pm - Shobhit: https://www.youtube.com/watch?v=zMVpwc1nO2k&feature=youtu.be
+09/12/18, 7:24 pm - PSIT Shivam tripathi: 🐮
+10/12/18, 6:40 am - PSIT Shivam tripathi: Aur WebTech master
+10/12/18, 6:40 am - PSIT Shivam tripathi: Gud morning
+10/12/18, 7:38 am - Shobhit: Bahut kaldi jagg gay
+10/12/18, 7:38 am - Shobhit: 🤔
+10/12/18, 7:39 am - PSIT Shivam tripathi: Kaldi ?
+10/12/18, 7:39 am - PSIT Shivam tripathi: JSP se msg bhej rahe kya
+10/12/18, 7:39 am - Shobhit: Jaldi*
+10/12/18, 7:39 am - PSIT Shivam tripathi: Yeh * kya hai ?
+10/12/18, 7:39 am - PSIT Shivam tripathi: Select Query hai kya
+10/12/18, 7:40 am - Shobhit: 😨
+10/12/18, 7:40 am - Shobhit: Bhai bimar hogy h
+10/12/18, 7:40 am - PSIT Shivam tripathi: HAan
+10/12/18, 7:40 am - PSIT Shivam tripathi: Pata chala
+10/12/18, 7:40 am - Shobhit: Hmm
+10/12/18, 7:40 am - PSIT Shivam tripathi: Aur pehen lo sweater
+10/12/18, 7:40 am - PSIT Shivam tripathi: Hamari tarah half shirt me ghooma kari
+10/12/18, 7:40 am - Shobhit: 3 layer
+10/12/18, 7:40 am - PSIT Shivam tripathi: *karo
+10/12/18, 7:41 am - Shobhit: 😃 ab toda tik h
+10/12/18, 7:41 am - PSIT Shivam tripathi: half shirt pehenne se thand nahi lagti
+10/12/18, 7:41 am - Shobhit: 🙄
+10/12/18, 7:41 am - PSIT Shivam tripathi: thand jo hai, aadmi ka confidence dekh ke bhaag jati hai
+10/12/18, 7:41 am - Shobhit: 🤓 haa
+10/12/18, 7:41 am - PSIT Shivam tripathi: 💪🏻
+10/12/18, 7:42 am - Shobhit: Soye nhi kya aaj..
+10/12/18, 7:42 am - Shobhit: Or utt gy
+10/12/18, 7:42 am - Shobhit: Iiti jaldi
+10/12/18, 7:42 am - PSIT Shivam tripathi: So liye
+10/12/18, 7:42 am - Shobhit: Hmm to 10 hr se soo rhe te
+10/12/18, 7:42 am - Shobhit: 😅
+10/12/18, 7:43 am - PSIT Shivam tripathi: Kal sham 4-8
+Phir raat me 12 se 3
+10/12/18, 7:43 am - PSIT Shivam tripathi: Ab jagenge
+10/12/18, 7:43 am - Shobhit: Acha installment me soye ho
+10/12/18, 7:43 am - PSIT Shivam tripathi: 😂😂😂
+10/12/18, 7:43 am - PSIT Shivam tripathi: Haan
+10/12/18, 7:43 am - Shobhit: 🤘
+10/12/18, 7:43 am - PSIT Shivam tripathi: Jab ati hai tab so jate
+10/12/18, 7:43 am - PSIT Shivam tripathi: Baki jagte rehte
+10/12/18, 7:43 am - Shobhit: 🤣👍
+19/12/18, 9:43 am - Shobhit: Nlp kiya h?
+19/12/18, 9:43 am - PSIT Shivam tripathi: Vahi kar raha abhi
+19/12/18, 9:43 am - PSIT Shivam tripathi: 😅😅😅
+19/12/18, 10:13 am - Shobhit: Ok
+19/12/18, 7:51 pm - Shobhit: : This photo of Shanghai is taken by Quantum Satellite with 24.9 billion pixels of quantum technology. It's worth seeing! You can zoom in, zoom in and zoom in when you look at it. You can clearly see every gesture, even face of pedestrians on the road. You can see the license plate. Photos can also be moved up and down, left and right. It is said that this is the latest development of China's military science and technology achievements, hidden, indeed suffered harm!!! It can also be rotated. Press'+'to zoom in and'-' to zoom in. Left and right rotation. It's too clear!
+ http://sh-meet.bigpixel.cn/?from=groupmessage&isappinstalled=0
+19/12/18, 7:51 pm - PSIT Shivam tripathi: Han dekha hai purana hai -_-
+19/12/18, 7:51 pm - Shobhit: 😒
+19/12/18, 7:51 pm - PSIT Shivam tripathi: Hihi
+19/12/18, 7:51 pm - PSIT Shivam tripathi: Hurrr
+19/12/18, 7:52 pm - Shobhit: eco padho
+19/12/18, 7:52 pm - PSIT Shivam tripathi: Hurrrr
+19/12/18, 7:52 pm - Shobhit: 🎃
+19/12/18, 7:52 pm - PSIT Shivam tripathi: ☹
+19/12/18, 7:53 pm - Shobhit: kiya train
+19/12/18, 7:53 pm - PSIT Shivam tripathi: ल स ट म
+19/12/18, 7:54 pm - Shobhit: kya
+19/12/18, 7:54 pm - PSIT Shivam tripathi: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+19/12/18, 7:55 pm - Shobhit: theory hi kr rhe kya
+19/12/18, 7:58 pm - PSIT Shivam tripathi: ?
+19/12/18, 7:58 pm - PSIT Shivam tripathi: Internal working me interested hai
+19/12/18, 7:58 pm - Shobhit: ok
+19/12/18, 8:10 pm - Shobhit: <Media omitted>
+19/12/18, 8:10 pm - PSIT Shivam tripathi: ☹
+19/12/18, 8:10 pm - Shobhit: Kya hua
+20/12/18, 8:32 am - Shobhit: 😊👍
+20/12/18, 8:49 am - PSIT Shivam tripathi: 🤔
+21/12/18, 9:43 am - PSIT Shivam tripathi: kaggle.com
+21/12/18, 9:43 am - PSIT Shivam tripathi: pe dekho
+21/12/18, 9:43 am - PSIT Shivam tripathi: dataset
+21/12/18, 9:45 am - PSIT Shivam tripathi: https://www.kaggle.com/rahulvks/text-classification-chatbot/data
+21/12/18, 9:46 am - PSIT Shivam tripathi: https://www.kaggle.com/eibriel/rdany-conversations
+21/12/18, 9:47 am - PSIT Shivam tripathi: https://www.kaggle.com/nltkdata/chat-80
+21/12/18, 9:47 am - PSIT Shivam tripathi: https://www.kaggle.com/sarthaknautiyal/whatsappsample
+21/12/18, 9:47 am - PSIT Shivam tripathi: Yeh launda toh mazaak kar raha hai
+21/12/18, 10:04 am - Shobhit: 👍
+21/12/18, 10:04 am - Shobhit: Bahut badiya
+21/12/18, 10:09 am - Shobhit: Stemming ke liye kon si lib use ki?
+21/12/18, 10:11 am - PSIT Shivam tripathi: jstl/core
+21/12/18, 10:13 am - Shobhit: Jstl/function hona chaiye🤔
